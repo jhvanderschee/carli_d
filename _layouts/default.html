@@ -1,0 +1,242 @@
+{% include header.html %}
+
+<div class="section" style="padding-top: 120px;">
+    <strong>Duurzaam plan?</strong><br />
+    Heldere communicatie-<br />
+    middelen helpen om het<br />
+    realiteit te laten worden.
+    <div class="img" style="right: 30px; width: 150px; bottom: 50px;"><img src="/img/world.jpg" /></div>
+    <div class="img smaller" style="text-align: center; color: #E94927; right: 30px; width: 50px; bottom: 10px; cursor: pointer;" onclick="window.open('tel:0031618518928');"><img src="/img/phone.svg" />Bel direct</div>
+</div>
+
+<div class="section yellow">
+    <p>Je hebt een innovatieve verf die
+    volledig circulair is. Een eiland dat je
+    energieneutraal wilt maken. Of een
+    gebied dat je wilt voorzien van een
+    warmtenet.</p>
+    <p>Kortom, een plan dat de wereld gaat
+    verbeteren, daar ben je van overtuigd.</p>
+    <p><em>Maar overtuigen je
+    communicatiemiddelen ook?<br />
+    Zetten ze mensen in beweging?</em></p>
+</div>
+
+<div class="section carousel">
+    <div class="navigation">
+        <div>
+            <strong>6 valkuilen</strong>
+        </div>
+        <div>{% for item in site.traps %}<div class="dot"></div>{% endfor %}</div>
+    </div>
+    <div class="slides_container" style="width: {{ site.traps | size | times: 400 }}px">
+        {% for item in site.traps %}
+            <div class="slide" style="background: white url({{ item.image }}) {{ item.image_position }} no-repeat;">
+                <div style="padding-left: {{ item.text_left }}px; padding-top: {{ item.text_top }}px; padding-right: {{ item.text_right }}px;">
+                    <strong>{{ item.title }}</strong><br />
+                    {{ item.content }}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+    
+<div class="section yellow">
+    <strong>CONSEQUENTIE.</strong><br />
+    Je project behaalt niet zijn potentiële
+    resultaat, omdat je plannen slecht of
+    met weerstand worden uitgevoerd. Dit
+    kost je veel tijd, frustratie en geld.
+</div>
+
+<div class="section carousel">
+    <div class="navigation">
+        <div>
+            <strong>OPLOSSINGEN deel 1 van 2</strong><br />
+            De kracht van verbeelding inzetten.
+            Het delen van gevisualiseerde plannen
+            werkt vele malen effectiever dan erover
+            te vertellen of schrijven, want...
+        </div>
+        <div>{% for item in site.solutions %}<div class="dot"></div>{% endfor %}</div>
+    </div>
+    <div class="slides_container" style="width: {{ site.traps | size | times: 400 }}px">
+        {% for item in site.solutions %}
+            <div class="slide">
+                <div class="img" style="right: 30px; width: 150px; bottom: 50px;"><img src="/img/logo.svg" /></div>
+                <div style="padding-left: {{ item.left }}px; padding-top: {{ item.top }}px; padding-right: {{ item.right }}px;">
+                    <strong>{{ item.title }}</strong><br />
+                    {{ item.content }}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+
+<div class="section yellow">
+    <strong>OPLOSSING. deel 2 van 2</strong><br />
+    De content overtuigend maken.
+    Wanneer je de doelgroep echt raakt,
+    zorgt dat voor intrinsieke motivatie.
+    Precies wat je wilt. Daarom worden
+    bewezen methoden toegepast op de
+    content.
+</div>
+
+<div class="section green">
+    RESULTAAT.<br />
+    Je communicatiemiddelen zijn helder
+    en overtuigend, en sluiten aan op de
+    beperkte tijd die je doelgroep heeft en
+    neemt. Hierdoor wordt je plan sneller
+    realiteit.
+</div>
+
+<div id="communicatiemiddelen" class="section">
+    <p><strong>COMMUNICATIEMIDDELEN.<br />
+    [afhankelijk van doel en doelgroep]</strong></p>
+
+    <div class="imagesleft">
+
+        <div class="img"><img src="/img/phone.svg" /></div>
+        <p>
+        <strong>Praatplaat.</strong><br />
+        Een praatplaat legt de
+        basis voor constructieve
+        discussies.</p>
+
+        <div class="img"><img src="/img/phone.svg" /></div>
+        <p>
+        <strong>Herkenbare stijl.</strong><br />
+        Een consistente stijl met
+        duidelijke afzender maakt
+        projecten extra herkenbaar.</p>
+
+        <div class="img"><img src="/img/phone.svg" /></div>
+        <p>
+        <strong>Animatie.</strong><br />
+        Animaties zijn ideaal
+        om complexe zaken in
+        stappen uit te leggen.</p>
+    </div>
+    <br />
+    <a href="#" class="button">Zie meer opties >></a>
+</div>
+
+
+<div id="portfolio" class="section gray carousel">
+    <div class="navigation">
+        <div>
+            <strong>PORTFOLIO.</strong><br />
+            Duurzame projecten waar met veel
+            plezier ontwerpen voor zijn gemaakt.
+        </div>
+        <div>{% for item in site.solutions %}<div class="dot"></div>{% endfor %}</div>
+    </div>
+    <div class="slides_container" style="width: {{ site.traps | size | times: 400 }}px">
+        {% for item in site.solutions %}
+            <div class="slide">
+                <div style="padding-left: {{ item.left }}px; padding-top: {{ item.top }}px; padding-right: {{ item.right }}px;">
+                    <strong>{{ item.title }}</strong><br />
+                    {{ item.content }}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+
+
+<div class="section">
+    <p><strong>REVIEWS.</strong></p>
+
+    <div class="imagesleft">
+
+        <div class="img">
+            <img src="/img/grumpycat.jpg" />
+            Jacqueline van Druten<br />
+            Communicatieadviseur Duurzaamheid
+        </div>
+        <p class="small">
+        ‘Carli is super creatief en weet daar
+        als geen ander de juiste inhoud aan
+        te verbinden. Zij doet dit door op
+        een prettige manier de juiste
+        vragen te stellen. Zo komt ze tot de
+        essentie. Carli werkt nauw samen
+        met een enorm netwerk van ge-
+        kwalificeerde partijen. Mede daar-
+        door lukt het haar om ideeën zeer
+        snel om te zetten naar concrete
+        uitwerkingen. En dat met een
+        prachtig resultaat én in een heel
+        fijne samenwerking!’</p>
+
+        <div class="img">
+            <img src="/img/grumpycat.jpg" />
+            Niels van den Hoek<br />
+            Founder SweepSmart
+        </div>
+        <p class="small">
+        ‘Voor ons project konden we goed
+        allerlei informatie over ons bedrijf
+        met Carli delen, zonder dat we een
+        duidelijke briefing van A tot Z
+        hadden. Ze luistert goed naar alle
+        input en door de juiste vragen te
+        stellen kregen we meteen het idee
+        dat het aankwam en dat ze er iets
+        mee kon. We zijn erg blij met het
+        eindresultaat en de vaart waarmee
+        het project verliep.’</p>
+    </div>
+</div>
+
+<div id="blogs" class="section green">
+        BLOGS.
+        
+        {% for item in site.posts %}<a href="#" class="bloglink" style="background: white url({{ item.image }}) left center / contain no-repeat;">{{ item.content | strip_html }}</a>{% endfor %}
+        <br />
+        <a href="#" class="button">Zie meer blogs >></a>
+</div>
+
+
+<div class="section gray">
+        <p><strong>CARLI VAN ‘T SCHIP.</strong><br />
+        Jouw frisse plannenverbeelder.</p>
+
+        <div class="imagesleft">
+            <div class="img">
+                <img src="/img/grumpycat.jpg" />
+            </div>
+            <p>Als iets niet goed (meer)
+            werkt, moet er een
+            oplossing komen. Dit is
+            hoe ik in het leven sta en
+            wat me aantrekt in
+            innovatieve plannen.</p>
+            <p>Het belang van innovatie
+            en de vaak complexe
+            materie maken het voor
+            mij uitdagend om tot een
+            helder en pakkend verhaal
+            te komen.</p>
+            <p>Samen maken we jouw
+            communicatiemiddelen
+            helder en overtuigend.</p>
+        </div>
+</div>
+
+<div id="contact" class="section">
+
+    <a href="#" class="button large">info@frisseplannen.nl</a>
+    <a href="#" class="button large">Bel: 06 47 218 000</a>
+    <div style="text-align: center;">
+        <img src="/img/logo.svg" class="rotating" style="width: 80px; margin: 20px 15px 15px; cursor: pointer;" onclick="window.location.href='/';" />
+        <p class="smaller"><strong>Heldere communicatiemiddelen die jouw groene ambities waarmaken</strong><br />
+        <br />
+        <span style="color: gray;">Onderdeel van Carli-d. Doctor Jan van Breemenstraat 1, Amsterdam</span></p>
+    </div>
+</div>
+{% include footer.html %}

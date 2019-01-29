@@ -1,0 +1,57 @@
+/* abel-regular - latin */
+@font-face {
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/abel-v8-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Abel Regular'), local('Abel-Regular'),
+         url('/fonts/abel-v8-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/fonts/abel-v8-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/fonts/abel-v8-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('/fonts/abel-v8-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/fonts/abel-v8-latin-regular.svg#Abel') format('svg'); /* Legacy iOS */
+}
+
+  
+
+* {padding: 0; margin: 0;}
+body {background: #eee; font-family: 'Abel'; font-size: 16px; color: black; line-height: 1.4;}
+#top {background: white; width: 400px; margin: 0 auto; position: relative;}
+.header {position: absolute; top: 0; width: 400px; margin: 0 auto; height: 60px; z-index: 2; background: white;}
+.section {position: relative; padding: 25px 30px 30px; font-size: 23px; line-height: 1.4;}
+.section .img {position: absolute; z-index: 0;}
+.section .img img {width: 100%; display: block;}
+.section.yellow {background: #f1d932;}
+.section.green {background: #3eb73c; color: white;}
+.section.gray {background: #d6d8d5;}
+.logo, #menutoggle {position: absolute; top: 15px; left: 30px; width: 70px;}
+#menutoggle {cursor: pointer; left: auto; right: 30px; width: 30px; top: 17px;}
+@keyframes flyin {from{margin-top: -60px;}to{margin-top: 0px;};}
+.menuopen .header, .scrolled .header {position: fixed; box-shadow: 0px 0px 5px rgba(0,0,0,0.25);}
+.scrolled .header {animation-name: flyin; animation-duration: 300ms; animation-timing-function: ease-out;}
+.menuopen .logo, .scrolled .logo {width: 40px; top: 8px;}
+.scrolled #menutoggle {width: 30px;}
+.menu {display: none; background: #E94927; position: absolute; z-index: 3; width: 100%; padding: 10px 0; margin-top: 60px; opacity: 0.9;}
+.menu li {list-style: none; text-align: center;}
+.menu a {color: white; text-decoration: none; text-transform: uppercase; display: block; padding: 5px 15px; font-size: 20px;}
+strong {color: #3eb73c; font-weight: normal;}
+em {background: white; font-style: normal}
+p {margin-bottom: 1.4em;}
+p:last-child {margin-bottom: 0;}
+.carousel {overflow: hidden; padding: 0;}
+.carousel .navigation {position: absolute; padding: 25px 30px;}
+.carousel .navigation .dot {float: left; background: transparent; border: 1px solid black; width: 10px; height: 10px; margin: 15px 7px 0 0; border-radius: 15px;}
+.carousel .navigation .dot:first-child {background: black;}
+.slides_container {overflow: auto;}
+.slide {width: 340px; height: 400px; float: left; padding: 25px 30px;}
+.imagesleft {margin-left: 120px;}
+.imagesleft .img {position: absolute; margin-left: -120px; width: 100px; font-size: 12px; line-height: 1.2;}
+.imagesleft .img img {width: 100%;}
+.small {font-size: 16px; line-height: 1.2;}
+.smaller {font-size: 12px; line-height: 1.2;}
+.button {background: #E94927; display: inline-block; padding: 0 5px 1px; color: white; text-decoration: none; text-transform: uppercase; font-size: 16px; transition: all 0.3s ease-in-out;}
+.button:hover {background: #f1d932; color: black;}
+.button.large {display: block; text-align: center; margin-bottom: 20px; padding: 8px 15px; font-size: 20px; text-transform: none;}
+.bloglink {background: white; font-size: 20px; line-height: 1.2; display: block; text-decoration: none; color: black; padding: 8px 10px 10px 90px; margin-top: 15px;}
+@keyframes spin {from{transform: rotate(0deg);}to{transform: rotate(360deg);}}
+.rotating:hover {animation-name: spin; animation-duration: 300ms; animation-iteration-count: infinite; animation-timing-function: linear;}

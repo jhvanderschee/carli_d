@@ -1,0 +1,29 @@
+title: Frisse Plannen
+url: 
+description: 
+
+facebook_url: https://www.facebook.com/jhvanderschee
+twitter_url: https://twitter.com/jhvanderschee
+linkedin_url: https://www.linkedin.com/in/joost-van-der-schee-4b26682
+googleplus_url: https://plus.google.com/u/0/+JoostvanderSchee
+pinterest_url:
+instagram_url:
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Collections
+collections:
+  traps:
+    output: false
+  solutions:
+    output: false
+  projects:
+    output: true
+    permalink: /portfolio/:path/  

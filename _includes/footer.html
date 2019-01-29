@@ -1,0 +1,49 @@
+        </div>
+
+        <script>
+            document.addEventListener("DOMContentLoaded", documentReady);
+            window.addEventListener("resize", resizeAll);
+            window.addEventListener("scroll",windowScroll);
+
+            function scrollPageTo(event) {
+                event.preventDefault(); 
+                var id = event.target.getAttribute('href').replace('#','');
+                element = document.getElementById(id);
+                window.scroll({
+                    behavior: 'smooth',
+                    left: 0,
+                    top: element.offsetTop - 60
+                });
+                menuToggle();
+            }
+            function resizeAll() {
+
+            }
+            function documentReady() {
+
+            }
+            function windowScroll() {
+                var top = window.pageYOffset || document.documentElement.scrollTop;
+                if (top > 100) {
+	                document.body.classList.add('scrolled');
+                } else {
+	                document.body.classList.remove('scrolled');
+                }
+            }
+            function menuToggle() {
+                var img = document.getElementById('menutoggle');
+                var menu = img.nextElementSibling;
+                if(menu.style.display!='block') {
+                    img.setAttribute('src','/img/close.svg');
+                    menu.style.display='block';
+                    document.body.classList.add('menuopen');
+                } else {
+                    img.setAttribute('src','/img/menu.svg');
+                    menu.style.display='none';
+                    var top = window.pageYOffset || document.documentElement.scrollTop;
+                    document.body.classList.remove('menuopen');
+                }
+            }
+        </script>
+    </body>
+</html>

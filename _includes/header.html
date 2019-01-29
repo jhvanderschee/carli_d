@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=400">
+
+        <title>{% if page.title and page.title != 'Home' %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+        {% assign pagecontent_description = page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
+        <meta name="description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}">
+        
+        <link rel="shortcut icon" type="image/png" href="/img/icon-196x196.png">
+        <link rel="shortcut icon" sizes="196x196" href="/img/icon-196x196.png">
+        <link rel="apple-touch-icon" href="/img/icon-196x196.png">
+
+        <!-- Facebook and Twitter integration -->
+        <meta property="og:title" content="{{ page.title }}"/>
+        {% if page.image %}<meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}"/>{% endif %}
+        <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}"/>
+        <meta property="og:type" content="article">
+        <meta property="og:site_name" content="{{ site.title }}"/>
+        <meta property="og:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}"/>
+        
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="{{ site.twitter_url }}">
+        <meta name="twitter:title" content="{{ page.title }}" />
+        {% if page.image %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />{% endif %}
+        <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+        <meta name="twitter:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}" />
+
+        <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+        <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+        
+    </head>
+    <body class="{{ page.layout }}">
+        <div id="top">
+            <div class="header">
+                <img src="/img/menu.svg" id="menutoggle" onclick="menuToggle();" />
+                <div class="menu">
+                    <ul>
+                        <li><a href="#top" onclick="scrollPageTo(event);">Home</a></li>
+                        <li><a href="#communicatiemiddelen" onclick="scrollPageTo(event);">Communicatiemiddelen</a></li>
+                        <li><a href="#portfolio" onclick="scrollPageTo(event);">Portfolio</a></li>
+                        <li><a href="#blogs" onclick="scrollPageTo(event);">Blogs</a></li>
+                        <li><a href="#contact" onclick="scrollPageTo(event);">Contact</a></li>
+                    </ul>
+                </div>
+                <img src="/img/logo.svg" class="logo rotating" style="cursor: pointer;" onclick="window.location.href='/';" />
+            </div>
