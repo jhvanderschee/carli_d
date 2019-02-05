@@ -21,7 +21,7 @@ img {max-width: 100%;}
 .section .img {position: absolute; z-index: 0;}
 .section .img img {width: 100%; display: block;}
 .section.lightgray, .slide.lightgray {background-color: #ecebe8!important;}
-.section.lightgreen, .slide.lightgreen {background:-color #cdedca!important;}
+.section.lightgreen, .slide.lightgreen {background-color: #cdedca!important;}
 .section.yellow, .slide.yellow {background-color: #f1d932!important;}
 .section.green, .slide.green {background-color: #3eb73c!important; color: white;}
 .section.gray, .slide.gray {background-color: #d6d8d5!important;}
