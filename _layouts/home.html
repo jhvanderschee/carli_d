@@ -194,7 +194,6 @@
 
 <div id="blogs" class="section green">
         BLOGS.
-        
         {% for item in site.posts %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.content | strip_html }}</a>{% endfor %}
         <br />
         <a href="blogs" class="button">Zie meer blogs >></a>

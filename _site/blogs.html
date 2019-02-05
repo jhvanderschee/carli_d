@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=400">
+
+        <title>Blogs | Frisse Plannen</title>
+        
+        <meta name="description" content="">
+        
+        <link rel="shortcut icon" type="image/png" href="/img/icon-196x196.png">
+        <link rel="shortcut icon" sizes="196x196" href="/img/icon-196x196.png">
+        <link rel="apple-touch-icon" href="/img/icon-196x196.png">
+
+        <!-- Facebook and Twitter integration -->
+        <meta property="og:title" content="Blogs"/>
+        
+        <meta property="og:url" content="http://localhost:4000/blogs.html"/>
+        <meta property="og:type" content="article">
+        <meta property="og:site_name" content="Frisse Plannen"/>
+        <meta property="og:description" content=""/>
+        
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="https://twitter.com/jhvanderschee">
+        <meta name="twitter:title" content="Blogs" />
+        
+        <meta name="twitter:url" content="http://localhost:4000/blogs.html" />
+        <meta name="twitter:description" content="" />
+
+        <link rel="canonical" href="http://localhost:4000/blogs.html">
+        <link rel="stylesheet" href="/css/style.css">
+        
+    </head>
+    <body class="blogs">
+        <div id="top">
+            <div class="header">
+                <img src="/img/menu.svg" id="menutoggle" onclick="menuToggle();" />
+                <div class="menu">
+                    <ul>
+                        <li><a href="" onclick="scrollPageTo(event);">Home</a></li>
+                        <li><a href="#communicatiemiddelen" onclick="scrollPageTo(event);">Communicatiemiddelen</a></li>
+                        <li><a href="#portfolio" onclick="scrollPageTo(event);">Portfolio</a></li>
+                        <li><a href="#blogs" onclick="scrollPageTo(event);">Blogs</a></li>
+                        <li><a href="#contact" onclick="scrollPageTo(event);">Contact</a></li>
+                    </ul>
+                </div>
+                <img src="/img/logo.svg" class="logo rotating" style="cursor: pointer;" onclick="window.location.href='/';" />
+            </div>
+
+<div class="section" style="padding-top: 120px;">
+    <strong>Duurzaam plan?</strong><br />
+    Heldere communicatie-<br />
+    middelen helpen om het<br />
+    realiteit te laten worden.
+    <div class="img" style="right: 30px; width: 150px; bottom: 50px;"><img src="/img/world.jpg" /></div>
+    <div class="img smaller" style="text-align: center; color: #E94927; right: 30px; width: 50px; bottom: 10px; cursor: pointer;" onclick="window.open('tel:0031618518928');"><img src="/img/phone.svg" />Bel direct</div>
+</div>
+
+            <div class="section gray">
+                <p><strong>CARLI VAN ‘T SCHIP.</strong><br />
+                Jouw frisse plannenverbeelder.</p>
+
+                <div class="imagesleft">
+                    <div class="img">
+                        <img src="/img/carly.png" />
+                    </div>
+                    <p>Als iets niet goed (meer)
+                    werkt, moet er een
+                    oplossing komen. Dit is
+                    hoe ik in het leven sta en
+                    wat me aantrekt in
+                    innovatieve plannen.</p>
+                    <p>Het belang van innovatie
+                    en de vaak complexe
+                    materie maken het voor
+                    mij uitdagend om tot een
+                    helder en pakkend verhaal
+                    te komen.</p>
+                    <p>Samen maken we jouw
+                    communicatiemiddelen
+                    helder en overtuigend.</p>
+                </div>
+            </div>
+
+            <div id="contact" class="section">
+
+                <a href="#" class="button large">info@frisseplannen.nl</a>
+                <a href="#" class="button large">Bel: 06 47 218 000</a>
+                <div style="text-align: center;">
+                    <img src="/img/logo.svg" class="rotating" style="width: 80px; margin: 20px 15px 15px; cursor: pointer;" onclick="window.location.href='/';" />
+                    <p class="smaller"><strong>Heldere communicatiemiddelen die jouw groene ambities waarmaken</strong><br />
+                    <br />
+                    <span style="color: gray;">Onderdeel van Carli-d. Doctor Jan van Breemenstraat 1, Amsterdam</span></p>
+                </div>
+                
+            </div>
+        
+        
+        </div>
+
+        <script>
+            document.addEventListener("DOMContentLoaded", documentReady);
+            window.addEventListener("resize", resizeAll);
+            window.addEventListener("scroll",windowScroll);
+
+            function scrollPageTo(event) {
+                event.preventDefault(); 
+                var id = event.target.getAttribute('href').replace('#','');
+                if(id) element = document.getElementById(id);
+                else element = '';
+                if(element) {
+                    window.scroll({
+                        behavior: 'smooth',
+                        left: 0,
+                        top: element.offsetTop - 60
+                    });
+                } else {
+                    window.location.href='/'+id;
+                }
+                menuToggle();
+            }
+            function resizeAll() {
+
+            }
+            function documentReady() {
+
+            }
+            function windowScroll() {
+                var top = window.pageYOffset || document.documentElement.scrollTop;
+                if (top > 100) {
+	                document.body.classList.add('scrolled');
+                } else {
+	                document.body.classList.remove('scrolled');
+                }
+            }
+            function menuToggle() {
+                var img = document.getElementById('menutoggle');
+                var menu = img.nextElementSibling;
+                if(menu.style.display!='block') {
+                    img.setAttribute('src','/img/close.svg');
+                    menu.style.display='block';
+                    document.body.classList.add('menuopen');
+                } else {
+                    img.setAttribute('src','/img/menu.svg');
+                    menu.style.display='none';
+                    var top = window.pageYOffset || document.documentElement.scrollTop;
+                    document.body.classList.remove('menuopen');
+                }
+            }
+            function setCarousel(el,num) {
+                el.closest('.carousel').querySelector('.slides_container').style.marginLeft = '-'+(num*400)+'px';
+                var elements = el.parentNode.querySelectorAll('.dot');
+                elements.forEach(element => {
+                    element.classList.remove('active');
+                });
+                el.classList.add('active');
+            }
+        </script>
+    </body>
+</html>
