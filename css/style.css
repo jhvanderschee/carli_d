@@ -15,6 +15,8 @@
 body {background: #eee; font-family: 'Abel'; font-size: 16px; color: black; line-height: 1.4;}
 #top {background: white; width: 400px; margin: 0 auto; position: relative;}
 .header {position: absolute; top: 0; width: 400px; margin: 0 auto; height: 60px; z-index: 2; background: white;}
+img {max-width: 100%;}
+.subtitle {text-transform: uppercase; font-size: 12px; line-height: 1em;}
 .section {position: relative; padding: 25px 30px 30px; font-size: 23px; line-height: 1.4;}
 .section .img {position: absolute; z-index: 0;}
 .section .img img {width: 100%; display: block;}

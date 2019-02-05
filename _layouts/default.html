@@ -31,8 +31,8 @@
     </div>
     <div class="slides_container" style="width: {{ site.traps | size | times: 400 }}px">
         {% for item in site.traps %}
-            <div class="slide" style="background: white url({{ item.image }}) {{ item.image_position }} no-repeat;">
-                <div style="padding-left: {{ item.text_left }}px; padding-top: {{ item.text_top }}px; padding-right: {{ item.text_right }}px;">
+            <div class="slide" style="background: white url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 125px; height: 300px;">
+                <div style="padding-left: {{ item.text_left }}px; padding-right: {{ item.text_right }}px;">
                     <strong>{{ item.title }}</strong><br />
                     {{ item.content }}
                 </div>
@@ -60,11 +60,10 @@
         </div>
         <div>{% for item in site.solutions %}<div class="dot"></div>{% endfor %}</div>
     </div>
-    <div class="slides_container" style="width: {{ site.traps | size | times: 400 }}px">
+    <div class="slides_container" style="width: {{ site.solutions | size | times: 400 }}px">
         {% for item in site.solutions %}
-            <div class="slide">
-                <div class="img" style="right: 30px; width: 150px; bottom: 50px;"><img src="/img/logo.svg" /></div>
-                <div style="padding-left: {{ item.left }}px; padding-top: {{ item.top }}px; padding-right: {{ item.right }}px;">
+            <div class="slide" style="background: white url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 235px; height: 280px;">
+                <div style="padding-left: {{ item.text_left }}px; padding-right: {{ item.text_right }}px;"> 
                     <strong>{{ item.title }}</strong><br />
                     {{ item.content }}
                 </div>
@@ -132,15 +131,15 @@
             Duurzame projecten waar met veel
             plezier ontwerpen voor zijn gemaakt.
         </div>
-        <div>{% for item in site.solutions %}<div class="dot"></div>{% endfor %}</div>
+        <div>{% for item in site.projects %}<div class="dot"></div>{% endfor %}</div>
     </div>
-    <div class="slides_container" style="width: {{ site.traps | size | times: 400 }}px">
-        {% for item in site.solutions %}
+    <div class="slides_container" style="width: {{ site.projects | size | times: 400 }}px; padding-top: 150px;">
+        {% for item in site.projects %}
             <div class="slide">
-                <div style="padding-left: {{ item.left }}px; padding-top: {{ item.top }}px; padding-right: {{ item.right }}px;">
-                    <strong>{{ item.title }}</strong><br />
-                    {{ item.content }}
-                </div>
+                <div class="subtitle">{{ item.subtitle }}</div>
+                <strong>{{ item.title }}</strong>
+                <div style="margin: 10px 0 10px; height: 295px; background: url('{{ item.image }}') center center / cover;"></div>
+                <a class="button" href="">Lees meer over dit project >></a>
             </div>
         {% endfor %}
     </div>
