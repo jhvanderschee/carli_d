@@ -27,11 +27,11 @@
         <div>
             <strong>6 valkuilen</strong>
         </div>
-        <div>{% for item in site.traps %}<div class="dot"></div>{% endfor %}</div>
+        <div>{% for item in site.traps %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
     </div>
     <div class="slides_container" style="width: {{ site.traps | size | times: 400 }}px">
         {% for item in site.traps %}
-            <div class="slide" style="background: white url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 125px; height: 300px;">
+            <div class="slide {{ item.bgcolor }}" style="background: url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 125px; height: 300px;">
                 <div style="padding-left: {{ item.text_left }}px; padding-right: {{ item.text_right }}px;">
                     <strong>{{ item.title }}</strong><br />
                     {{ item.content }}
@@ -58,11 +58,11 @@
             werkt vele malen effectiever dan erover
             te vertellen of schrijven, want...
         </div>
-        <div>{% for item in site.solutions %}<div class="dot"></div>{% endfor %}</div>
+        <div>{% for item in site.solutions %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
     </div>
     <div class="slides_container" style="width: {{ site.solutions | size | times: 400 }}px">
         {% for item in site.solutions %}
-            <div class="slide" style="background: white url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 235px; height: 280px;">
+            <div class="slide {{ item.bgcolor }}" style="background: white url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 235px; height: 280px;">
                 <div style="padding-left: {{ item.text_left }}px; padding-right: {{ item.text_right }}px;"> 
                     <strong>{{ item.title }}</strong><br />
                     {{ item.content }}
@@ -131,11 +131,11 @@
             Duurzame projecten waar met veel
             plezier ontwerpen voor zijn gemaakt.
         </div>
-        <div>{% for item in site.projects %}<div class="dot"></div>{% endfor %}</div>
+        <div>{% for item in site.projects %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
     </div>
-    <div class="slides_container" style="width: {{ site.projects | size | times: 400 }}px; padding-top: 150px;">
+    <div class="slides_container" style="width: {{ site.projects | size | times: 400 }}px;">
         {% for item in site.projects %}
-            <div class="slide">
+            <div class="slide {{ item.bgcolor }}" style="padding-top: 170px;">
                 <div class="subtitle">{{ item.subtitle }}</div>
                 <strong>{{ item.title }}</strong>
                 <div style="margin: 10px 0 10px; height: 295px; background: url('{{ item.image }}') center center / cover;"></div>

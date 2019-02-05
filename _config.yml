@@ -26,4 +26,4 @@ collections:
     output: false
   projects:
     output: true
-    permalink: /portfolio/:path/  
+    permalink: /portfolio/:path/

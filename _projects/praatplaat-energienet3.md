@@ -1,8 +1,8 @@
 ---
 title: Praatplaat energienet.
 subtitle: Gemeente Ameland
-image: /img/ameland.jpg
-bgcolor: gray
+image: /img/evervoer.png
+bgcolor: yellow
 ---
 
 Ons brein begrijpt complexe materie beter wanneer het is verbeeld.

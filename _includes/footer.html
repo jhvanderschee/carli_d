@@ -44,6 +44,14 @@
                     document.body.classList.remove('menuopen');
                 }
             }
+            function setCarousel(el,num) {
+                el.closest('.carousel').querySelector('.slides_container').style.marginLeft = '-'+(num*400)+'px';
+                var elements = el.parentNode.querySelectorAll('.dot');
+                elements.forEach(element => {
+                    element.classList.remove('active');
+                });
+                el.classList.add('active');
+            }
         </script>
     </body>
 </html>

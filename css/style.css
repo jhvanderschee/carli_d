@@ -20,9 +20,12 @@ img {max-width: 100%;}
 .section {position: relative; padding: 25px 30px 30px; font-size: 23px; line-height: 1.4;}
 .section .img {position: absolute; z-index: 0;}
 .section .img img {width: 100%; display: block;}
-.section.yellow {background: #f1d932;}
-.section.green {background: #3eb73c; color: white;}
-.section.gray {background: #d6d8d5;}
+
+.section.lightgray, .slide.lightgray {background-color: #ecebe8!important;}
+.section.lightgreen, .slide.lightgreen {background:-color #cdedca!important;}
+.section.yellow, .slide.yellow {background-color: #f1d932!important;}
+.section.green, .slide.green {background-color: #3eb73c!important; color: white;}
+.section.gray, .slide.gray {background-color: #d6d8d5!important;}
 .logo, #menutoggle {position: absolute; top: 15px; left: 30px; width: 70px;}
 #menutoggle {cursor: pointer; left: auto; right: 30px; width: 30px; top: 17px;}
 @keyframes flyin {from{margin-top: -60px;}to{margin-top: 0px;};}
@@ -39,10 +42,10 @@ p {margin-bottom: 1.4em;}
 p:last-child {margin-bottom: 0;}
 .carousel {overflow: hidden; padding: 0;}
 .carousel .navigation {position: absolute; padding: 25px 30px;}
-.carousel .navigation .dot {float: left; background: transparent; border: 1px solid black; width: 10px; height: 10px; margin: 15px 7px 0 0; border-radius: 15px;}
-.carousel .navigation .dot:first-child {background: black;}
-.slides_container {overflow: auto;}
-.slide {width: 340px; height: 400px; float: left; padding: 25px 30px;}
+.carousel .navigation .dot {float: left; background: transparent; border: 1px solid black; width: 10px; height: 10px; margin: 15px 7px 0 0; border-radius: 15px; cursor: pointer;}
+.carousel .navigation .dot.active {background: black;}
+.slides_container {overflow: auto; transition: margin-left 0.3s ease-in-out;}
+.slide {width: 340px; height: 400px; float: left; padding: 25px 30px; background-repeat: no-repeat;}
 .imagesleft {margin-left: 120px;}
 .imagesleft .img {position: absolute; margin-left: -120px; width: 100px; font-size: 12px; line-height: 1.2;}
 .imagesleft .img img {width: 100%; margin-bottom: 5px;}
