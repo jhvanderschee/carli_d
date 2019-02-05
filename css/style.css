@@ -20,7 +20,6 @@ img {max-width: 100%;}
 .section {position: relative; padding: 25px 30px 30px; font-size: 23px; line-height: 1.4;}
 .section .img {position: absolute; z-index: 0;}
 .section .img img {width: 100%; display: block;}
-
 .section.lightgray, .slide.lightgray {background-color: #ecebe8!important;}
 .section.lightgreen, .slide.lightgreen {background:-color #cdedca!important;}
 .section.yellow, .slide.yellow {background-color: #f1d932!important;}
@@ -54,6 +53,7 @@ p:last-child {margin-bottom: 0;}
 .button {background: #E94927; display: inline-block; padding: 0 5px 1px; color: white; text-decoration: none; text-transform: uppercase; font-size: 16px; transition: all 0.3s ease-in-out;}
 .button:hover {background: #f1d932; color: black;}
 .button.large {display: block; text-align: center; margin-bottom: 20px; padding: 8px 15px; font-size: 20px; text-transform: none;}
-.bloglink {background: white; font-size: 20px; line-height: 1.2; display: block; text-decoration: none; color: black; padding: 8px 10px 10px 90px; margin-top: 15px;}
+.bloglink {position: relative; background: white; font-size: 20px; line-height: 1.2; display: block; text-decoration: none; color: black; padding: 8px 10px 10px 90px; margin-top: 15px;}
+.bloglink span {width: 80px; top: 0; display: block; height: 100%; position: absolute; margin-left: -90px;}
 @keyframes spin {from{transform: rotate(0deg);}to{transform: rotate(360deg);}}
 .rotating:hover {animation-name: spin; animation-duration: 300ms; animation-iteration-count: infinite; animation-timing-function: linear;}

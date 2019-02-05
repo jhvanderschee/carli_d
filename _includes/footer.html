@@ -1,3 +1,43 @@
+            <div class="section gray">
+                <p><strong>CARLI VAN ‘T SCHIP.</strong><br />
+                Jouw frisse plannenverbeelder.</p>
+
+                <div class="imagesleft">
+                    <div class="img">
+                        <img src="/img/carly.png" />
+                    </div>
+                    <p>Als iets niet goed (meer)
+                    werkt, moet er een
+                    oplossing komen. Dit is
+                    hoe ik in het leven sta en
+                    wat me aantrekt in
+                    innovatieve plannen.</p>
+                    <p>Het belang van innovatie
+                    en de vaak complexe
+                    materie maken het voor
+                    mij uitdagend om tot een
+                    helder en pakkend verhaal
+                    te komen.</p>
+                    <p>Samen maken we jouw
+                    communicatiemiddelen
+                    helder en overtuigend.</p>
+                </div>
+            </div>
+
+            <div id="contact" class="section">
+
+                <a href="#" class="button large">info@frisseplannen.nl</a>
+                <a href="#" class="button large">Bel: 06 47 218 000</a>
+                <div style="text-align: center;">
+                    <img src="/img/logo.svg" class="rotating" style="width: 80px; margin: 20px 15px 15px; cursor: pointer;" onclick="window.location.href='/';" />
+                    <p class="smaller"><strong>Heldere communicatiemiddelen die jouw groene ambities waarmaken</strong><br />
+                    <br />
+                    <span style="color: gray;">Onderdeel van Carli-d. Doctor Jan van Breemenstraat 1, Amsterdam</span></p>
+                </div>
+                
+            </div>
+        
+        
         </div>
 
         <script>
@@ -8,12 +48,17 @@
             function scrollPageTo(event) {
                 event.preventDefault(); 
                 var id = event.target.getAttribute('href').replace('#','');
-                element = document.getElementById(id);
-                window.scroll({
-                    behavior: 'smooth',
-                    left: 0,
-                    top: element.offsetTop - 60
-                });
+                if(id) element = document.getElementById(id);
+                else element = '';
+                if(element) {
+                    window.scroll({
+                        behavior: 'smooth',
+                        left: 0,
+                        top: element.offsetTop - 60
+                    });
+                } else {
+                    window.location.href='/'+id;
+                }
                 menuToggle();
             }
             function resizeAll() {

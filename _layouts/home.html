@@ -98,21 +98,21 @@
 
     <div class="imagesleft">
 
-        <div class="img"><img src="/img/phone.svg" /></div>
+        <div class="img"><img src="/img/middelen_praatplaat.svg" /></div>
         <p>
         <strong>Praatplaat.</strong><br />
         Een praatplaat legt de
         basis voor constructieve
         discussies.</p>
 
-        <div class="img"><img src="/img/phone.svg" /></div>
+        <div class="img"><img src="/img/middelen_logo.svg" /></div>
         <p>
         <strong>Herkenbare stijl.</strong><br />
         Een consistente stijl met
         duidelijke afzender maakt
         projecten extra herkenbaar.</p>
 
-        <div class="img"><img src="/img/phone.svg" /></div>
+        <div class="img"><img src="/img/middelen_animatie.svg" /></div>
         <p>
         <strong>Animatie.</strong><br />
         Animaties zijn ideaal
@@ -120,7 +120,7 @@
         stappen uit te leggen.</p>
     </div>
     <br />
-    <a href="#" class="button">Zie meer opties >></a>
+    <a href="communicatiemiddelen" class="button">Zie meer opties >></a>
 </div>
 
 
@@ -195,47 +195,9 @@
 <div id="blogs" class="section green">
         BLOGS.
         
-        {% for item in site.posts %}<a href="#" class="bloglink" style="background: white url({{ item.image }}) left center / contain no-repeat;">{{ item.content | strip_html }}</a>{% endfor %}
+        {% for item in site.posts %}<a href="#" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.content | strip_html }}</a>{% endfor %}
         <br />
         <a href="#" class="button">Zie meer blogs >></a>
 </div>
 
-
-<div class="section gray">
-        <p><strong>CARLI VAN ‘T SCHIP.</strong><br />
-        Jouw frisse plannenverbeelder.</p>
-
-        <div class="imagesleft">
-            <div class="img">
-                <img src="/img/carly.png" />
-            </div>
-            <p>Als iets niet goed (meer)
-            werkt, moet er een
-            oplossing komen. Dit is
-            hoe ik in het leven sta en
-            wat me aantrekt in
-            innovatieve plannen.</p>
-            <p>Het belang van innovatie
-            en de vaak complexe
-            materie maken het voor
-            mij uitdagend om tot een
-            helder en pakkend verhaal
-            te komen.</p>
-            <p>Samen maken we jouw
-            communicatiemiddelen
-            helder en overtuigend.</p>
-        </div>
-</div>
-
-<div id="contact" class="section">
-
-    <a href="#" class="button large">info@frisseplannen.nl</a>
-    <a href="#" class="button large">Bel: 06 47 218 000</a>
-    <div style="text-align: center;">
-        <img src="/img/logo.svg" class="rotating" style="width: 80px; margin: 20px 15px 15px; cursor: pointer;" onclick="window.location.href='/';" />
-        <p class="smaller"><strong>Heldere communicatiemiddelen die jouw groene ambities waarmaken</strong><br />
-        <br />
-        <span style="color: gray;">Onderdeel van Carli-d. Doctor Jan van Breemenstraat 1, Amsterdam</span></p>
-    </div>
-</div>
 {% include footer.html %}
