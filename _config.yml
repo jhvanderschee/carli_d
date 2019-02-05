@@ -17,6 +17,18 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+      type: "portfolio"
+    values:
+      layout: "portfolio-item"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog"
 
 # Collections
 collections:
