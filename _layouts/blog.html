@@ -1,12 +1,18 @@
 {% include header.html %}
 
 <div class="section" style="padding-top: 120px;">
-    <strong>Duurzaam plan?</strong><br />
-    Heldere communicatie-<br />
-    middelen helpen om het<br />
-    realiteit te laten worden.
-    <div class="img" style="right: 30px; width: 150px; bottom: 50px;"><img src="/img/world.jpg" /></div>
-    <div class="img smaller" style="text-align: center; color: #E94927; right: 30px; width: 50px; bottom: 10px; cursor: pointer;" onclick="window.open('tel:0031618518928');"><img src="/img/phone.svg" />Bel direct</div>
+    <strong>BLOG.</strong><br />
+    <a href="{{ page.url }}" class="bloglink"><span style="background: white url({{ page.image }}) center center / contain no-repeat;"></span>{{ page.description | markdownify }}</a>
+    <div class="small lightgray blogcontent">
+        {{ page.content }}
+    </div>
+</div>
+
+<div class="section">
+    <strong>RECENTE BLOGS.</strong><br />
+    {% for item in site.posts limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
+    <br />
+    <a href="/blogs/" class="button"><< Terug naar alle blogs</a>
 </div>
 
 {% include footer.html %}
