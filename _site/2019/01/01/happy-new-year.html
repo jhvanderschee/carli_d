@@ -237,16 +237,16 @@
                 var distx = parseInt(touchobj.clientX) - startx;
                 var disty = parseInt(touchobj.clientY) - starty;
                 statusdiv.innerHTML = 'Status: touchmove<br> Horizontal distance traveled: ' + distx + 'px';
-                if(Math.abs(distx) > Math.abs(disty)) {
+                if(Math.abs(distx) > Math.abs(disty) && phase == 'started') {
                     box1.style.marginLeft = originalXposition + distx + 'px';
-                    if(distx < -100 && phase == 'started') {
+                    if(distx < -100) {
                         clearTimeout(timer);
                         var timer = setTimeout( nextSlide, duration );
                         nextSlide();
                         phase = 'finished';
                         box1.classList.remove('touch');
                     }
-                    if(distx > 100 && phase == 'started') {
+                    if(distx > 100) {
                         clearTimeout(timer);
                         var timer = setTimeout( nextSlide, duration );
                         nextSlide();
