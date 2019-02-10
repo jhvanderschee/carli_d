@@ -199,11 +199,12 @@
             var originalPosition = 0;
 
             box1.addEventListener('touchstart', function(e){
+                box1.classList.add('touch');
                 var touchobj = e.changedTouches[0]; // reference first touch point (ie: first finger)
                 startx = parseInt(touchobj.clientX); // get x position of touch point relative to left edge of browser
                 statusdiv.innerHTML = 'Status: touchstart<br> ClientX: ' + startx + 'px';
                 e.preventDefault();
-                originalPosition = parseInt(box1.style.left);
+                originalPosition = parseInt(box1.style.marginLeft);
                 clearTimeout(timer);
             }, false)
 
@@ -211,15 +212,16 @@
                 var touchobj = e.changedTouches[0]; // reference first touch point for this event
                 var dist = parseInt(touchobj.clientX) - startx;
                 statusdiv.innerHTML = 'Status: touchmove<br> Horizontal distance traveled: ' + dist + 'px';
-                box1.style.left = originalPosition + dist + 'px';
+                box1.style.marginLeft = originalPosition + dist + 'px';
                 e.preventDefault();
             }, false)
 
             box1.addEventListener('touchend', function(e){
+                box1.classList.remove('touch');
                 var touchobj = e.changedTouches[0]; // reference first touch point for this event
                 statusdiv.innerHTML = 'Status: touchend<br> Resting x coordinate: ' + touchobj.clientX + 'px';
                 e.preventDefault();
-                box1.style.left = originalPosition + 'px';
+                box1.style.marginLeft = originalPosition + 'px';
                 timer = setTimeout( nextSlide, duration );
             }, false)
 
