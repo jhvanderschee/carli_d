@@ -228,7 +228,7 @@
                 startx = parseInt(touchobj.clientX) // get x position of touch point relative to left edge of browser
                 statusdiv.innerHTML = 'Status: touchstart<br> ClientX: ' + startx + 'px'
                 e.preventDefault();
-                originalMarginLeft = box1.style.marginLeft;
+                originalMarginLeft = parseInt(box1.style.marginLeft);
                 clearTimeout(timer);
             }, false)
 
@@ -236,7 +236,7 @@
                 var touchobj = e.changedTouches[0] // reference first touch point for this event
                 var dist = parseInt(touchobj.clientX) - startx
                 statusdiv.innerHTML = 'Status: touchmove<br> Horizontal distance traveled: ' + dist + 'px';
-                box1.style.marginLeft = originalMarginLeft + dist;
+                box1.style.marginLeft = originalMarginLeft + dist + 'px';
                 e.preventDefault()
             }, false)
 
@@ -244,7 +244,7 @@
                 var touchobj = e.changedTouches[0] // reference first touch point for this event
                 statusdiv.innerHTML = 'Status: touchend<br> Resting x coordinate: ' + touchobj.clientX + 'px'
                 e.preventDefault();
-                box1.style.marginLeft = originalMarginLeft;
+                box1.style.marginLeft = originalMarginLeft + 'px';
                 timer = setTimeout( nextSlide, duration );
             }, false)
 
