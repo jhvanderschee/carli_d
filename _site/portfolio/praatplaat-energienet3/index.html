@@ -239,18 +239,18 @@
                 if(Math.abs(distx) > Math.abs(disty)) {
                     box1.style.marginLeft = originalXposition + distx + 'px';
                     if(distx < -100 && phase == 'started') {
-                        startx = parseInt(touchobj.clientX);
                         clearTimeout(timer);
                         var timer = setTimeout( nextSlide, duration );
                         nextSlide();
                         phase = 'finished';
+                        box1.classList.remove('touch');
                     }
                     if(distx > 100 && phase == 'started') {
-                        startx = parseInt(touchobj.clientX);
                         clearTimeout(timer);
                         var timer = setTimeout( nextSlide, duration );
                         nextSlide();
                         phase = 'finished';
+                        box1.classList.remove('touch');
                     }
                 }
                 else box1.style.marginLeft = originalXposition + 'px';
