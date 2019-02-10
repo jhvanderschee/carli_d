@@ -305,11 +305,7 @@
                 timer = setTimeout( nextSlide, duration );
                 var elements = document.querySelectorAll('.dot.active');
                 elements.forEach(element => {
-                    var children = element.parentNode.querySelectorAll('.dot');
-                    for(var i = 0; i < children.length; i++) {
-                        if(children[i]==element) var num = i;
-                    }
-                    setCarousel(element,num);
+                    element.click();
                 });
                 
             }, false)
