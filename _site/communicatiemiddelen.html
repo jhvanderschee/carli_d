@@ -303,7 +303,13 @@
                 statusdiv.innerHTML = 'Status: touchend<br> Resting x coordinate: ' + touchobj.clientX + 'px';
                 clearTimeout(timer);
                 timer = setTimeout( nextSlide, duration );
-                box1.style.marginLeft = originalXposition + 'px';
+                var elements = document.querySelectorAll('.dot.active');
+                elements.forEach(element => {
+                    var num = 1;
+                    while( (element = element.previousSibling) != null ) num++;
+                    setCarousel(element,num);
+                });
+                
             }, false)
 
         </script>
