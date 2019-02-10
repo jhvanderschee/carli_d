@@ -441,16 +441,19 @@
                 var distx = parseInt(touchobj.clientX) - startx;
                 var disty = parseInt(touchobj.clientY) - starty;
                 statusdiv.innerHTML = 'Status: touchmove<br> Horizontal distance traveled: ' + dist + 'px';
-                if(distx > disty) box1.style.marginLeft = originalXposition + dist + 'px';
+                if(Math.abs(distx) > Math.abs(disty)) {
+                    box1.style.marginLeft = originalXposition + dist + 'px';
+                    if(distx < -100) {
+                        startx = parseInt(touchobj.clientX);
+                        alert('nextslide');
+                    }
+                    if(distx > 100) {
+                        startx = parseInt(touchobj.clientX);
+                        alert('prevslide');
+                    }
+                }
                 else box1.style.marginLeft = originalXposition + 'px';
-                if(distx < -100) {
-                    startx = parseInt(touchobj.clientX);
-                    alert('nextslide');
-                }
-                if(distx > 100) {
-                    startx = parseInt(touchobj.clientX);
-                    alert('prevslide');
-                }
+                
             }, false)
 
             box1.addEventListener('touchend', function(e){
