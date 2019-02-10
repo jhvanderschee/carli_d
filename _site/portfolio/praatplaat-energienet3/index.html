@@ -128,10 +128,20 @@
                     if(element) doScroll(element);
                 }
             }
+            var duration = 5000;
+            var timer = setTimeout( nextSlide, duration );
 
             document.addEventListener("DOMContentLoaded", documentReady);
             window.addEventListener("resize", resizeAll);
             window.addEventListener("scroll",windowScroll);
+
+            function nextSlide() {
+                var elements = document.querySelectorAll('.dot.active');
+                elements.forEach(element => {
+                    if(element.nextElementSibling) element.nextElementSibling.click();
+                    else element.parentNode.querySelector('.dot').click();
+                });
+            }
 
             function doScroll(element) {
                 window.scroll({
@@ -182,6 +192,8 @@
                 }
             }
             function setCarousel(el,num) {
+                clearTimeout(timer);
+                timer = setTimeout( nextSlide, duration );
                 el.closest('.carousel').querySelector('.slides_container').style.marginLeft = '-'+(num*400)+'px';
                 var elements = el.parentNode.querySelectorAll('.dot');
                 elements.forEach(element => {
