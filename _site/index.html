@@ -422,6 +422,7 @@
             var box1 = document.getElementById('box1');
             var statusdiv = document.getElementById('statusdiv');
             var startx = 0;
+            var starty = 0;
             var dist = 0;
             var originalPosition = 0;
 
@@ -436,16 +437,18 @@
 
             box1.addEventListener('touchmove', function(e){
                 var touchobj = e.changedTouches[0]; // reference first touch point for this event
-                var dist = parseInt(touchobj.clientX) - startx;
+                var distx = parseInt(touchobj.clientX) - startx;
+                var disty = parseInt(touchobj.clientY) - starty;
                 statusdiv.innerHTML = 'Status: touchmove<br> Horizontal distance traveled: ' + dist + 'px';
-                box1.style.marginLeft = originalPosition + dist + 'px';
-                if(dist < -100) {
+                if(distx > disty) box1.style.marginLeft = originalPosition + dist + 'px';
+                else box1.style.marginLeft = originalPosition + 'px';
+                if(distx < -100) {
                     startx = parseInt(touchobj.clientX);
                     alert('nextslide');
                 }
-                if(dist > 100) {
+                if(distx > 100) {
                     startx = parseInt(touchobj.clientX);
-                    alert('nextslide');
+                    alert('prevslide');
                 }
             }, false)
 
