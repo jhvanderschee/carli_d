@@ -238,7 +238,7 @@
             }, false)
 
             box1.addEventListener('touchmove', function(e){
-                 var touchobj = e.changedTouches[0]; // reference first touch point for this event
+                var touchobj = e.changedTouches[0]; // reference first touch point for this event
                 var distx = parseInt(touchobj.clientX) - startx;
                 var disty = parseInt(touchobj.clientY) - starty;
                 statusdiv.innerHTML = 'Status: touchmove<br> Horizontal distance traveled: ' + distx + 'px';
@@ -259,7 +259,10 @@
                         box1.classList.remove('touch');
                     }
                 }
-                else box1.style.marginLeft = originalXposition + 'px';
+                else {
+                    alert('reset');
+                    box1.style.marginLeft = originalXposition + 'px';
+                }
                 
             }, false)
 
