@@ -65,7 +65,7 @@
     <div class="slides_container" style="width: {{ site.solutions | size | times: 400 }}px">
         {% for item in site.solutions %}
             <div class="slide {{ item.bgcolor }}" style="background: white url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 235px; height: 280px;">
-                <div style="padding-left: {{ item.text_left }}px; padding-right: {{ item.text_right }}px;"> 
+                <div style="padding-left: {{ item.text_left }}px; padding-right: {{ item.text_right }}px;">
                     <strong>{{ item.title }}</strong><br />
                     {{ item.content }}
                 </div>
@@ -134,8 +134,8 @@
             plezier ontwerpen voor zijn gemaakt.
         </div>
         <div>{% for item in site.projects %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
+        <div id="statusdiv"></div>
     </div>
-    <div id="statusdiv"></div>
     <div id="box1" class="slides_container" style="width: {{ site.projects | size | times: 400 }}px;">
         {% for item in site.projects %}
             <div class="slide {{ item.bgcolor }}" style="padding-top: 170px;">
