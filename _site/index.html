@@ -344,6 +344,8 @@
             window.addEventListener("scroll",windowScroll);
 
             function nextSlide() {
+                clearTimeout(timer);
+                var timer = setTimeout( nextSlide, duration );
                 var elements = document.querySelectorAll('.dot.active');
                 elements.forEach(element => {
                     if(element.nextElementSibling) element.nextElementSibling.click();
@@ -447,15 +449,11 @@
                 if(Math.abs(distx) > Math.abs(disty) && phase == 'started') {
                     box1.style.marginLeft = originalXposition + distx + 'px';
                     if(distx < -100) {
-                        clearTimeout(timer);
-                        var timer = setTimeout( nextSlide, duration );
                         phase = 'finished';
                         box1.classList.remove('touch');
                         nextSlide();
                     }
                     if(distx > 100) {
-                        clearTimeout(timer);
-                        var timer = setTimeout( nextSlide, duration );
                         phase = 'finished';
                         box1.classList.remove('touch');
                         nextSlide();
