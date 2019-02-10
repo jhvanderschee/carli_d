@@ -39,3 +39,9 @@ collections:
   projects:
     output: true
     permalink: /portfolio/:path/
+
+bgcolor: 
+  - white
+  - yellow
+  - gray
+  - lightgray
