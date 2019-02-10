@@ -138,7 +138,7 @@
             <div class="slide {{ item.bgcolor }}" style="padding-top: 170px;">
                 <div class="subtitle">{{ item.subtitle }}</div>
                 <strong>{{ item.title }}</strong>
-                <div style="margin: 10px 0 10px; height: 295px; background: url('{{ item.image }}') center center / cover;"></div>
+                <div style="margin: 10px 0 10px; height: 295px; background: url('{{ item.image }}') center center / cover; cursor: pointer;" onclick="document.location.href='{{ item.url }}';"></div>
                 <a class="button" href="{{ item.url }}">Lees meer over dit project >></a>
             </div>
         {% endfor %}
