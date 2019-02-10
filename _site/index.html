@@ -50,12 +50,14 @@
             </div>
 
 <div class="section" style="padding-top: 120px;">
-    <strong>Duurzaam plan?</strong><br />
-    Heldere communicatie-<br />
-    middelen helpen om het<br />
-    realiteit te laten worden.
-    <div class="img" style="right: 30px; width: 150px; bottom: 50px;"><img src="/img/world.jpg" /></div>
-    <div class="img smaller" style="text-align: center; color: #E94927; right: 30px; width: 50px; bottom: 10px; cursor: pointer;" onclick="window.open('tel:0031618518928');"><img src="/img/phone.svg" />Bel direct</div>
+    <div style="position: relative; z-index: 2;">
+        <strong>Duurzaam plan?</strong><br />
+        Heldere communicatie-<br />
+        middelen helpen om het<br />
+        realiteit te laten worden.
+    </div>
+    <div class="img" style="right: 30px; width: 150px; bottom: 50px; z-index: 1;"><img src="/img/world.jpg" /></div>
+    <div class="img smaller" style="text-align: center; color: #E94927; right: 30px; width: 50px; bottom: 10px; cursor: pointer; z-index: 2;" onclick="window.open('tel:0031618518928');"><img src="/img/phone.svg" />Bel direct</div>
 </div>
 
 <div class="section yellow">
@@ -200,7 +202,8 @@
         </div>
         <div><div class="dot active" onclick="setCarousel(this, 0)"></div><div class="dot " onclick="setCarousel(this, 1)"></div><div class="dot " onclick="setCarousel(this, 2)"></div></div>
     </div>
-    <div class="slides_container" style="width: 1200px;">
+    <div id="statusdiv"></div>
+    <div id="box1" class="slides_container" style="width: 1200px;">
         
             <div class="slide gray" style="padding-top: 170px;">
                 <div class="subtitle">Gemeente Ameland</div>
@@ -415,6 +418,32 @@
                 var bgimg = el.style.backgroundImage;
                 el.closest('.gallery').previousElementSibling.style.backgroundImage=bgimg;
             }
+
+            var box1 = document.getElementById('box1')
+            var statusdiv = document.getElementById('statusdiv')
+            var startx = 0
+            var dist = 0
+        
+            box1.addEventListener('touchstart', function(e){
+                var touchobj = e.changedTouches[0] // reference first touch point (ie: first finger)
+                startx = parseInt(touchobj.clientX) // get x position of touch point relative to left edge of browser
+                statusdiv.innerHTML = 'Status: touchstart<br> ClientX: ' + startx + 'px'
+                e.preventDefault()
+            }, false)
+        
+            box1.addEventListener('touchmove', function(e){
+                var touchobj = e.changedTouches[0] // reference first touch point for this event
+                var dist = parseInt(touchobj.clientX) - startx
+                statusdiv.innerHTML = 'Status: touchmove<br> Horizontal distance traveled: ' + dist + 'px'
+                e.preventDefault()
+            }, false)
+        
+            box1.addEventListener('touchend', function(e){
+                var touchobj = e.changedTouches[0] // reference first touch point for this event
+                statusdiv.innerHTML = 'Status: touchend<br> Resting x coordinate: ' + touchobj.clientX + 'px'
+                e.preventDefault()
+            }, false)
+
         </script>
     </body>
 </html>
