@@ -234,16 +234,16 @@
                 var touchobj = e.changedTouches[0]; // reference first touch point for this event
                 var distx = parseInt(touchobj.clientX) - startx;
                 var disty = parseInt(touchobj.clientY) - starty;
-                statusdiv.innerHTML = 'Status: touchmove<br> Horizontal distance traveled: ' + dist + 'px';
+                statusdiv.innerHTML = 'Status: touchmove<br> Horizontal distance traveled: ' + distx + 'px';
                 if(Math.abs(distx) > Math.abs(disty)) {
                     box1.style.marginLeft = originalXposition + distx + 'px';
                     if(distx < -100) {
                         startx = parseInt(touchobj.clientX);
-                        nextslide();
+                        nextSlide();
                     }
                     if(distx > 100) {
                         startx = parseInt(touchobj.clientX);
-                        nextslide();
+                        nextSlide();
                     }
                 }
                 else box1.style.marginLeft = originalXposition + 'px';
