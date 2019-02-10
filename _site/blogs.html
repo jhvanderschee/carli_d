@@ -222,16 +222,16 @@
                     if(distx < -100) {
                         clearTimeout(timer);
                         var timer = setTimeout( nextSlide, duration );
-                        nextSlide();
                         phase = 'finished';
                         box1.classList.remove('touch');
+                        nextSlide();
                     }
                     if(distx > 100) {
                         clearTimeout(timer);
                         var timer = setTimeout( nextSlide, duration );
-                        nextSlide();
                         phase = 'finished';
                         box1.classList.remove('touch');
+                        nextSlide();
                     }
                 }
                 else {
