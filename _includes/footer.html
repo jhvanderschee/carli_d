@@ -159,11 +159,11 @@
                     box1.style.marginLeft = originalXposition + distx + 'px';
                     if(distx < -100) {
                         startx = parseInt(touchobj.clientX);
-                        alert('nextslide');
+                        nextslide();
                     }
                     if(distx > 100) {
                         startx = parseInt(touchobj.clientX);
-                        alert('prevslide');
+                        nextslide();
                     }
                 }
                 else box1.style.marginLeft = originalXposition + 'px';
