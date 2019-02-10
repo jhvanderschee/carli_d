@@ -60,6 +60,7 @@ p:last-child {margin-bottom: 0;}
 .downloadlink {overflow: auto; position: relative; background: #E94927; color: white; display: block; font-size: 19px; line-height: 1.2; text-decoration: none; padding: 9px 17px; margin: 10px 0 20px;}
 .downloadlink img {position: relative; bottom: 1px; width: 50px; float: left; margin-right: 24px;}
 .downloadlink span {font-size: 14px;}
+.downloadlink:hover {background: #f1d932; color: black;}
 .gallery {overflow: auto; margin-right: -2%; position: relative; bottom: 4px; margin-bottom: 10px;}
 .gallerythumbnail {width: 23%; margin-right: 2%; padding-bottom: 19%; float: left; background-size: cover; background-position: center center; cursor: pointer;}
 .gallerythumbnail.active {opacity: 0.25;}
