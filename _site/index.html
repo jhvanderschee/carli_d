@@ -435,7 +435,7 @@
                 var touchobj = e.changedTouches[0]; // reference first touch point (ie: first finger)
                 startx = parseInt(touchobj.clientX); // get x position of touch point relative to left edge of browser
                 starty = parseInt(touchobj.clientY); // get x position of touch point relative to left edge of browser
-                statusdiv.innerHTML = 'Status: touchstart<br> ClientX: ' + startx + 'px';
+                //statusdiv.innerHTML = 'Status: touchstart<br> ClientX: ' + startx + 'px';
                 originalXposition = parseInt(box1.style.marginLeft);
                 clearTimeout(timer);
             }, false)
