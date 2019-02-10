@@ -40,7 +40,7 @@ collections:
     output: true
     permalink: /portfolio/:path/
 
-bgcolor: 
+bgcolors: 
   - white
   - yellow
   - gray
