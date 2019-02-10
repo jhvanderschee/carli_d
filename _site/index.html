@@ -345,7 +345,7 @@
 
             function nextSlide() {
                 clearTimeout(timer);
-                var timer = setTimeout( nextSlide, duration );
+                timer = setTimeout( nextSlide, duration );
                 var elements = document.querySelectorAll('.dot.active');
                 elements.forEach(element => {
                     if(element.nextElementSibling) element.nextElementSibling.click();
