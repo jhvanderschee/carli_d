@@ -264,6 +264,7 @@
                 statusdiv.innerHTML = 'Status: touchend<br> Resting x coordinate: ' + touchobj.clientX + 'px';
                 clearTimeout(timer);
                 timer = setTimeout( nextSlide, duration );
+                box1.style.marginLeft = originalXposition + 'px';
             }, false)
 
         </script>
