@@ -440,6 +440,8 @@
                 var dist = parseInt(touchobj.clientX) - startx;
                 statusdiv.innerHTML = 'Status: touchmove<br> Horizontal distance traveled: ' + dist + 'px';
                 box1.style.marginLeft = originalPosition + dist + 'px';
+                if(dist < -100) nextSlide();
+                if(dist > 100) nextSlide();
                 e.preventDefault();
             }, false)
 
