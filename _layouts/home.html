@@ -136,7 +136,7 @@
         <div>{% for item in site.projects %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
         <div id="statusdiv"></div>
     </div>
-    <div id="box1" class="slides_container" style="width: {{ site.projects | size | times: 400 }}px;">
+    <div id="box1" class="slides_container" style="margin-left: 0; width: {{ site.projects | size | times: 400 }}px;">
         {% for item in site.projects %}
             <div class="slide {{ item.bgcolor }}" style="padding-top: 170px;">
                 <div class="subtitle">{{ item.subtitle }}</div>
