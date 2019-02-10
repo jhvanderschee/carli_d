@@ -215,7 +215,7 @@
             }
 
             var box1 = document.getElementById('box1');
-            var statusdiv = document.getElementById('statusdiv');
+            //var statusdiv = document.getElementById('statusdiv');
             var startx = 0;
             var starty = 0;
             var distx = 0;
@@ -238,7 +238,7 @@
                 var touchobj = e.changedTouches[0]; // reference first touch point for this event
                 var distx = parseInt(touchobj.clientX) - startx;
                 var disty = parseInt(touchobj.clientY) - starty;
-                statusdiv.innerHTML = 'Status: touchmove<br> Horizontal distance traveled: ' + distx + 'px';
+                //statusdiv.innerHTML = 'Status: touchmove<br> Horizontal distance traveled: ' + distx + 'px';
                 if(Math.abs(distx) > Math.abs(disty) && phase == 'started') {
                     box1.style.marginLeft = originalXposition + distx + 'px';
                     if(distx < -100) {
@@ -262,7 +262,7 @@
                 phase = 'finished';
                 box1.classList.remove('touch');
                 var touchobj = e.changedTouches[0]; // reference first touch point for this event
-                statusdiv.innerHTML = 'Status: touchend<br> Resting x coordinate: ' + touchobj.clientX + 'px';
+                //statusdiv.innerHTML = 'Status: touchend<br> Resting x coordinate: ' + touchobj.clientX + 'px';
                 clearTimeout(timer);
                 timer = setTimeout( nextSlide, duration );
                 var elements = document.querySelectorAll('.dot.active');

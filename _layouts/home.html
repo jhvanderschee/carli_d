@@ -134,7 +134,6 @@
             plezier ontwerpen voor zijn gemaakt.
         </div>
         <div>{% for item in site.projects %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
-        <div id="statusdiv"></div>
     </div>
     <div id="box1" class="slides_container" style="margin-left: 0; width: {{ site.projects | size | times: 400 }}px;">
         {% for item in site.projects %}
