@@ -41,7 +41,7 @@
                     <ul>
                         <li><a href="" onclick="scrollPageTo(event);">Home</a></li>
                         <li><a href="#communicatiemiddelen" onclick="scrollPageTo(event);">Communicatiemiddelen</a></li>
-                        <li><a href="#portfolio" onclick="scrollPageTo(event);">Portfolio</a></li>
+                        <li><a href="/#portfolio" onclick="scrollPageTo(event);">Portfolio</a></li>
                         <li><a href="#blogs" onclick="scrollPageTo(event);">Blogs</a></li>
                         <li><a href="#contact" onclick="scrollPageTo(event);">Contact</a></li>
                     </ul>
@@ -101,23 +101,36 @@
         </div>
 
         <script>
+            window.onload = function(){ 
+                if (window.location.hash) { 
+                    id=window.location.hash.replace('#','');
+                    if(id) element = document.getElementById(id);
+                    else element = '';
+                    if(element) doScroll(element);
+                }
+            }
+
             document.addEventListener("DOMContentLoaded", documentReady);
             window.addEventListener("resize", resizeAll);
             window.addEventListener("scroll",windowScroll);
 
+            function doScroll(element) {
+                window.scroll({
+                    behavior: 'smooth',
+                    left: 0,
+                    top: element.offsetTop - 60
+                });
+                history.pushState(null, null, '#'+element.getAttribute('id'));
+            }
             function scrollPageTo(event) {
                 event.preventDefault(); 
-                var id = event.target.getAttribute('href').replace('#','');
+                var id = event.target.getAttribute('href').replace('#','').replace('/','');
                 if(id) element = document.getElementById(id);
                 else element = '';
-                if(element) {
-                    window.scroll({
-                        behavior: 'smooth',
-                        left: 0,
-                        top: element.offsetTop - 60
-                    });
-                } else {
-                    window.location.href='/'+id;
+                if(element) doScroll(element);
+                else {
+                    if(id=='portfolio') window.location.href='/#'+id;
+                    else window.location.href='/'+id;
                 }
                 menuToggle();
             }
@@ -156,6 +169,15 @@
                     element.classList.remove('active');
                 });
                 el.classList.add('active');
+            }
+            function setGallery(el) {
+                var elements = el.closest('.gallery').querySelectorAll('.gallerythumbnail');
+                elements.forEach(element => {
+                    element.classList.remove('active');
+                });
+                el.classList.add('active');
+                var bgimg = el.style.backgroundImage;
+                el.closest('.gallery').previousElementSibling.style.backgroundImage=bgimg;
             }
         </script>
     </body>

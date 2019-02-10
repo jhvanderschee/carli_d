@@ -20,9 +20,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "portfolio"
+      type: "projects"
     values:
-      layout: "portfolio-item"
+      layout: "project"
   -
     scope:
       path: ""
