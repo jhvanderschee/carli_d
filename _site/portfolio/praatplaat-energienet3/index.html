@@ -225,11 +225,11 @@
 
                 courousel.addEventListener('touchstart', function(e){
                     phase = 'started';
-                    box1.classList.add('touch');
+                    courousel.classList.add('touch');
                     var touchobj = e.changedTouches[0]; // reference first touch point (ie: first finger)
                     startx = parseInt(touchobj.clientX); // get x position of touch point relative to left edge of browser
                     starty = parseInt(touchobj.clientY); // get x position of touch point relative to left edge of browser
-                    originalXposition = parseInt(box1.style.marginLeft);
+                    originalXposition = parseInt(courousel.style.marginLeft);
                     clearTimeout(timer);
                 }, false);
 
@@ -238,24 +238,24 @@
                     distx = parseInt(touchobj.clientX) - startx;
                     disty = parseInt(touchobj.clientY) - starty;
                     if(Math.abs(distx) > Math.abs(disty)) {
-                        box1.style.marginLeft = originalXposition + distx + 'px';
+                        courousel.style.marginLeft = originalXposition + distx + 'px';
                     }
                     else if(phase == 'started') {
-                        box1.style.marginLeft = originalXposition + 'px';
+                        courousel.style.marginLeft = originalXposition + 'px';
                     }
                     
                 }, false);
 
                 courousel.addEventListener('touchend', function(e){
-                    box1.classList.remove('touch');
+                    courousel.classList.remove('touch');
                     var touchobj = e.changedTouches[0]; // reference first touch point for this event
 
                     if(distx < -100) {
-                        box1.classList.remove('touch');
+                        courousel.classList.remove('touch');
                         nextSlide();
                     }
                     if(distx > 100) {
-                        box1.classList.remove('touch');
+                        courousel.classList.remove('touch');
                         nextSlide();
                     }
 
