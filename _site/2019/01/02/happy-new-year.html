@@ -213,7 +213,13 @@
                 var bgimg = el.style.backgroundImage;
                 el.closest('.gallery').previousElementSibling.style.backgroundImage=bgimg;
             }
-
+            function getElementIndex(node) {
+                var index = 1;
+                while ( (node = node.previousElementSibling) ) {
+                    index++;
+                }
+                return index;
+            }
 
             var startx = 0;
             var starty = 0;
@@ -225,7 +231,6 @@
             courousels.forEach(courousel => {
 
                 courousel.addEventListener('touchstart', function(e){
-                    phase = 'started';
                     courousel.classList.add('touch');
                     var touchobj = e.changedTouches[0]; // reference first touch point (ie: first finger)
                     startx = parseInt(touchobj.clientX); // get x position of touch point relative to left edge of browser
@@ -239,9 +244,14 @@
                     distx = parseInt(touchobj.clientX) - startx;
                     disty = parseInt(touchobj.clientY) - starty;
                     if(Math.abs(distx) > Math.abs(disty)) {
+                        
+                        if(getElementIndex(courousel.previousNode.querySelector('.dot.active')) == courousel.children.length) {
+                            alert('last slide');
+                        }
+                        
                         courousel.style.marginLeft = originalXposition + distx + 'px';
                     }
-                    else if(phase == 'started') {
+                    else {
                         courousel.style.marginLeft = originalXposition + 'px';
                     }
                     
