@@ -126,6 +126,17 @@
                 });
             }
 
+
+            function prevSlide() {
+                clearTimeout(timer);
+                timer = setTimeout( nextSlide, duration );
+                var elements = document.querySelectorAll('.dot.active');
+                elements.forEach(element => {
+                    if(element.previousElementSibling) element.previousElementSibling.click();
+                    else element.parentNode.querySelector('.dot:last-child').click();
+                });
+            }
+
             function doScroll(element) {
                 window.scroll({
                     behavior: 'smooth',
@@ -206,11 +217,15 @@
             var distx = 0;
             var disty = 0;
             var originalPosition = 0;
+            var activeslidenumber = 0;
+            var amountofslides = 0;
 
             var courousels = document.querySelectorAll('.slides_container');
             courousels.forEach(courousel => {
 
                 courousel.addEventListener('touchstart', function(e){
+                    activeslidenumber = getElementIndex(courousel.previousElementSibling.querySelector('.dot.active'));
+                    amountofslides = courousel.children.length;
                     courousel.classList.add('touch');
                     var touchobj = e.changedTouches[0]; // reference first touch point (ie: first finger)
                     startx = parseInt(touchobj.clientX); // get x position of touch point relative to left edge of browser
@@ -223,13 +238,11 @@
                     var touchobj = e.changedTouches[0]; // reference first touch point for this event
                     distx = parseInt(touchobj.clientX) - startx;
                     disty = parseInt(touchobj.clientY) - starty;
-                    if(Math.abs(distx) > Math.abs(disty)) {
-                        
-                        if(getElementIndex(courousel.previousNode.querySelector('.dot.active')) == courousel.children.length) {
-                            alert('last slide');
-                        }
-                        
-                        courousel.style.marginLeft = originalXposition + distx + 'px';
+                    if(Math.abs(distx) > Math.abs(disty)) { 
+                        var move = true;
+                        if(activeslidenumber == amountofslides && distx<0) move = false;
+                        if(activeslidenumber == 1 && distx>0) move = false;
+                        if(move) courousel.style.marginLeft = originalXposition + distx + 'px';
                     }
                     else {
                         courousel.style.marginLeft = originalXposition + 'px';
@@ -241,13 +254,17 @@
                     courousel.classList.remove('touch');
                     var touchobj = e.changedTouches[0]; // reference first touch point for this event
 
-                    if(distx < -100) {
+                    var move = true;
+                    if(activeslidenumber == amountofslides && distx<0) move = false;
+                    if(activeslidenumber == 1 && distx>0) move = false;
+
+                    if(distx < -100 && move) {
                         courousel.classList.remove('touch');
                         nextSlide();
                     }
-                    if(distx > 100) {
+                    if(distx > 100 && move) {
                         courousel.classList.remove('touch');
-                        nextSlide();
+                        prevSlide();
                     }
 
                     clearTimeout(timer);
