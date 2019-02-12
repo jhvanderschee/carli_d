@@ -6,3 +6,5 @@ image: /img/woman.jpg
 image_position: left bottom / auto 350px
 bgcolor: white
 ---
+
+Enkel informeren raakt ons niet en brengt ons niet in beweging.&nbsp;
