@@ -8,4 +8,4 @@ bgcolor: white
 order: 5
 ---
 
-Je hebt te weinig tijd om het plan persoonlijk te delen. Of men neemt/heeft niet genoeg tijd.
+Men neemt/heeft niet genoeg tijd.
