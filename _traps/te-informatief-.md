@@ -1,7 +1,7 @@
 ---
 title: Te informatief.
-text_left: 170
-text_right: 0
+text_left: 0
+text_right: 170
 image: /img/informatief-17.png
 image_position: right bottom / auto 350px
 bgcolor: gray
