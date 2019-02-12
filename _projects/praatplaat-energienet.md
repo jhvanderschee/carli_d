@@ -4,8 +4,7 @@ subtitle: Ekotex Graphenstone
 image: /img/binnenwand.jpg
 images:
   - image: /img/binnenwand_close.jpg
-  - image: /img/ameland.jpg
-  - image: /img/ameland.jpg
+  - image: /img/Mockup Folder.jpg
 description: >-
   Intro. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
   nonummy nibh uismod tincidunt ut laoreet olore magna aliquam erat volutpat. Ut
