@@ -2,7 +2,7 @@
 title: Te informatief.
 text_left: 170
 text_right: 0
-image: /img/woman.jpg
+image: /img/informatief-17.png
 image_position: left bottom / auto 350px
 bgcolor: gray
 order: 4
