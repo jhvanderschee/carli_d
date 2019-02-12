@@ -6,3 +6,5 @@ image: /img/woman.jpg
 image_position: left bottom / auto 350px
 bgcolor: white
 ---
+
+Er is een brij aan informatie / gebrek aan overzicht.
