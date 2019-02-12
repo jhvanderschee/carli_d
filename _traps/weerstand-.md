@@ -6,3 +6,5 @@ image: /img/woman.jpg
 image_position: left bottom / auto 350px
 bgcolor: white
 ---
+
+Verandering roept weerstand op.
