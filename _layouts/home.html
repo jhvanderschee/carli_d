@@ -121,7 +121,7 @@
 <div id="portfolio" class="section gray carousel">
     <div class="navigation">
         <div>
-            <strong>PORTFOLIO.</strong><br />
+            <strong>PORTFOLIO.</strong><br /><br />
             Selectie groene projecten.
         </div>
         <div>{% for item in site.projects %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
