@@ -19,10 +19,11 @@
 </div>
 
 <div class="section">
+        <a href="/" class="button"><< Terug naar home</a>
+
     <strong>RECENTE BLOGS.</strong><br />
     {% for item in site.posts limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
     <br />
-    <a href="/" class="button"><< Terug naar home</a>
 </div>
 
 {% include footer.html %}
