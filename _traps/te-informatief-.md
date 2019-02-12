@@ -5,7 +5,7 @@ text_right: 0
 image: /img/informatief-17.png
 image_position: left bottom / auto 350px
 bgcolor: gray
-order: 4
+order: 5
 ---
 
 Enkel informeren raakt ons niet en brengt ons niet in beweging.
