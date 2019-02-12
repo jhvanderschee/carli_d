@@ -2,7 +2,7 @@
 title: Brij.
 text_left: 170
 text_right: 0
-image: /img/brei-17.png
+image: /img/brij-18.png
 image_position: left bottom / auto 350px
 bgcolor: gray
 order: 6
