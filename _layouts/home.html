@@ -28,7 +28,7 @@
         <div>{% for item in site.traps %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
     </div>
     <div class="slides_container" style="width: {{ site.traps | size | times: 400 }}px">
-        {% for item in site.traps %}
+        {% assign sitetraps = site.traps | sort: 'order' %}{% for item in sitetraps %}
             <div class="slide {{ item.bgcolor }}" style="background: url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 125px; height: 300px;">
                 <div style="padding-left: {{ item.text_left }}px; padding-right: {{ item.text_right }}px;">
                     <strong>{{ item.title }}</strong><br />
