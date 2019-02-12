@@ -4,7 +4,7 @@ text_left: 0
 text_right: 170
 image: /img/informatief-17.png
 image_position: right bottom / auto 350px
-bgcolor: gray
+bgcolor: white
 order: 5
 ---
 
