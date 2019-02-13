@@ -9,11 +9,10 @@ images:
 description: >-
   Gemeente Ameland had behoefte aan
 
-  een beeldmerk waarmee alle elek-
-
-  trische vervoersmiddelen met elkaar verbonden zouden worden. Het beeldmerk
-  gaat toegepast worden op de Arriva-bussen, de elektrische leenauto’s geleverd
-  door Hyundai, PostNL busjes en particuliere elektrische auto’s.
+  een beeldmerk waarmee alle elektrische vervoersmiddelen met elkaar verbonden
+  zouden worden. Het beeldmerk gaat toegepast worden op de Arriva-bussen, de
+  elektrische leenauto’s geleverd door Hyundai, PostNL busjes en particuliere
+  elektrische auto’s.
 client: Convenant Duurzaam Ameland
 client_image: /img/Logo_Gemeente-10.png
 bgcolor: gray
