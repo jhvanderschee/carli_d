@@ -14,6 +14,6 @@ image: /img/Blog_visualiseren-18.png
 
 ![](/uploads/blog-visualiseren-36.png)<br>4. We kunnen slechts zo’n 20% van wat we lezen onthouden, en 10% van wat we horen. Maar van wat we zien kunnen we wel 80% onthouden.&nbsp;
 
-![](/uploads/blog-visualiseren-35.png)<br>5. Emotie is essentieel om mensen intrinsiek gemotiveerd te krijgen. En niets roept sneller emoties op dan visuele content. Van ontroering en geborgenheid tot humor en woede, je kunt het met &eacute;&eacute;n beeld oproepen.
+![](/uploads/blog-visualiseren-37.png)<br>5. Emotie is essentieel om mensen intrinsiek gemotiveerd te krijgen. En niets roept sneller emoties op dan visuele content. Van ontroering en geborgenheid tot humor en woede, je kunt het met &eacute;&eacute;n beeld oproepen.
 
 (Om dit extra kracht bij te zetten kun je voor de inhoud gebruik maken van de WHY-techniek van Simon Sinek. [Lees blog](/2019/01/01/blog-why-methode.html))<br>&nbsp;
