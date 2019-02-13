@@ -6,11 +6,11 @@
     <div class="small lightgray blogcontent">
         {{ page.content }}
 
-    <a href="/blogs" class="button"><< Terug naar alle blogs</a>
     </div>
 </div>
 
 <div class="section">
+    <a href="/blogs" class="button"><< Terug naar alle blogs</a><br /><br />
     <strong>ANDERE BLOGS.</strong><br />
     {% for item in site.posts limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
     <br />
