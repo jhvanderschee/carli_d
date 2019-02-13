@@ -4,7 +4,7 @@ description: 5 redenen waarom je plannen het best **visueel** kunt maken.
 image: /img/Blog_visualiseren-18.png
 ---
 
-**Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit blog laat zien waarom een plan visueel maken een goed idee is.**
+### **Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit blog laat zien waarom een plan visueel maken een goed idee is.**
 
 ![](/uploads/blog-visualiseren-31.png)<br>1. Wanneer je letterlijk verbanden ziet, ontstaan nieuwe inzichten. Bij jou, maar ook bij mensen met wie je het plan deelt. Dit geeft je waardevolle input van anderen, waardoor je het plan constant naar een hoger niveau tilt.&nbsp;
 
