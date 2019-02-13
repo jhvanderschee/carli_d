@@ -1,5 +1,5 @@
 ---
-title: Beeldmerk E-vervoer
+title: Beeldmerk E-vervoer.
 subtitle: Gemeente Ameland
 image: /img/E-vervoer01.jpg
 images:
