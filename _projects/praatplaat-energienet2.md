@@ -1,5 +1,5 @@
 ---
-title: Brochure Charettes
+title: Brochure Charettes.
 subtitle: CONVENANT DUURZAAM AMELAND
 image: /img/Charettes01.jpg
 images:
