@@ -4,7 +4,7 @@ description: Waarom de WHY-methode zo goed werkt.
 image: /img/man.png
 ---
 
-\*\*Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit blog laat zien waarom je de WHY-methode van Simon Sinek zou kunnen toepassen op je content, en hoe dit voor meer draagvlak zorgt.\*\*
+**Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit blog laat zien waarom je de WHY-methode van Simon Sinek zou kunnen toepassen op je content, en hoe dit voor meer draagvlak zorgt.**
 
 Simon Sinek noemt het de Golden Circle. Veel organisaties en bedrijven vertellen WAT ze verkopen, en sommigen weten ook nog wel goed te vertellen HOE ze dat doen. Maar eigenlijk maakt dat de koper niet zoveel uit; hij voelt in ieder geval niet de noodzaak om voor jou te kiezen. Je bent een van de velen die een bepaald product aanbiedt.&nbsp;
 
