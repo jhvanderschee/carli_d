@@ -1,6 +1,6 @@
 ---
 title: Circulaire binnenwand.
-subtitle: Ekotex Graphenstone
+subtitle: Ekotex
 image: /img/binnenwand.jpg
 images:
   - image: /img/binnenwand_close.jpg
@@ -8,8 +8,8 @@ images:
 description: >-
   De eerste circulaire binnenwand ter wereld verdiende een opvallende
   presentatie voor op verschillende beurzen.
-client: Ekotex Graphenstone
-client_image:
+client:
+client_image: /img/Logo_Ekotex-07.png
 bgcolor: gray
 ---
 
