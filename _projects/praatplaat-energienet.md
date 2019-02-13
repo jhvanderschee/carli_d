@@ -12,7 +12,7 @@ description: >-
   lobortis nisl ut aliquip ex ea commodo consequat.
 client: Ekotex Graphenstone
 client_image:
-bgcolor: lightgray
+bgcolor: gray
 ---
 
 ## Kopje
