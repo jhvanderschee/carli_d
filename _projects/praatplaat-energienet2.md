@@ -4,6 +4,7 @@ subtitle: Gemeente Ameland
 image: /img/Charettes01.jpg
 images:
   - image: /img/Charettes02.jpg
+  - image: /img/Charettes03.jpg
 description: >-
   Intro. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
   nonummy nibh uismod tincidunt ut laoreet olore magna aliquam erat volutpat. Ut
