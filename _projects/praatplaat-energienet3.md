@@ -12,8 +12,8 @@ description: >-
   wisi enim ad minim veniam, quis nostrud exercitation ullamcorper suscipit
   lobortis nisl ut aliquip ex ea commodo consequat.
 client: Convenant Duurzaam Ameland
-client_image: /img/evervoer.png
-bgcolor: yellow
+client_image: /img/Logo_Gemeente-10.png
+bgcolor: gray
 ---
 
 Ons brein begrijpt complexe materie beter wanneer het is verbeeld.
