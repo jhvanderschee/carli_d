@@ -1,7 +1,7 @@
 ---
 title: BLOG WHY-methode
 description: Waarom de WHY-methode zo goed werkt.
-image: /img/tomato.png
+image: /img/man.png
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque suscipit neque vel neque eleifend, vel auctor purus gravida. Nam lobortis mattis congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent ac lorem at tortor interdum feugiat eleifend convallis lorem. Curabitur mattis erat quam, quis cursus justo maximus vel. Etiam tristique at massa in hendrerit. Praesent mauris odio, posuere vitae ultricies eget, venenatis vel mi. Vivamus vel purus ultrices, accumsan tortor malesuada, tincidunt arcu. Cras rhoncus felis vitae aliquet facilisis. Proin elementum porta dolor, sit amet congue leo pretium eget. Praesent facilisis mollis magna quis laoreet. Nulla laoreet viverra urna, tempor feugiat lorem vehicula quis. Curabitur ac odio eget augue pretium consectetur.
