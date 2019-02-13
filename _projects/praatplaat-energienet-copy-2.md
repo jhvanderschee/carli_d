@@ -1,5 +1,5 @@
 ---
-title: Logo en folder Sweepsmart.
+title: Huisstijl en folder Sweepsmart.
 subtitle: SweepSmart
 image: /img/Sweep02.jpg
 images:
