@@ -20,6 +20,6 @@ Kort samengevat zijn hier een paar voorbeelden van methoden die wel werken:
 
 **GEMEENSCHAPPELIJKE BASIS**<br>Door je te richten op wat je met elkaar gemeen hebt qua opvatting/doel (bv. meer veiligheid, betere gezondheid), in plaats van op datgene waarover je het oneens bent, ontstaat er ruimte voor begrip en verandering.
 
-BEVESTIG BESTAANDE IDEE<br>Je kunt een argument voorleggen dat niet in tegenstrijd is met de bestaande idee&euml;n. Bevestig het bestaande idee (veilig) en voeg daar nieuwe informatie aan toe. Dit schept de mogelijkheid tot verschuiving van het oorspronkelijke idee.
+**BEVESTIG BESTAANDE IDEE**<br>Je kunt een argument voorleggen dat niet in tegenstrijd is met de bestaande idee&euml;n. Bevestig het bestaande idee (veilig) en voeg daar nieuwe informatie aan toe. Dit schept de mogelijkheid tot verschuiving van het oorspronkelijke idee.
 
 <br>*Meer lezen? Boek: Tali Sharot - Dingen gedaan krijgen*
