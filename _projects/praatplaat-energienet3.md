@@ -3,8 +3,8 @@ title: Beeldmerk E-vervoer.
 subtitle: Gemeente Ameland
 image: /img/E-vervoer01.jpg
 images:
-  - image: /img/E-vervoer02.jpg
   - image: /img/E-vervoer04.jpg
+  - image: /img/E-vervoer02.jpg
   - image: /img/E-vervoer03.jpg
 description: >-
   Gemeente Ameland had behoefte aan
