@@ -1,5 +1,5 @@
 ---
-title: Circulaire binnenwand.
+title: Presentatiemateriaal Circulaire binnenwand.
 subtitle: Ekotex
 image: /img/binnenwand.jpg
 images:
@@ -13,6 +13,6 @@ client_image: /img/Logo_Ekotex-07.png
 bgcolor: gray
 ---
 
-Door het materiaal te lasergraveren met het ontwerp, hebben we ervoor gezorgd dat de aandacht niet van het materiaal werd afgeleid. Deze dummy-wand is ondertussen al de hele wereld over geweest. &nbsp;
+Door het materiaal te lasergraveren met het ontwerp, hebben we ervoor gezorgd dat de aandacht niet van het materiaal werd afgeleid. Deze dummy-wand is ondertussen al de hele wereld over geweest.  
 
-i.s.m.&nbsp;Open Design Centrum Amsterdam (graveren)
+i.s.m. Open Design Centrum Amsterdam (graveren)
