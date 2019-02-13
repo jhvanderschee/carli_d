@@ -1,5 +1,5 @@
 ---
-title: Happy new year
+title: BLOG WHY-methode
 description: Waarom de WHY-methode zo goed werkt.
 image: /img/tomato.png
 ---
@@ -14,4 +14,4 @@ Nam feugiat vehicula massa eget imperdiet. Cras non sem enim. Suspendisse potent
 
 Fusce viverra, diam quis sollicitudin mattis, leo magna suscipit enim, nec vehicula est magna sit amet est. Nulla non sollicitudin sem. Aliquam imperdiet sed metus sed tincidunt. Fusce suscipit vel leo ac consectetur. Fusce ac tellus neque. Quisque nec metus purus. Morbi maximus est quis mi bibendum, in dictum nisl malesuada. Maecenas luctus purus at urna hendrerit pulvinar non eget tortor. Duis nec purus hendrerit, elementum sapien ut, mollis turpis. Cras ullamcorper posuere neque nec accumsan. Nam nec ullamcorper orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
-Praesent pretium placerat maximus. Proin vel nibh id mauris dignissim laoreet vitae ac odio. Fusce interdum dolor lorem, eu sollicitudin ligula venenatis at. Integer urna dolor, cursus id vulputate sit amet, convallis in augue. Quisque lacinia et quam et aliquam. Maecenas consequat blandit nisl eget vulputate. Curabitur scelerisque sed libero sed interdum. Suspendisse potenti. Maecenas at auctor orci. 
+Praesent pretium placerat maximus. Proin vel nibh id mauris dignissim laoreet vitae ac odio. Fusce interdum dolor lorem, eu sollicitudin ligula venenatis at. Integer urna dolor, cursus id vulputate sit amet, convallis in augue. Quisque lacinia et quam et aliquam. Maecenas consequat blandit nisl eget vulputate. Curabitur scelerisque sed libero sed interdum. Suspendisse potenti. Maecenas at auctor orci.
