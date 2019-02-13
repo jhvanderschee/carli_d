@@ -10,7 +10,7 @@ image: /img/Blog_visualiseren-18.png
 
 ![](/uploads/blog-visualiseren-32.png)<br>2. We worden overspoeld met informatie. Dus moet je slim zijn in je manier van vertellen. Onderzoek toont aan dat we gevisualiseerde informatie 60.000 keer sneller verwerken dan tekst. Zo kun je meer vertellen door minder woorden te gebruiken. &nbsp;
 
-![](/uploads/blog-visualiseren-27.png)<br>3. Bijna alle informatie die naar ons brein wordt gestuurd is visueel. Hierdoor is maar liefst de helft van onze hersenen ingesteld op visuele verwerking. Het is dus niet gek dat we complexe materie beter en sneller begrijpen wanneer het verbeeld is.&nbsp;
+![](/uploads/blog-visualiseren-33.png)<br>3. Bijna alle informatie die naar ons brein wordt gestuurd is visueel. Hierdoor is maar liefst de helft van onze hersenen ingesteld op visuele verwerking. Het is dus niet gek dat we complexe materie beter en sneller begrijpen wanneer het verbeeld is.&nbsp;
 
 ![](/uploads/blog-visualiseren-29.png)<br>4. We kunnen slechts zo’n 20% van wat we lezen onthouden, en 10% van wat we horen. Maar van wat we zien kunnen we wel 80% onthouden.&nbsp;
 
