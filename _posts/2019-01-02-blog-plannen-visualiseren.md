@@ -1,5 +1,5 @@
 ---
-title: BLOG Plannen visualiseren.
+title: BLOG Plannen visualiseren
 description: 5 redenen waarom je plannen het best **visueel** kunt maken.
 image: /img/Blog_visualiseren-18.png
 ---
@@ -14,6 +14,6 @@ image: /img/Blog_visualiseren-18.png
 
 ![](/uploads/blog-visualiseren-29.png)<br>BETER TE ONTHOUDEN<br>We kunnen slechts zo’n 20% van wat we lezen onthouden, en 10% van wat we horen. Maar van wat we zien kunnen we wel 80% onthouden.&nbsp;
 
-![](/uploads/blog-visualiseren-26.png)<br>MOTIVERENDER<br>Emotie is essentieel om mensen intrinsiek gemotiveerd te krijgen. En niets roept sneller emoties op dan visuele content. Van ontroering en geborgenheid tot humor en woede, je kunt het met &eacute;&eacute;n beeld oproepen.
+![](/uploads/blog-visualiseren-30.png)<br>MOTIVERENDER<br>Emotie is essentieel om mensen intrinsiek gemotiveerd te krijgen. En niets roept sneller emoties op dan visuele content. Van ontroering en geborgenheid tot humor en woede, je kunt het met &eacute;&eacute;n beeld oproepen.
 
 (Om dit extra kracht bij te zetten kun je voor de inhoud gebruik maken van de WHY-techniek van Simon Sinek. [Lees blog](/2019/01/01/blog-why-methode.html))<br>&nbsp;
