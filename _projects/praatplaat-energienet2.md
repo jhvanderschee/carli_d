@@ -1,6 +1,6 @@
 ---
 title: Brochure Charettes
-subtitle: Gemeente Ameland
+subtitle: CONVENANT DUURZAAM AMELAND
 image: /img/Charettes01.jpg
 images:
   - image: /img/Charettes02.jpg
