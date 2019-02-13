@@ -11,7 +11,7 @@ description: >-
   lobortis nisl ut aliquip ex ea commodo consequat.
 client: Convenant Duurzaam Ameland
 client_image: /img/Convenant_logoos.png
-bgcolor: white
+bgcolor: yellow
 ---
 
 Ons brein begrijpt complexe materie beter wanneer het is verbeeld.
