@@ -7,13 +7,18 @@ images:
   - image: /img/E-vervoer04.jpg
   - image: /img/E-vervoer03.jpg
 description: >-
-  Intro. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-  nonummy nibh uismod tincidunt ut laoreet olore magna aliquam erat volutpat. Ut
-  wisi enim ad minim veniam, quis nostrud exercitation ullamcorper suscipit
-  lobortis nisl ut aliquip ex ea commodo consequat.
+  Gemeente Ameland had behoefte aan
+
+  een beeldmerk waarmee alle elek-
+
+  trische vervoersmiddelen met elkaar verbonden zouden worden. Het beeldmerk
+  gaat toegepast worden op de Arriva-bussen, de elektrische leenauto’s geleverd
+  door Hyundai, PostNL busjes en particuliere elektrische auto’s.
 client: Convenant Duurzaam Ameland
 client_image: /img/Logo_Gemeente-10.png
 bgcolor: gray
 ---
 
-Ons brein begrijpt complexe materie beter wanneer het is verbeeld.
+Omdat alle elektrische vervoersmiddelen al een eigen communicatie voerde omtrent het elektrische rijden, heeft Frisse Plannen gekeken naar welke boodschap een aanvulling zou zijn &egrave;n zou inspireren mee te willen doen.&nbsp;
+
+Dit beeldmerk is daaruit voortgekomen. Het speelt in op het gevoel door op een simpele en enthousiasmerende manier uit te leggen wat het doel is waarnaar wordt gestreefd.&nbsp;
