@@ -8,9 +8,9 @@ image: /img/Blog_valkuilen-30.png
 
 **Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit blog laat zien waar het vaak misgaat, en hoe je dat kunt voorkomen.&nbsp;**
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/blog-valkuilen-31.png)<br>LUISTEREN<br>Ons gehoor gebruikt minder dan 2% van het verwerkingsvermogen van onze zintuigen. Ons zicht 75%. Hierdoor begrijpen we gevisualiseerde inhoud niet alleen beter, we onthouden het ook makkelijker.
+![](/uploads/blog-valkuilen-31.png)<br>Ons gehoor gebruikt minder dan 2% van het verwerkingsvermogen van onze zintuigen. Ons zicht 75%. Hierdoor begrijpen we gevisualiseerde inhoud niet alleen beter, we onthouden het ook makkelijker.
 
-JARGON<br>Doordat je zelf diep in de materie zit sta je er niet bij stil hoeveel vaktaal je gebruikt. Maar wat we niet goed begrijpen, komt niet goed aan. Gebruik daarom de taal van je doelgroep, of laat een leek eens naar je tekst kijken.&nbsp;
+![](/uploads/blog-valkuilen-32.png)<br>Doordat je zelf diep in de materie zit sta je er niet bij stil hoeveel vaktaal je gebruikt. Maar wat we niet goed begrijpen, komt niet goed aan. Gebruik daarom de taal van je doelgroep, of laat een leek eens naar je tekst kijken.&nbsp;
 
 TE INFORMATIEF<br>Hoe indrukwekkend of schokkend cijfers en statistieken ook kunnen zijn, ze zetten ons niet in beweging. Mensen willen geraakt worden. Draag daarom een doel uit waar men zich in kan herkennen. Benoem je ambitie. Raak het hart, overtuig het hoofd. &nbsp;
 
