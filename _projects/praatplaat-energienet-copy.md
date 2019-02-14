@@ -13,6 +13,8 @@ client_title: Opdrachtgever
 client:
 client_image: /img/Logos_GZI-03.png
 bgcolor: gray
+tags: 
+ - brochure
 order: 2
 ---
 

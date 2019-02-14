@@ -4,6 +4,7 @@ description: |-
   **7 redenen** waarom goede 
   plannen vaak stranden
 image: /img/Blog_valkuilen-30.png
+tag: brochure
 order: 1
 ---
 

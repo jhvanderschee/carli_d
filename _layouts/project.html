@@ -22,8 +22,9 @@
 <div class="section">
         <a href="/#portfolio" class="button"><< Terug</a><br /><br />
 
-    <strong>RECENTE BLOGS.</strong><br />
-    {% for item in site.articles limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
+    <strong>GERELATEERDE BLOGS.</strong><br />
+    {% assign sitearticles = site.articles | where_exp: "item", "item.tags contains page.tags" %}
+    {% for item in sitearticles limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
     <br />
 </div>
 

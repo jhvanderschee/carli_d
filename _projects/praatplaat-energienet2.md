@@ -13,6 +13,8 @@ client_title: Opdrachtgever
 client: Convenant Duurzaam Ameland
 client_image: /img/Convenant_logoos.png
 bgcolor: yellow
+tags: 
+ - brochure
 order: 4
 ---
 

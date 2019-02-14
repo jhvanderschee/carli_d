@@ -2,6 +2,7 @@
 title: BLOG WHY-methode
 description: Waarom de **WHY-methode** zo goed werkt
 image: /img/man.png
+tag: praatplaat
 order: 1
 ---
 

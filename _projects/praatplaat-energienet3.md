@@ -17,6 +17,9 @@ client_title: Opdrachtgever
 client:
 client_image: /img/Logo_Gemeente-10.png
 bgcolor: gray
+tags: 
+ - praatplaat
+ - brochure
 order: 5
 ---
 
