@@ -13,8 +13,10 @@ description: >-
   in betere banen te leiden mèt banen om trots op te zijn. Een flinke uitdaging.
   Maar met hun (Europese) kennis op afvalgebied zagen zij grote kansen voor
   verbetering.
+client_title: Opdrachtgever
 client: Niels van den Hoek en Silvia de Vaan
 client_image:
 bgcolor: gray
+order: 1
 ---
 

@@ -9,9 +9,11 @@ description: >-
   Gemeente Ameland wil in 2020 volledig energieneutraal zijn. Om deze ambitie
   waar te maken is er van alle kanten hulp nodig; Samen op weg naar de energie
   van de toekomst.
+client_title: Opdrachtgever
 client: Convenant Duurzaam Ameland
 client_image: /img/Convenant_logoos.png
 bgcolor: yellow
+order: 4
 ---
 
 Er zijn in alle vier de dorpen Charette-avonden georganiseerd. De insteek van de avonden was om bewoners, bedrijfseigenaren en experts samen te laten discussi&euml;ren over het ingewikkelde vraagstuk 'de energietransitie'.&nbsp;

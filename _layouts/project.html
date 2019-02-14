@@ -12,7 +12,7 @@
 
         {{ content }}
 
-        <p><i>Opdrachtgever:</i><br />
+        <p><i>{{ page.client_title }}:</i><br />
         {{ page.client }}</p>
 
         <img src="{{ page.client_image }}" />
@@ -20,7 +20,7 @@
 </div>
 
 <div class="section">
-        <a href="/" class="button"><< Terug</a><br /><br />
+        <a href="/#portfolio" class="button"><< Terug</a><br /><br />
 
     <strong>RECENTE BLOGS.</strong><br />
     {% for item in site.posts limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}

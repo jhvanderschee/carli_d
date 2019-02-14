@@ -13,9 +13,11 @@ description: >-
   zouden worden. Het beeldmerk gaat toegepast worden op de Arriva-bussen, de
   elektrische leenauto’s geleverd door Hyundai, PostNL busjes en particuliere
   elektrische auto’s.
+client_title: Opdrachtgever
 client:
 client_image: /img/Logo_Gemeente-10.png
 bgcolor: gray
+order: 5
 ---
 
 Omdat alle elektrische vervoersmiddelen al een eigen communicatie voerde omtrent het elektrische rijden, heeft Frisse Plannen gekeken naar welke boodschap een aanvulling zou zijn &egrave;n zou inspireren mee te willen doen.&nbsp;
