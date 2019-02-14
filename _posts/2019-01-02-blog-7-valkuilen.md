@@ -14,7 +14,7 @@ image: /img/Blog_valkuilen-30.png
 
 ![](/uploads/blog-valkuilen-39.png)<br>Hoe indrukwekkend of schokkend cijfers en statistieken ook kunnen zijn, ze zetten ons niet in beweging. Mensen willen geraakt worden. Draag daarom een doel uit waar men zich in kan herkennen. Benoem je ambitie. Raak het hart, overtuig het hoofd. &nbsp;
 
-![](/uploads/blog-valkuilen-35.png)<br>Verandering roept weerstand op. We weten wat we nu hebben, terwijl verandering onzekerheid met zich meebrengt. Men houdt van nature vast aan de huidige situatie, hoe onaangenaam die ook is. Neem je doelgroep daarom mee in overwegingen en beslissingen om de mindset stap voor stap te transformeren.&nbsp;
+![](/uploads/blog-valkuilen-41.png)<br>Verandering roept weerstand op. We weten wat we nu hebben, terwijl verandering onzekerheid met zich meebrengt. Men houdt van nature vast aan de huidige situatie, hoe onaangenaam die ook is. Neem je doelgroep daarom mee in overwegingen en beslissingen om de mindset stap voor stap te transformeren.&nbsp;
 
 ![](/uploads/blog-valkuilen-36.png)<br>Er werken meerdere partijen aan het plan. Ieder met zijn eigen insteek en doel. Er ontstaat een brij aan informatie en een gebrek aan overzicht. Bepaal de essentie en houd het grotere doel voor ogen om orde in de chaos te scheppen.
 
