@@ -11,7 +11,8 @@
 
 <div class="section">
     <strong>ANDERE BLOGS.</strong><br />
-    {% for item in site.posts limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
+    {% assign siteposts = site.posts | where_exp: "item","item contains 'design-pattern'" %}
+    {% for item in siteposts limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
     <br />
         <a href="/blogs" class="button"><< Naar alle blogs</a><br /><br />
 </div>
