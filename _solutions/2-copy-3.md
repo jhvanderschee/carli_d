@@ -1,10 +1,10 @@
 ---
-title: Nieuwe inzichten.
+title: Beter te onthouden.
 text_left: 0
 text_right: 170
-image: /img/oplossing-20.png
-image_position: left bottom / auto 350px
+image: /img/oplossing-21.png
+image_position: right bottom / auto 350px
 bgcolor: lightgray
 ---
 
-Doordat je letterlijk verbanden ziet, krijg je nieuwe inzichten.
+Zo’n 80% van wat we zien kunnen we onthouden, tegenover slechts 20%&nbsp;<br>van wat we lezen.&nbsp;
