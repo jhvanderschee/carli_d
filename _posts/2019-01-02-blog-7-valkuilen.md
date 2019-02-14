@@ -10,7 +10,7 @@ image: /img/Blog_valkuilen-30.png
 
 ![](/uploads/blog-valkuilen-33.png)<br>Ons gehoor gebruikt minder dan 2% van het verwerkingsvermogen van onze zintuigen. Ons zicht 75%. Hierdoor begrijpen we gevisualiseerde inhoud niet alleen beter, we onthouden het ook makkelijker.
 
-![](/uploads/blog-valkuilen-39.png)<br>Doordat je zelf diep in de materie zit sta je er niet bij stil hoeveel vaktaal je gebruikt. Maar wat we niet goed begrijpen, komt niet goed aan. Gebruik daarom de taal van je doelgroep, of laat een leek eens naar je tekst kijken.&nbsp;
+![](/uploads/blog-valkuilen-40.png)<br>Doordat je zelf diep in de materie zit sta je er niet bij stil hoeveel vaktaal je gebruikt. Maar wat we niet goed begrijpen, komt niet goed aan. Gebruik daarom de taal van je doelgroep, of laat een leek eens naar je tekst kijken.&nbsp;
 
 ![](/uploads/blog-valkuilen-39.png)<br>Hoe indrukwekkend of schokkend cijfers en statistieken ook kunnen zijn, ze zetten ons niet in beweging. Mensen willen geraakt worden. Draag daarom een doel uit waar men zich in kan herkennen. Benoem je ambitie. Raak het hart, overtuig het hoofd. &nbsp;
 
