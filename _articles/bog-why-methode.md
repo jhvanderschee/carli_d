@@ -2,6 +2,7 @@
 title: BLOG WHY-methode
 description: Waarom de **WHY-methode** zo goed werkt
 image: /img/man.png
+order: 1
 ---
 
 **Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit blog laat zien waarom je de WHY-methode van Simon Sinek zou kunnen toepassen op je content, en hoe dit voor meer draagvlak zorgt.**

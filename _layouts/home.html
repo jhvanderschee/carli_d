@@ -185,7 +185,7 @@
 
 <div id="blogs" class="section">
         <strong>BLOGS.</strong>
-        {% for item in site.posts limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
+        {% for item in site.articles limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
         <br />
         <a href="blogs" class="button">Zie meer blogs >></a>
 

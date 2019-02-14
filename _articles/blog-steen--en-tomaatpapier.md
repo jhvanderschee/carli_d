@@ -2,6 +2,7 @@
 title: BLOG Steen- en tomaatpapier
 description: 'Een flyer gedrukt op **tomaat**, een landkaart van **steen**...'
 image: /uploads/Blog_tomaat-29.png
+order: 1
 ---
 
 **Je hebt een innovatief en milieubewust plan dat je wilt gaan communiceren. Een logische keus zou het dan zijn om de communicatie op een innovatief en milieuvriendelijk papiersoort te gaan drukken.&nbsp;**

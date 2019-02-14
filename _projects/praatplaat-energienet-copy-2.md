@@ -19,4 +19,3 @@ client_image:
 bgcolor: gray
 order: 1
 ---
-

@@ -2,6 +2,7 @@
 title: BLOG Plannen visualiseren
 description: 5 redenen waarom je plannen het best **visueel** kunt maken
 image: /img/Blog_visualiseren-18.png
+order: 1
 ---
 
 **Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit blog laat zien waarom een plan visueel maken een goed idee is.**
