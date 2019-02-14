@@ -8,7 +8,7 @@ image: /img/Blog_valkuilen-30.png
 
 **Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit blog laat zien waar het vaak misgaat, en hoe je dat kunt voorkomen.&nbsp;**
 
-![](/uploads/blog-valkuilen-31.png)<br>Ons gehoor gebruikt minder dan 2% van het verwerkingsvermogen van onze zintuigen. Ons zicht 75%. Hierdoor begrijpen we gevisualiseerde inhoud niet alleen beter, we onthouden het ook makkelijker.
+![](/uploads/blog-valkuilen-33.png)<br>Ons gehoor gebruikt minder dan 2% van het verwerkingsvermogen van onze zintuigen. Ons zicht 75%. Hierdoor begrijpen we gevisualiseerde inhoud niet alleen beter, we onthouden het ook makkelijker.
 
 ![](/uploads/blog-valkuilen-32.png)<br>Doordat je zelf diep in de materie zit sta je er niet bij stil hoeveel vaktaal je gebruikt. Maar wat we niet goed begrijpen, komt niet goed aan. Gebruik daarom de taal van je doelgroep, of laat een leek eens naar je tekst kijken.&nbsp;
 
