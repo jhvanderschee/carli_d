@@ -6,8 +6,9 @@ images:
   - image: /img/GZI03.jpg
   - image: /img/GZI02.jpg
 description: >-
-  Provincie Drenthe is bezig om de oude gaswinningslocaties van de NAM om te
-  bouwen tot locaties waar duurzaam energie wordt opgewekt/opgeslagen.
+  Provincie Drenthe is in samenwerking met de NAM (en nog een aantal andere
+  partners) bezig om de oude gaswinningslocaties van de NAM om te bouwen tot
+  locaties waar duurzaam energie wordt opgewekt/opgeslagen.
 client:
 client_image: /img/Logos_GZI-03.png
 bgcolor: gray
