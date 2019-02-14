@@ -18,6 +18,6 @@ image: /img/Blog_valkuilen-30.png
 
 ![](/uploads/blog-valkuilen-42.png)<br>Er werken meerdere partijen aan het plan. Ieder met zijn eigen insteek en doel. Er ontstaat een brij aan informatie en een gebrek aan overzicht. Bepaal de essentie en houd het grotere doel voor ogen om orde in de chaos te scheppen.
 
-![](/uploads/blog-valkuilen-37.png)<br>We worden overspoeld met informatie en boodschappen, waardoor we selectief zijn in wat we tot ons nemen. Het is dus belangrijker dan ooit om de essentie te vangen en deze helder en overtuigend over te brengen. Nadat er interesse is ontstaan, komt er vanzelf behoefte aan meer informatie.&nbsp;
+![](/uploads/blog-valkuilen-43.png)<br>We worden overspoeld met informatie en boodschappen, waardoor we selectief zijn in wat we tot ons nemen. Het is dus belangrijker dan ooit om de essentie te vangen en deze helder en overtuigend over te brengen. Nadat er interesse is ontstaan, komt er vanzelf behoefte aan meer informatie.&nbsp;
 
 ![](/uploads/blog-valkuilen-38.png)<br>Het liefst deel je het plan persoonlijk met iedereen. Door tijdgebrek moet je een manier vinden om de informatie helder, overtuigend en consistent over te brengen. Bijvoorbeeld door een animatie, brochure of een praatplaat. &nbsp;
