@@ -3,7 +3,7 @@ title: BLOG 7 valkuilen
 description: |-
   7 redenen waarom goede 
   plannen vaak stranden
-image: /img/Blog_visualiseren-18.png
+image: /img/Blog_valkuilen-30.png
 ---
 
 **Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit blog laat zien waar het vaak misgaat, en hoe je dat kunt voorkomen.&nbsp;**
