@@ -1,5 +1,5 @@
 ---
-title: Huisstijl en folder Sweepsmart.
+title: Huisstijl en folder SweepSmart.
 subtitle: SweepSmart
 image: /img/Sweep02.jpg
 images:
