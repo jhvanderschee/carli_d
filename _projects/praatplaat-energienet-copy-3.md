@@ -6,9 +6,11 @@ images:
   - image: /img/GZI03.jpg
   - image: /img/GZI02.jpg
 description: >-
-  Provincie Drenthe is in samenwerking met de NAM (en nog een aantal andere
-  partners) bezig om de oude gaswinningslocaties van de NAM om te bouwen tot
-  locaties waar duurzaam energie wordt opgewekt/opgeslagen.
+  Op weg naar een volledig energie-
+
+  neutraal eiland ontstond de behoefte deze ambitie groots bekend te maken. Met
+  als doel om medewerking te krijgen van bewoners, lokale bedrijven en de
+  overheid. Samen op weg naar de energie van de toekomst.
 client_title: Opdrachtgever
 client:
 client_image: /img/Logos_GZI-03.png
@@ -18,6 +20,4 @@ tags:
 order: 2
 ---
 
-Om constructief discussies te kunnen voeren en mensen in te lichten over de plannen, heeft Frisse Plannen een praatplaat ontworpen. Op deze plaat kan geschoven worden met de mogelijke oplossingen, dit omdat deze oplossingen nog niet vast staan. 
-
-FACTSHEETS<br>Om de (complexe) duurzame technieken uit te leggen zijn er factsheets ontworpen.
+Om constructief discussies te kunnen voeren en mensen in te lichten over de plannen, heeft Frisse Plannen een praatplaat ontworpen. Op deze plaat kan geschoven worden met de mogelijke oplossingen, dit omdat deze oplossingen nog niet vast staan.&nbsp;
