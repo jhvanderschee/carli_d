@@ -8,7 +8,7 @@ images:
 description: >-
   De eerste circulaire binnenwand ter wereld verdiende een opvallende
   presentatie voor op verschillende internationale beurzen.
-client_title: Opdrachtgever
+client_title: Opdrachtgevers
 client:
 client_image: /img/Logo_Ekotex-07.png
 bgcolor: lightgray
