@@ -13,3 +13,5 @@ order: 1
 **Maar hoe krijg je mensen wel in beweging? Hoe krijg je ze intrinsiek gemotiveerd?**<br>Door te vertellen WAAROM je iets doet. Wat je doel is. Waar je naar toe wilt. Waar je in gelooft. Wanneer anderen dit voelen, kunnen ze zich hierin herkennen en willen ze er onderdeel van uitmaken. Dit werkt doordat je met deze methode aanspraak maakt op het limbische deel van de hersenen. Dit deel is verantwoordelijk voor alle gevoelens, zoals vertrouwen en loyaliteit. Ook wordt hier al het menselijk gedrag bepaald en besluiten gevormd. Dus niet met rationele feiten en informatie. Deze zijn ook nodig, maar pas nadat je de doelgroep hebt geraakt.
 
 [*Zie TED-talk van Simon Sinek &gt;&gt;*](https://youtu.be/IPYeCltXpxw){: target="_blank"}
+
+&nbsp;
