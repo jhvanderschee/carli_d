@@ -16,8 +16,9 @@ description: >-
 client_title: Opdrachtgever
 client: Niels van den Hoek en Silvia de Vaan
 client_image:
-bgcolor: gray
-tags: 
- - brochure
+bgcolor: lightgray
+tags:
+  - brochure
 order: 1
 ---
+
