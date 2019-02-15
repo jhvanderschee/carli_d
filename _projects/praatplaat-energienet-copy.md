@@ -12,9 +12,9 @@ description: >-
 client_title: Opdrachtgever
 client:
 client_image: /img/Logos_GZI-03.png
-bgcolor: gray
-tags: 
- - brochure
+bgcolor: lightgreen
+tags:
+  - brochure
 order: 2
 ---
 
