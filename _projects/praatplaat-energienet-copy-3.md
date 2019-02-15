@@ -4,7 +4,6 @@ subtitle: Gemeente Ameland
 image: /img/DA_praatplaat.jpg
 images:
   - image: /img/DA_animatie.jpg
-  - image: /img/GZI02.jpg
 description: >-
   Op weg naar een volledig energieneutraal eiland ontstond de behoefte deze
   ambitie groots bekend te maken. Met als doel om medewerking te krijgen van
