@@ -14,7 +14,7 @@ Het klinkt allemaal heel spannend, en dat is het ook, maar je hoeft niet bang te
 
 Hieronder drie bijzondere soorten papier uitgelegd. &nbsp;
 
-![](/uploads/blog-steenpapier-26.png)<br>**TOMAAT**<br>Van de vezels van de tomatenplant kan papier gemaakt worden. Materiaal dat eerst werd gezien als afval, krijgt zo weer een hoogwaardig nieuw leven. Voor de productie van dit papier wordt er tevens nog gebruik gemaakt van houtvezels, anders zouden er gaten ontstaan in het papier. Er wordt gestreefd naar een zo laag mogelijk percentage houtvezels. In het papier zie je, net als bij gerecycled papier, vezels zitten.&nbsp;
+![](/uploads/blog-steenpapier-29.png)<br>**TOMAAT**<br>Van de vezels van de tomatenplant kan papier gemaakt worden. Materiaal dat eerst werd gezien als afval, krijgt zo weer een hoogwaardig nieuw leven. Voor de productie van dit papier wordt er tevens nog gebruik gemaakt van houtvezels, anders zouden er gaten ontstaan in het papier. Er wordt gestreefd naar een zo laag mogelijk percentage houtvezels. In het papier zie je, net als bij gerecycled papier, vezels zitten.&nbsp;
 
 ![](/uploads/blog-steenpapier-27.png)
 
