@@ -25,3 +25,5 @@ Kort samengevat zijn hier een paar voorbeelden van methoden die wel werken:
 **BEVESTIG BESTAANDE IDEE**<br>Je kunt een argument voorleggen dat niet in tegenstrijd is met de bestaande idee&euml;n. Bevestig het bestaande idee (veilig) en voeg daar nieuwe informatie aan toe. Dit schept de mogelijkheid tot verschuiving van het oorspronkelijke idee.
 
 <br>*Meer lezen? Boek: Tali Sharot - Dingen gedaan krijgen*
+
+&nbsp;
