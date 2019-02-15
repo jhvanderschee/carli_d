@@ -16,7 +16,7 @@ Hieronder drie bijzondere soorten papier uitgelegd. &nbsp;
 
 ![](/uploads/blog-steenpapier-29.png)<br>**TOMAAT**<br>Van de vezels van de tomatenplant kan papier gemaakt worden. Materiaal dat eerst werd gezien als afval, krijgt zo weer een hoogwaardig nieuw leven. Voor de productie van dit papier wordt er tevens nog gebruik gemaakt van houtvezels, anders zouden er gaten ontstaan in het papier. Er wordt gestreefd naar een zo laag mogelijk percentage houtvezels. In het papier zie je, net als bij gerecycled papier, vezels zitten.&nbsp;
 
-![](/uploads/blog-steenpapier-27.png)
+![](/uploads/blog-steenpapier-30.png)
 
 **STEEN**<br>Papier gemaakt van steen. Het kan gewoon. Zonder gebruik van bomen dus. En ook nog eens zonder het gebruik van water. Naast dat het heel milieuvriendelijk is in de productie, is het ook nog eens watervast (handig voor landkaarten) en lastig te scheuren. Dit papier is off-white en voelt zacht aan.
 
