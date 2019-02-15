@@ -6,11 +6,10 @@ images:
   - image: /img/DA_animatie.jpg
   - image: /img/GZI02.jpg
 description: >-
-  Op weg naar een volledig energie-
-
-  neutraal eiland ontstond de behoefte deze ambitie groots bekend te maken. Met
-  als doel om medewerking te krijgen van bewoners, lokale bedrijven en de
-  overheid. Samen op weg naar de energie van de toekomst.
+  Op weg naar een volledig energieneutraal eiland ontstond de behoefte deze
+  ambitie groots bekend te maken. Met als doel om medewerking te krijgen van
+  bewoners, lokale bedrijven en de overheid. Samen op weg naar de energie van de
+  toekomst.
 client_title: Opdrachtgevers
 client:
 client_image: /img/Convenant_logoos.png
