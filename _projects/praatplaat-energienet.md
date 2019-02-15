@@ -11,9 +11,9 @@ description: >-
 client_title: Opdrachtgever
 client:
 client_image: /img/Logo_Ekotex-07.png
-bgcolor: gray
-tags: 
- - brochure
+bgcolor: lightgray
+tags:
+  - brochure
 order: 3
 ---
 
