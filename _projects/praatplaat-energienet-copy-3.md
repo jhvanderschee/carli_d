@@ -1,7 +1,7 @@
 ---
-title: Praatplaat Duurzame energie.
-subtitle: GZI next
-image: /img/GZI01.jpg
+title: Praatplaat Duurzaam Ameland.
+subtitle: Gemeente Ameland
+image: /img/DA_praatplaat.jpg
 images:
   - image: /img/GZI03.jpg
   - image: /img/GZI02.jpg
