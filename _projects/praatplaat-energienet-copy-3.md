@@ -21,3 +21,7 @@ order: 6
 ---
 
 Om constructief discussies te kunnen voeren en mensen in te lichten over de plannen, heeft Frisse Plannen een praatplaat ontworpen. Op deze plaat kan geschoven worden met de mogelijke oplossingen, dit omdat deze oplossingen nog niet vast staan.&nbsp;
+
+**STIJL**<br>Alle middelen zijn in een eenduidige stijl ontworpen, zodat ze herkenbaar zijn voor dit initiatief.
+
+**ANIMATIE**<br>Een animatie legt uit wat de complexe vraagstukken zijn en nodigt uit tot meedenken over de oplossingen.<br>[*Zie animatie &gt;&gt;*](https://vimeo.com/221402295){: target="_blank"}
