@@ -16,12 +16,12 @@ description: >-
 client_title: Opdrachtgever
 client:
 client_image: /img/Logo_Gemeente-10.png
-bgcolor: gray
-tags: 
- - praatplaat
+bgcolor: lightgray
+tags:
+  - praatplaat
 order: 5
 ---
 
-Omdat alle elektrische vervoersmiddelen al een eigen communicatie voerde omtrent het elektrische rijden, heeft Frisse Plannen gekeken naar welke boodschap een aanvulling zou zijn &egrave;n zou inspireren mee te willen doen.&nbsp;
+Omdat alle elektrische vervoersmiddelen al een eigen communicatie voerde omtrent het elektrische rijden, heeft Frisse Plannen gekeken naar welke boodschap een aanvulling zou zijn èn zou inspireren mee te willen doen. 
 
-Dit beeldmerk is daaruit voortgekomen. Het speelt in op het gevoel door op een simpele en enthousiasmerende manier uit te leggen wat het doel is waarnaar wordt gestreefd.&nbsp;
+Dit beeldmerk is daaruit voortgekomen. Het speelt in op het gevoel door op een simpele en enthousiasmerende manier uit te leggen wat het doel is waarnaar wordt gestreefd.
