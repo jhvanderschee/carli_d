@@ -1,5 +1,5 @@
 ---
-title: Praatplaat Duurzame energie.
+title: Praatplaat GZI next
 subtitle: GZI next
 image: /img/GZI01.jpg
 images:
