@@ -19,3 +19,5 @@ order: 1
 ![](/uploads/blog-visualiseren-39.png)<br>5. Emotie is essentieel om mensen intrinsiek gemotiveerd te krijgen. En niets roept sneller emoties op dan visuele content. Van ontroering en geborgenheid tot humor en woede, je kunt het met &eacute;&eacute;n beeld oproepen.
 
 (Om dit extra kracht bij te zetten kun je voor de inhoud gebruik maken van de WHY-techniek van Simon Sinek. [Lees blog](/blogs/bog-why-methode/))
+
+&nbsp;
