@@ -15,7 +15,7 @@ client_image: /img/Logos_GZI-03.png
 bgcolor: lightgreen
 tags:
   - brochure
-order: 2
+order: 20
 ---
 
 Om constructief discussies te kunnen voeren en mensen in te lichten over de plannen, heeft Frisse Plannen een praatplaat ontworpen. Op deze plaat kan geschoven worden met de mogelijke oplossingen, dit omdat deze oplossingen nog niet vast staan. 
