@@ -15,7 +15,7 @@ client_image: /img/Convenant_logoos.png
 bgcolor: lightgreen
 tags:
   - brochure
-order: 4
+order: 10
 ---
 
 Er zijn in alle vier de dorpen Charette-avonden georganiseerd. De insteek van de avonden was om bewoners, bedrijfseigenaren en experts samen te laten discussiëren over het ingewikkelde vraagstuk 'de energietransitie'. 
