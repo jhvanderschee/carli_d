@@ -15,10 +15,10 @@ client_image: /img/Convenant_logoos.png
 bgcolor: lightgreen
 tags:
   - brochure
-order: 6
+order: 50
 ---
 
-Om constructief discussies te kunnen voeren en mensen in te lichten over de plannen, heeft Frisse Plannen een praatplaat ontworpen. Op deze plaat kan geschoven worden met de mogelijke oplossingen, dit omdat deze oplossingen nog niet vast staan.&nbsp;
+Om constructief discussies te kunnen voeren en mensen in te lichten over de plannen, heeft Frisse Plannen een praatplaat ontworpen. Op deze plaat kan geschoven worden met de mogelijke oplossingen, dit omdat deze oplossingen nog niet vast staan. 
 
 **ANIMATIE**<br>De animatie legt uit wat de complexe vraagstukken zijn en nodigt uit tot meedenken over de oplossingen.<br>[*Zie animatie &gt;&gt;*](https://vimeo.com/221402295){: target="_blank"}
 
