@@ -19,6 +19,6 @@ client_image:
 bgcolor: lightgray
 tags:
   - brochure
-order: 1
+order: 60
 ---
 
