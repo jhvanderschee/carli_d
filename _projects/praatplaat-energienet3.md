@@ -19,7 +19,7 @@ client_image: /img/Logo_Gemeente-10.png
 bgcolor: lightgray
 tags:
   - praatplaat
-order: 5
+order: 40
 ---
 
 Omdat alle elektrische vervoersmiddelen al een eigen communicatie voerde omtrent het elektrische rijden, heeft Frisse Plannen gekeken naar welke boodschap een aanvulling zou zijn èn zou inspireren mee te willen doen. 
