@@ -121,10 +121,10 @@
             <strong>PORTFOLIO.</strong><br />
             Selectie groene projecten.<br />
         </div>
-        <div>{% for item in site.projects %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
+        <div>{% assign siteprojects = site.projects | sort:'order' %}{% for item in siteprojects %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
     </div>
     <div class="slides_container" style="margin-left: 0; width: {{ site.projects | size | times: 400 }}px;">
-        {% for item in site.projects %}
+        {% for item in siteprojects %}
             <div class="slide {{ item.bgcolor }}" style="padding-top: 170px;">
                 <div class="subtitle">{{ item.subtitle }}</div>
                 <strong>{{ item.title }}</strong>
