@@ -8,7 +8,7 @@ order: 1
 
 **Je hebt een innovatief en milieubewust plan dat je wilt gaan communiceren. Een logische keus zou het dan zijn om de communicatie op een innovatief en milieuvriendelijk papiersoort te gaan drukken.&nbsp;**
 
-Hoe zou het bijvoorbeeld zijn als je je flyer afdrukt op tomatenplantvezels? Of als je een brochure verspreidt die is gemaakt van landbouwafval? En wat nou als je landkaarten verstuurd die zijn afdrukt op steen?&nbsp;
+Hoe zou het bijvoorbeeld zijn als je je flyer afdrukt op tomatenplantvezels? Of als je een brochure verspreidt die is gemaakt van landbouwafval? En wat nu als je landkaarten verstuurt die zijn afgedrukt op steen?&nbsp;
 
 Het klinkt allemaal heel spannend, en dat is het ook, maar je hoeft niet bang te zijn dat het papier er ook heel anders uitziet, want dat is namelijk (meestal) niet het geval. Het is vaak wel minder wit dan gewoon papier.
 
