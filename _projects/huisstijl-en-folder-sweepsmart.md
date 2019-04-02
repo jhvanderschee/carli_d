@@ -1,6 +1,6 @@
 ---
-title: Huisstijl en folder SweepSmart.
-subtitle: SweepSmart
+title: SweepSmart.
+subtitle: Branding
 image: /img/Sweep02.jpg
 images:
   - image: /img/Sweep01.jpg
