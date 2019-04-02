@@ -15,7 +15,8 @@ client_image: /img/Convenant_logoos.png
 bgcolor: lightgreen
 tags:
   - praatplaat
-  - Motiveren
+  - discussieren
+  - motiveren
 order: 50
 ---
 
