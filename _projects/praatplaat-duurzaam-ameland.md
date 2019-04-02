@@ -1,6 +1,6 @@
 ---
-title: Praatplaat Duurzaam Ameland.
-subtitle: Gemeente Ameland
+title: Duurzaam Ameland.
+subtitle: Praatplaat
 image: /img/DA_praatplaat.jpg
 images:
   - image: /img/DA_animatie.jpg
