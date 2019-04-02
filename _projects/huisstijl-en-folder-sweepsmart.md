@@ -1,6 +1,6 @@
 ---
 title: SweepSmart.
-subtitle: Branding
+subtitle: Identiteit
 image: /img/Sweep02.jpg
 images:
   - image: /img/Sweep01.jpg
