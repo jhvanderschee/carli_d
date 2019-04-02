@@ -15,7 +15,8 @@ client_image: /img/Logos_GZI-03.png
 bgcolor: lightgreen
 tags:
   - praatplaat
-  - Motiveren
+  - discussieren
+  - motiveren
 order: 20
 ---
 
