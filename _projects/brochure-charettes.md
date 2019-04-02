@@ -1,6 +1,6 @@
 ---
-title: Brochure Charettes.
-subtitle: CONVENANT DUURZAAM AMELAND
+title: Charettes Ameland.
+subtitle: Brochure
 image: /img/Charettes01.jpg
 images:
   - image: /img/Charettes02.jpg
