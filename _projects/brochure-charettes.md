@@ -15,7 +15,8 @@ client_image: /img/Convenant_logoos.png
 bgcolor: lightgreen
 tags:
   - brochure
-  - Motiveren
+  - motiveren
+  - papier
 order: 10
 ---
 
