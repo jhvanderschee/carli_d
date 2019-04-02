@@ -17,6 +17,7 @@ tags:
   - praatplaat
   - discussieren
   - motiveren
+  - visualiseren
 order: 20
 ---
 
