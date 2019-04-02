@@ -13,7 +13,8 @@ client:
 client_image: /img/Logo_Ekotex-07.png
 bgcolor: lightgray
 tags:
-  - Papier
+  - papier
+  - valkuilen
 order: 30
 ---
 
