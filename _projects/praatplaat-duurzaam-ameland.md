@@ -14,7 +14,8 @@ client:
 client_image: /img/Convenant_logoos.png
 bgcolor: lightgreen
 tags:
-  - brochure
+  - praatplaat
+  - Motiveren
 order: 50
 ---
 
