@@ -1,6 +1,6 @@
 ---
-title: Presentatiemateriaal Binnenwand.
-subtitle: Ekotex
+title: Circulaire binnenwand.
+subtitle: Presentatiemateriaal
 image: /img/binnenwand.jpg
 images:
   - image: /img/binnenwand_close.jpg
