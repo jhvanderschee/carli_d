@@ -6,7 +6,7 @@
 </div>
 <div class="section lightgreen" style="padding-top: 1px;">
     {% assign siteprojects = site.projects | sort:'order' %}{% for item in siteprojects %}
-        <div style="position: absolute; margin-top: 50px; padding-right: 10px; cursor: pointer;" onclick="document.location.href='{{ item.url }}';" class="lightgreen">
+        <div style="position: absolute; margin-top: 50px; padding-right: 5px; cursor: pointer;" onclick="document.location.href='{{ item.url }}';" class="lightgreen">
             <div class="subtitle">{{ item.subtitle }}</div>
         </div>
 
