@@ -18,8 +18,8 @@ client:
 client_image: /img/Logo_Gemeente-10.png
 bgcolor: lightgray
 tags:
-  - branding
   - motiveren
+  - identiteit
 order: 40
 ---
 
