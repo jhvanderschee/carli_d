@@ -18,7 +18,8 @@ client: Niels van den Hoek en Silvia de Vaan
 client_image:
 bgcolor: lightgray
 tags:
-  - brochure
+  - Branding
+  - Visualiseren
 order: 60
 ---
 
