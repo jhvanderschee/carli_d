@@ -1,6 +1,6 @@
 ---
-title: Praatplaat GZI next
-subtitle: GZI next
+title: GZI next.
+subtitle: Praatplaat
 image: /img/GZI01.jpg
 images:
   - image: /img/GZI03.jpg
