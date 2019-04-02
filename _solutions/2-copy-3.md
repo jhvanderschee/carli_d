@@ -8,4 +8,4 @@ bgcolor: white
 order: 3
 ---
 
-Zo’n 80% van wat we *zien* kunnen we onthouden (20% bij *lezen*).
+Zo’n 80% van wat we *zien* kunnen we onthouden (bij *lezen 20%*).
