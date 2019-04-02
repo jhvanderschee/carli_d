@@ -13,7 +13,7 @@ client:
 client_image: /img/Logo_Ekotex-07.png
 bgcolor: lightgray
 tags:
-  - brochure
+  - Papier
 order: 30
 ---
 
