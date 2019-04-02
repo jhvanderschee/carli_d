@@ -14,7 +14,8 @@ client:
 client_image: /img/Logos_GZI-03.png
 bgcolor: lightgreen
 tags:
-  - brochure
+  - praatplaat
+  - Motiveren
 order: 20
 ---
 
