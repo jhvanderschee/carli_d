@@ -18,7 +18,8 @@ client:
 client_image: /img/Logo_Gemeente-10.png
 bgcolor: lightgray
 tags:
-  - praatplaat
+  - Visualiseren
+  - Branding
 order: 40
 ---
 
