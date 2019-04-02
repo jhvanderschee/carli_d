@@ -18,8 +18,8 @@ client: Niels van den Hoek en Silvia de Vaan
 client_image:
 bgcolor: lightgray
 tags:
-  - Branding
-  - Visualiseren
+  - branding
+  - visualiseren
 order: 60
 ---
 
