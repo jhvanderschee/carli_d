@@ -1,6 +1,6 @@
 ---
-title: Praatplaat Duurzaam Ameland.
-subtitle: Gemeente Ameland
+title: Duurzaam Ameland.
+subtitle: Praatplaat
 image: /img/DA_praatplaat.jpg
 images:
   - image: /img/DA_animatie.jpg
@@ -14,7 +14,10 @@ client:
 client_image: /img/Convenant_logoos.png
 bgcolor: lightgreen
 tags:
-  - brochure
+  - praatplaat
+  - discussieren
+  - motiveren
+  - visualiseren
 order: 50
 ---
 

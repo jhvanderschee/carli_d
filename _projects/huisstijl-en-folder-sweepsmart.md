@@ -1,6 +1,6 @@
 ---
-title: Huisstijl en folder SweepSmart.
-subtitle: SweepSmart
+title: SweepSmart.
+subtitle: Identiteit
 image: /img/Sweep02.jpg
 images:
   - image: /img/Sweep01.jpg
@@ -18,7 +18,8 @@ client: Niels van den Hoek en Silvia de Vaan
 client_image:
 bgcolor: lightgray
 tags:
-  - brochure
+  - visualiseren
+  - identiteit
 order: 60
 ---
 

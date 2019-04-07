@@ -3,17 +3,13 @@
 <div class="section" style="padding-top: 150px;">
     <div style="position: relative; z-index: 2;">
         <strong>Groene ambitie?</strong><br /><br />
-        Heldere communicatie-<br /> 
-        middelen helpen om het<br /> 
-        realiteit te laten worden.<br /><br />
+        Je bent ervan overtuigd <br />dat je plan de wereld <br />gaat verbeteren.<br />
     </div>
     <div class="img" style="right: 10px; width: 150px; bottom: 120px; z-index: 1;"><img src="/img/world.jpg" /></div>
     <div class="img smaller" style="text-align: center; color: #E94927; right: 20px; width: 50px; bottom: 25px; cursor: pointer; z-index: 2;" onclick="window.open('tel:0031647218000');"><img src="/img/phone.svg" /></div>
 </div>
 
 <div class="section yellow">
-    <p>Je hebt een plan dat de wereld gaat
-    verbeteren, daar ben je van overtuigd.</p>
     <p><em class="highlight"> Maar overtuigen je 
      communicatiemiddelen ook? <br />
      Zetten ze mensen in beweging? </em></p>
@@ -47,9 +43,8 @@
 <div class="section carousel">
     <div class="navigation">
         <div>
-            <strong>OPLOSSING. deel 1 van 2</strong><br />
-            De kracht van verbeelding inzetten.<br /> Dit werkt vele malen effectiever dan erover
-            te vertellen/schrijven, want...<br />
+            <strong>OPLOSSING.</strong><br />
+            Naast overtuigende content, de kracht van verbeelding inzetten, want...<br />
         </div>
         <div>{% for item in site.solutions %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
     </div>
@@ -66,52 +61,36 @@
 </div>
 
 
-<div class="section yellow">
-    <strong>OPLOSSING. deel 2 van 2</strong><br />
-    De content overtuigend maken.
-    Wanneer je de doelgroep echt raakt,
-    zorgt dat voor intrinsieke motivatie.
-    Precies wat je wilt. 
-</div>
-
 <div class="section green">
     RESULTAAT.<br />
-    Je communicatiemiddelen zijn helder
+    Je middelen zijn helder
     en overtuigend, en sluiten aan op de
-    beperkte tijd die je doelgroep heeft en
-    neemt. Hierdoor wordt je plan sneller
-    realiteit.
+    beperkte tijd die je doelgroep heeft/neemt. 
 </div>
 
 <div id="communicatiemiddelen" class="section">
     <p><strong>COMMUNICATIEMIDDELEN.<br />
-    [afhankelijk van doel en doelgroep]</strong></p>
+    </strong></p>
 
     <div class="imagesleft">
 
         <div class="img"><img src="/img/middelen_praatplaat.svg" /></div>
         <p>
-        <strong>Praatplaat.</strong><br />
-        Een praatplaat legt de
-        basis voor constructieve
-        discussies.</p>
+            <strong>Praatplaat.</strong></p><br><br>
+       
 
         <div class="img"><img src="/img/middelen_logo.svg" /></div>
         <p>
-        <strong>Herkenbare stijl.</strong><br />
-        Een consistente stijl met
-        duidelijke afzender maakt
-        projecten extra herkenbaar.</p>
+            <strong>Identiteit.</strong></p><br><br>
+     
 
-        <div class="img"><img src="/img/middelen_animatie.svg" /></div>
+        <div class="img"><img src="/img/middelen_brochure.svg" /></div>
         <p>
-        <strong>Animatie.</strong><br />
-        Animaties zijn ideaal
-        om complexe zaken in
-        stappen uit te leggen.</p>
+            <strong>Brochure.</strong></p><br>
+        
     </div>
     <br />
-    <a href="communicatiemiddelen" class="button">Zie meer opties >></a>
+    <a href="communicatiemiddelen" class="button">Lees meer >></a>
 </div>
 
 
@@ -120,10 +99,9 @@
     Selectie groene projecten.<br />
     
     {% assign siteprojects = site.projects | sort:'order' %}
-    {% for item in siteprojects limit:3 %}
-        <div style="position: absolute; margin-top: 40px; padding-right: 15px; cursor: pointer;" onclick="document.location.href='{{ item.url }}';" class="lightgreen">
+    {% for item in siteprojects limit:4 %}
+        <div style="position: absolute; margin-top: 50px; padding-right: 5px; cursor: pointer;" onclick="document.location.href='{{ item.url }}';" class="lightgreen">
             <div class="subtitle">{{ item.subtitle }}</div>
-            <strong>{{ item.title }}</strong>
         </div>
         
         <div style="margin: 40px 0 0; height: 295px; background: url('{{ item.image }}') center center / cover; cursor: pointer;" onclick="document.location.href='{{ item.url }}';"></div>
@@ -190,7 +168,7 @@
         <a href="blogs" class="button">Zie meer blogs >></a>
 
 </div>
-            <div class="section lightgray">
+            <div id="contact" class="section lightgray">
                 <p><strong>CARLI VAN ‘T SCHIP.</strong><br />
                 Jouw frisse plannenverbeelder.</p>
 
@@ -198,16 +176,14 @@
                     <div class="img">
                         <img src="/img/carly.png" />
                     </div>
-                    <p>Wat mij aantrekt aan frisse/innovatieve plannen, 
+                    <p class="small">Wat mij aantrekt aan frisse/innovatieve plannen, 
                         is dat er een oplossing wordt bedacht voor iets 
                         dat niet goed (meer) werkt. Zo sta ik zelf ook in het leven.</p>
 
-                </div>
-                <br />
-                <p>De vaak complexe en technische materie vertalen naar 
+              
+                <p class="small">De vaak complexe en technische materie vertalen naar 
                 een helder en overtuigend verhaal, maakt dat ik mijn werk erg uitdagend vind.</p>
-                <p>Dit doe ik graag samen met jou en met andere professionelen 
-                uit mijn netwerk (mocht dat nodig zijn).</p>
+              
 
             </div>
 

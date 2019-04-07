@@ -1,21 +1,20 @@
 {% include header.html %}
 
 <div class="section" style="padding-top: 120px;">
-    <strong>POTFOLIO.</strong><br />
+    <strong>PORTFOLIO.</strong><br />
     Selectie groene projecten.
 </div>
 <div class="section lightgreen" style="padding-top: 1px;">
     {% assign siteprojects = site.projects | sort:'order' %}{% for item in siteprojects %}
-        <div style="position: absolute; margin-top: 40px; padding-right: 15px; cursor: pointer;" onclick="document.location.href='{{ item.url }}';" class="lightgreen">
+        <div style="position: absolute; margin-top: 50px; padding-right: 5px; cursor: pointer;" onclick="document.location.href='{{ item.url }}';" class="lightgreen">
             <div class="subtitle">{{ item.subtitle }}</div>
-            <strong>{{ item.title }}</strong>
         </div>
 
         <div style="margin: 40px 0 0; height: 295px; background: url('{{ item.image }}') center center / cover; cursor: pointer;" onclick="document.location.href='{{ item.url }}';"></div>
         <a class="hoekje" href="{{ item.url }}" alt="Lees meer over dit project">Meer >></a>
     {% endfor %}
     <br />
-    <a href="/#blogs" class="button"><< Terug naar home</a>
+    <a href="/#home" class="button"><< Terug naar home</a>
 </div>
 
 {% include footer.html %}

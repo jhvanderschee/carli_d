@@ -8,4 +8,4 @@ bgcolor: white
 order: 5
 ---
 
-Enkel informeren raakt ons niet en brengt ons niet in beweging.
+Dit raakt ons niet en brengt ons niet in beweging.

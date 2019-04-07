@@ -1,6 +1,6 @@
 ---
-title: Beeldmerk E-vervoer.
-subtitle: Gemeente Ameland
+title: E-vervoer.
+subtitle: Beeldmerk
 image: /img/E-vervoer01.jpg
 images:
   - image: /img/E-vervoer04.jpg
@@ -18,7 +18,8 @@ client:
 client_image: /img/Logo_Gemeente-10.png
 bgcolor: lightgray
 tags:
-  - praatplaat
+  - motiveren
+  - identiteit
 order: 40
 ---
 

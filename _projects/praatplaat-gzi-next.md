@@ -1,6 +1,6 @@
 ---
-title: Praatplaat GZI next
-subtitle: GZI next
+title: GZI next.
+subtitle: Praatplaat
 image: /img/GZI01.jpg
 images:
   - image: /img/GZI03.jpg
@@ -14,7 +14,10 @@ client:
 client_image: /img/Logos_GZI-03.png
 bgcolor: lightgreen
 tags:
-  - brochure
+  - praatplaat
+  - discussieren
+  - motiveren
+  - visualiseren
 order: 20
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Presentatiemateriaal Binnenwand.
-subtitle: Ekotex
+title: Circulaire binnenwand.
+subtitle: Presentatiemateriaal
 image: /img/binnenwand.jpg
 images:
   - image: /img/binnenwand_close.jpg
@@ -13,7 +13,8 @@ client:
 client_image: /img/Logo_Ekotex-07.png
 bgcolor: lightgray
 tags:
-  - brochure
+  - papier
+  - valkuilen
 order: 30
 ---
 
