@@ -21,4 +21,4 @@ tags:
 order: 8
 ---
 
-Om constructief discussies te kunnen voeren, heeft Frisse Plannen een praatplaat ontworpen. Op deze plaat kan geschoven worden met de mogelijke oplossingen, dit omdat de oplossingen nog niet vast staan.
+Om constructief discussies te kunnen voeren, heeft Frisse Plannen een praatplaat ontworpen. De plaat werd gebruikt om te laten zien wat de plannen zijn, een gesprek te voeren over wet- en regelgeving en te bespreken hoe het project het beste ingestoken kan worden.
