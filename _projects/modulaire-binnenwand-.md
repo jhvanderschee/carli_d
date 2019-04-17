@@ -20,7 +20,7 @@ tags:
   - discussieren
   - motiveren
   - visualiseren
-order: 41
+order: 39
 ---
 
 De wand zelf dient als communicatiedrager. Hierdoor zie je precies waar het over gaat.
