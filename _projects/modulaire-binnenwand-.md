@@ -10,7 +10,7 @@ description: >-
   Deze volledig cradle-2-cradle modulaire binnenwand stond op Building Holland
   2019 in de RAI. Dit nieuwe innovatieve product is nog niet bij iedereen
   bekend, waardoor de behoefte ontstond om op een heldere manier te communiceren
-  wat de eigenschappen zijn van dit bijzondere product.
+  wat de eigenschappen zijn.
 client_title: Opdrachtgever
 client: EKOTEX Graphenstone
 client_image:
