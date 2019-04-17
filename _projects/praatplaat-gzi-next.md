@@ -9,8 +9,8 @@ description: >-
   wijk gaat meteen over op 100% waterstofgas, bestaande wijken zullen eerst 20%
   bijmengen in het bestaande gasnetwerk.
 client_title: Opdrachtgever
-client:
-client_image: /img/Logos_GZI-03.png
+client: 'Gemeente Hoogeveen, NAM en  N-TRA'
+client_image:
 bgcolor: lightgreen
 tags:
   - praatplaat
@@ -20,6 +20,6 @@ tags:
 order: 20
 ---
 
-Om constructief discussies te kunnen voeren en mensen in te lichten over de plannen, heeft Frisse Plannen een praatplaat ontworpen. Op deze plaat kan geschoven worden met de mogelijke oplossingen, dit omdat deze oplossingen nog niet vast staan.&nbsp;
+Om constructief discussies te kunnen voeren en mensen in te lichten over de plannen, heeft Frisse Plannen een praatplaat ontworpen. Op deze plaat kan geschoven worden met de mogelijke oplossingen, dit omdat de oplossingen nog niet vast staan.&nbsp;
 
 &nbsp;
