@@ -4,6 +4,7 @@ subtitle: Presentatiemateriaal
 image: /img/Wand_geheel.jpg
 images:
   - image: /img/Wand_detail.jpg
+  - image: /img/Wand op beurs.jpg
   - image: /img/Wand_detail2.jpg
 description: >-
   Deze volledig cradle-2-cradle modulaire binnenwand stond op Building Holland
@@ -22,4 +23,4 @@ tags:
 order: 41
 ---
 
-Door gebruik te maken van de wand zelf als communicatiedrager, ziet men waar over wordt gepraat.&nbsp;
+Door gebruik te maken van de wand zelf als communicatiedrager, ziet men waar over wordt gepraat.
