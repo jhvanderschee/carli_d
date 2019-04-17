@@ -20,7 +20,7 @@ bgcolor: lightgray
 tags:
   - motiveren
   - identiteit
-order: 40
+order: 13
 ---
 
 Omdat alle elektrische vervoersmiddelen al een eigen communicatie voerde omtrent het elektrische rijden, heeft Frisse Plannen gekeken naar welke boodschap een aanvulling zou zijn èn zou inspireren mee te willen doen. 
