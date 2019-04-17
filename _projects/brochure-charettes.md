@@ -18,7 +18,7 @@ tags:
   - motiveren
   - papier
   - visualiseren
-order: 10
+order: 5
 ---
 
 Er zijn in alle vier de dorpen Charette-avonden georganiseerd. De insteek van de avonden was om bewoners, bedrijfseigenaren en experts samen te laten discussiëren over het ingewikkelde vraagstuk 'de energietransitie'. 
