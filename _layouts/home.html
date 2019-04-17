@@ -99,7 +99,7 @@
     Selectie groene projecten.<br />
     
     {% assign siteprojects = site.projects | sort:'order' %}
-    {% for item in siteprojects limit:4 %}
+    {% for item in siteprojects limit:3 %}
         <div style="position: absolute; margin-top: 50px; padding-right: 5px; cursor: pointer;" onclick="document.location.href='{{ item.url }}';" class="lightgreen">
             <div class="subtitle">{{ item.subtitle }}</div>
         </div>
