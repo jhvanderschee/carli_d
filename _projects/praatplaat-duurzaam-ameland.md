@@ -18,7 +18,7 @@ tags:
   - discussieren
   - motiveren
   - visualiseren
-order: 50
+order: 32
 ---
 
 Om constructief discussies te kunnen voeren en mensen in te lichten over de plannen, heeft Frisse Plannen een praatplaat ontworpen. Op deze plaat kan geschoven worden met de mogelijke oplossingen, dit omdat deze oplossingen nog niet vast staan. 
