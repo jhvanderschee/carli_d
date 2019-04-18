@@ -15,3 +15,5 @@ Een praatplaat is een effectief communicatiemiddel om hiervoor te gebruiken. Zek
 Door samen te discussi&euml;ren en oplossingen te bedenken cre&euml;er je draagvlak en enthousiasme.&nbsp;
 
 [Download de productsheet over praatplaten (inclusief kostenplaatje) &gt;&gt;](/uploads/Frisse-Plannen_Praatplaat.pdf)
+
+&nbsp;
