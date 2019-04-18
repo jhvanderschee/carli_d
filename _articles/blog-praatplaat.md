@@ -6,9 +6,7 @@ tag: praatplaat
 order: 1
 ---
 
-**Complexe materie in een praatplaat gieten helpt om plannen vooruit te krijgen.**
-
-Zaken als ‘de energietransitie’, ‘duurzame energie’ en ‘groen gas’ zijn behoorlijk abstract. Het helpt om ze een gezicht te geven, want verbeelding zorgt ervoor dat je materie gemakkelijker kunt begrijpen, beter onthoudt en sneller verbanden legt.&nbsp;
+**Zaken als ‘de energietransitie’, ‘duurzame energie’ en ‘groen gas’ zijn behoorlijk abstract. Het helpt om ze een gezicht te geven, want verbeelding zorgt ervoor dat je materie gemakkelijker kunt begrijpen, beter onthoudt en sneller verbanden legt.&nbsp;**
 
 Een praatplaat is een effectief communicatiemiddel om hiervoor te gebruiken. Zeker als het over een bepaald gebied gaat is dit een handig middel. Je ziet, samen, letterlijk waar over wordt gesproken.&nbsp;
 
