@@ -3,7 +3,7 @@ title: BLOG Feiten en cijfers
 description: Hoe het toch komt dat je mensen **niet** kunt overtuigen met feiten en cijfers
 image: /img/Blog_feiten-25.png
 tag: motiveren
-order: 1
+order: 2
 ---
 
 **Het lijkt zo logisch. Feiten en wetenschappelijke cijfers zijn hét bewijs van je plan, dus gebruik je ze. Het is noodzakelijke informatie die werkt om de waarheid te onthullen. Maar het overtuigt mensen amper. Feiten veranderen geen meningen, en voor het oproepen tot actie zijn ze vrijwel nutteloos. **
