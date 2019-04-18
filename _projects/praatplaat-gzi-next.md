@@ -1,24 +1,26 @@
 ---
-title: Hoogeveen.
+title: GZI next.
 subtitle: Praatplaat
-image: /img/Hoogeveen_01.jpg
+image: /img/GZI01.jpg
 images:
-  - image: /img/Hoogeveen_02.jpg
+  - image: /img/GZI03.jpg
+  - image: /img/GZI02.jpg
 description: >-
-  Gemeente Hoogeveen is bezig om over te stappen op waterstofgas. Een nieuwe
-  wijk gaat meteen over op 100% waterstofgas, bestaande wijken zullen eerst 20%
-  bijmengen in het bestaande gasnetwerk. Deze plannen moeten besproken worden
-  met ministers van Economische Zaken & Klimaat en Binnenlandse Zaken.
+  Provincie Drenthe is in samenwerking met de NAM (en nog een aantal andere
+  partners) bezig om de oude gaswinningslocaties van de NAM om te bouwen tot
+  locaties waar duurzaam energie wordt opgewekt/opgeslagen.
 client_title: Opdrachtgever
-client: 'Gemeente Hoogeveen, NAM en  N-TRA'
-client_image:
+client:
+client_image: /img/Logos_GZI-03.png
 bgcolor: lightgreen
 tags:
   - praatplaat
   - discussieren
   - motiveren
   - visualiseren
-order: 8
+order: 20
 ---
 
-Om constructief discussies te kunnen voeren, heeft Frisse Plannen een praatplaat ontworpen. De plaat wordt gebruikt om te laten zien wat de plannen zijn, een gesprek te voeren over wet- en regelgeving en te bespreken hoe het project het beste ingestoken kan worden.
+Om constructief discussies te kunnen voeren en mensen in te lichten over de plannen, heeft Frisse Plannen een praatplaat ontworpen. Op deze plaat kan geschoven worden met de mogelijke oplossingen, dit omdat deze oplossingen nog niet vast staan. 
+
+FACTSHEETS<br>Om de (complexe) duurzame technieken uit te leggen zijn er factsheets ontworpen.
