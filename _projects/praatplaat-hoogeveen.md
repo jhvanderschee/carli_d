@@ -1,28 +1,26 @@
 ---
-title: Duurzaam Ameland.
+title: Hoogeveen.
 subtitle: Praatplaat
-image: /img/DA_praatplaat.jpg
+image: /img/Hoogeveen_01.jpg
 images:
-  - image: /img/DA_animatie.jpg
+  - image: /img/Hoogeveen_02.jpg
 description: >-
-  Op weg naar een volledig energieneutraal eiland ontstond de behoefte deze
-  ambitie groots bekend te maken. Met als doel om medewerking te krijgen van
-  bewoners, lokale bedrijven en de overheid. Samen op weg naar de energie van de
-  toekomst.
+  Gemeente Hoogeveen is bezig om over te stappen op waterstofgas. Een nieuwe
+  wijk gaat meteen over op 100% waterstofgas, bestaande wijken zullen eerst 20%
+  bijmengen in het bestaande gasnetwerk. Deze plannen moeten besproken worden
+  met ministers van Economische Zaken & Klimaat en Binnenlandse Zaken.
 client_title: Opdrachtgevers
-client:
-client_image: /img/Convenant_logoos.png
+client: 'Gemeente Hoogeveen, N-TRA en NAM'
+client_image:
 bgcolor: lightgreen
 tags:
   - praatplaat
   - discussieren
   - motiveren
   - visualiseren
-order: 32
+order: 8
 ---
 
-Om constructief discussies te kunnen voeren en mensen in te lichten over de plannen, heeft Frisse Plannen een praatplaat ontworpen. Op deze plaat kan geschoven worden met de mogelijke oplossingen, dit omdat deze oplossingen nog niet vast staan. 
+Om constructief discussies te kunnen voeren, heeft Frisse Plannen een praatplaat ontworpen. De plaat wordt gebruikt om te laten zien wat de plannen zijn, een gesprek te voeren over wet- en regelgeving en te bespreken hoe het project het beste ingestoken kan worden.
 
-**ANIMATIE**<br>De animatie legt uit wat de complexe vraagstukken zijn en nodigt uit tot meedenken over de oplossingen.<br>[*Zie animatie &gt;&gt;*](https://vimeo.com/221402295){: target="_blank"}
-
-Animatie i.s.m. Animation Store
+REVIEW<br>Bastiaan Meijer van N-TRA:&nbsp;*Een uniek en toch ook complex project waar jezelf razend enthousiast over ben is nog niet zo makkelijk uit te leggen aan alle verschillende stakeholders, laat staan ook hun inbreng erin mee te nemen. Met de ervaring en kunde van Carli hebben we gelukkig in een aantal weken een prachtig magneetbord weten te cre&euml;ren waarmee we het gesprek aan konden gaan. Het magneetbord stelt ons nu in staat om mensen stap voor stap mee te nemen in de opbouw van het project en bovenal ieders input erin kwijt te kunnen. Het werkt laagdrempellig, doeltreffend en ziet er gewoon ontzettend gaaf uit\! Ons bord werkt letterlijk als een magneet voor omstanders.&nbsp;*
