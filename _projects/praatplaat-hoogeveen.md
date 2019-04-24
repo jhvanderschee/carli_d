@@ -6,7 +6,7 @@ images:
   - image: /img/Hoogeveen_02.jpg
 description: >-
   Gemeente Hoogeveen is bezig om over te stappen op waterstofgas. Een nieuwe
-  wijk gaat meteen over op 100% waterstofgas, bestaande wijken zullen eerst 20%
+  wijk gaat meteen voor de volle 100% over, bestaande wijken zullen eerst 20%
   bijmengen in het bestaande gasnetwerk. Deze plannen moeten besproken worden
   met ministers van Economische Zaken & Klimaat en Binnenlandse Zaken.
 client_title: Opdrachtgevers
