@@ -4,7 +4,6 @@ subtitle: Praatplaat
 image: /img/NOfriesland1.jpg
 images:
   - image: /img/NOfriesland2.jpg
-  - image: /img/NOfriesland3.jpg
 description: >-
   Noardeast-Fryslân is in samenwerking met de NAM (en nog een aantal andere
   partners) bezig aan verduurzaming. Deze plannen werden 3 april j.l. besproken
