@@ -1,5 +1,5 @@
 ---
-title: Bedankt.
+title: Bedankt
 layout: page
 ---
 
