@@ -20,6 +20,6 @@ bgcolor: lightgray
 tags:
   - visualiseren
   - identiteit
-order: 60
+order: 25
 ---
 
