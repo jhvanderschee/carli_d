@@ -2,6 +2,7 @@
 title: BLOG Feiten en cijfers
 description: Hoe het toch komt dat je mensen **niet** kunt overtuigen met feiten en cijfers
 image: /img/Blog_feiten-25.png
+has_request: false
 tag: motiveren
 order: 1
 ---
