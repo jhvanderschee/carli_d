@@ -1,6 +1,6 @@
 ---
-title: Dankuwel
+title: Bedankt.
 layout: page
 ---
 
-Dankuwel voor uw interesse.
+Leuk dat je interesse hebt. Ik stuur je zo snel mogelijk persoonlijk het document toe. 
