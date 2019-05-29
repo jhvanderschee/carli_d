@@ -3,6 +3,9 @@ title: BLOG 7 slimme tactieken
 description: '**7 slimme tactieken** om klimaatvriendelijk gedrag te stimuleren'
 image: /img/Blog_strategieen-41.png
 has_request: true
+request_title: Meer lezen en weten hoe je deze 7 tactieken succesvol gebruikt in je communicatie?
+request_cta: Download e-book
+request_image: /uploads/boekernaast.jpg
 tag: motiveren
 order: 1
 ---

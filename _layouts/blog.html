@@ -10,9 +10,9 @@
         {% if page.has_request %}
         <div class="blogrequest green">
             <div id="toggleformdiv">
-                <igm src="/uploads/boekernaast.jpg" />
-                <p style="font-size: 20px;">Meer lezen en weten hoe je deze 7 tactieken succesvol gebruikt in je communicatie?</p>
-                <a class="button large" onclick="formToggle();" >Download e-book</a>
+                {% if page.request_image %}<img src="{{ page.request_image }}" />{% endif %}
+                <p style="font-size: 20px;">{{ page.request_title }}</p>
+                <a class="button large" onclick="formToggle();" >{{ page.request_cta }}</a>
             </div>
             <form method="post" action="https://formspree.io/info@frisseplannen.nl" id="toggleform">
                 <div style="font-size: 20px;">Download e-book.</div>
