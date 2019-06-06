@@ -12,7 +12,7 @@ tag: motiveren
 order: 1
 ---
 
-*\[Gratis download van e-book onderaan blog\]*
+*\[gratis download met meer info onderaan blog\]*
 
 **Iemand aansporen iets te doen is niet zo moeilijk. Stel een beloning in het vooruitzicht (bijvoorbeeld 100 euro) of cre&euml;er een gevoel van schaarste (‘Er zijn nog maar 5 tickets, dus profiteer\!’) en iemand komt al snel in beweging. Maar deze be&iuml;nvloedings-technieken hebben maar even effect. Intrinsieke motivatie cre&euml;ren, motivatie die mensen veel langer ervaren, vraagt om meer inlevingsvermogen. Als je echt begrijpt wat iemand beweegt, kun je voor een blijvende gedragsverandering zorgen. En juist die blijvende verandering is voor klimaatvriendelijker gedrag essentieel.**
 
