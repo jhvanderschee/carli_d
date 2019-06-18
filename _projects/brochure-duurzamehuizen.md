@@ -1,9 +1,10 @@
 ---
 title: Duurzame Huizen.
 subtitle: Brochure
-image:
+image: /uploads/Cover.jpg
 images:
-  - image: /img/Charettes03.jpg
+  - image: /uploads/Binnenwerk01.jpg
+  - image: /uploads/Binnenwerk02.jpg
 description: >-
   Gemeente Ameland wil in 2020 volledig energieneutraal zijn. Om deze ambitie
   waar te maken is er van alle kanten hulp nodig; Samen op weg naar de energie
