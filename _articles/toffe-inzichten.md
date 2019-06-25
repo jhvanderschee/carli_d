@@ -7,4 +7,4 @@ tag: motiveren
 order: 1
 ---
 
-![](/uploads/mock-up-website.jpg){: width="2161" height="2706"}
+Ik was zelf nogal onder de indruk toen ik deze bevindingen in kranten, boeken en artikelen tegenkwam. Ik heb ze verzameld en gebundeld, omdat ik ze niet wil vergeten. Ik zet ze al in om de wereld een stukje frisser/groener te maken. Misschien heb jij er ook iets aan.<br>![](/uploads/mock-up-website.jpg){: width="2161" height="2706"}
