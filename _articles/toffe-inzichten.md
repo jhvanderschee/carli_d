@@ -1,5 +1,5 @@
 ---
-title: Toffe inzichten
+title: Gratis weggever
 description: '**Toffe inzichten** om groen gedrag te stimuleren'
 image: /img/parrot-1978675_960_720.png
 has_request: true
