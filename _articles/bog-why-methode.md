@@ -3,6 +3,8 @@ title: BLOG WHY-methode
 description: Waarom de **WHY-methode** zo goed werkt
 image: /img/man.png
 has_request: false
+request_title: 
+request_cta:
 tag: motiveren
 order: 13
 ---
