@@ -3,7 +3,7 @@ title: BLOG Praatplaat
 description: Hoe een **praatplaat** helpt om plannen vooruit te krijgen.
 image: /img/GZI01.jpg
 tag: praatplaat
-order: 1
+order: 5
 ---
 
 **Zaken als ‘de energietransitie’, ‘duurzame energie’ en ‘groen gas’ zijn behoorlijk abstract. Het helpt om ze een gezicht te geven, want verbeelding zorgt ervoor dat je materie gemakkelijker kunt begrijpen, beter onthoudt en sneller verbanden legt.&nbsp;**
