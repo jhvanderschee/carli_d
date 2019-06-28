@@ -3,6 +3,7 @@ title: BLOG Plannen visualiseren
 description: 5 redenen waarom je plannen het best **visueel** kunt maken
 image: /img/Blog_visualiseren-18.png
 has_request: false
+request_image: 
 request_title: 
 request_cta:
 tag: visualiseren

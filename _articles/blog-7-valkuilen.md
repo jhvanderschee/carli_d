@@ -5,6 +5,7 @@ description: |-
   plannen vaak stranden
 image: /img/Blog_valkuilen-30.png
 has_request: false
+request_image: 
 request_title: 
 request_cta:
 tag: valkuilen
