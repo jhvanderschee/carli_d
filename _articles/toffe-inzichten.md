@@ -9,4 +9,4 @@ tag: motiveren
 order: 1
 ---
 
-Ik was zelf nogal onder de indruk toen ik deze bevindingen in kranten, boeken en artikelen tegenkwam. Ik heb ze verzameld en gebundeld, omdat ik ze niet wil vergeten. Ik zet ze in om de wereld een stukje frisser/groener te maken. Misschien heb jij er ook iets aan.
+Ik was zelf nogal onder de indruk toen ik deze bevindingen in kranten, boeken en artikelen tegenkwam. Ik heb ze verzameld en gebundeld, omdat ik ze niet wil vergeten. Misschien heb jij er ook iets aan. Samen kunnen we de wereld misschien iets frisser achterlaten.
