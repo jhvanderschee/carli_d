@@ -5,7 +5,9 @@ image: /img/parrot-1978675_960_720.png
 public: true
 has_request: true
 request_image: /uploads/mock-up-website.jpg
-request_title: Meer toffe inzichten
+request_title: >-
+  Bekijk alle inzichten wanneer je zelf bezig bent overtuigende content te
+  creëren.
 request_cta: Download
 tag: motiveren
 order: 1
