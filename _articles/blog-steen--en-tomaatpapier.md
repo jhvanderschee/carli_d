@@ -2,6 +2,7 @@
 title: BLOG Steen- en tomaatpapier
 description: 'Een flyer gedrukt op **tomaat**, een landkaart van **steen**...'
 image: /uploads/Blog_tomaat-29.png
+public: true
 has_request: false
 request_image: 
 request_title: 

@@ -4,6 +4,7 @@ description: |-
   **7 redenen** waarom goede 
   plannen vaak stranden
 image: /img/Blog_valkuilen-30.png
+public: true
 has_request: false
 request_image: 
 request_title: 

@@ -2,6 +2,7 @@
 title: Gratis weggever
 description: '**Toffe inzichten** om groen gedrag te stimuleren'
 image: /img/parrot-1978675_960_720.png
+public: true
 has_request: true
 request_image:
 request_title: Meer van dit soort inzichten lezen? Download dan gratis het boekje.

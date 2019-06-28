@@ -2,6 +2,7 @@
 title: BLOG Praatplaat
 description: Hoe een **praatplaat** helpt om plannen vooruit te krijgen.
 image: /img/GZI01.jpg
+public: true
 has_request: false
 request_image: 
 request_title: 
