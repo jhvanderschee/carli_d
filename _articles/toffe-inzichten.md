@@ -6,15 +6,13 @@ public: true
 has_request: true
 request_image: /uploads/Mock-up-website.png
 request_title: >-
-  Bekijk alle inzichten wanneer je zelf bezig bent overtuigende content te
+  Bewaar alle inzichten voor als je zelf bezig bent overtuigende content te
   creëren.
 request_cta: Download
 tag: motiveren
 order: 1
 ---
 
-Vond je dit inzicht ook tof? (wie zegt er nog tof? :)) En ben je benieuwd naar nog meer inzichten?
+Vond je het inzicht op LinkedIn ook tof? (wie zegt er nog tof? :)) En ben je benieuwd naar nog meer inzichten?
 
 Zoals waarom vegetari&euml;rs eigenlijk behoefte hebben aan iets wat net zo smaakt en eruitziet als vlees. Of hoe een emoticon veel invloed kan hebben op de hoeveelheid energie die we verbruiken.
-
-*Ik hoor het graag als je nog een inzicht wilt toevoegen.*
