@@ -16,6 +16,8 @@ Zoals waarom vegetari&euml;rs behoefte hebben aan iets wat net zo smaakt en erui
 
 Download dan de blabla zodat je ze in eigen handen hebt en kunt bekijken wanneer je overtuigende content aan het bedenken bent.
 
+*Ik hoor het graag als je nog een inzicht wilt toevoegen.*
+
 &nbsp;Download.
 
 &nbsp;
