@@ -1,10 +1,10 @@
 ---
 title: Energieke ondernemers.
 subtitle: Brochure
-image: /img/Charettes01.jpg
+image: /img/DB_Cover.jpg
 images:
-  - image: /img/Charettes02.jpg
-  - image: /img/Charettes03.jpg
+  - image: /img/DB_Binnenwerk.jpg
+  - image: /img/DB_Binnenwerk2.jpg
 description: >-
   Gemeente Ameland wil in 2020 volledig energieneutraal zijn. Om deze ambitie
   waar te maken is er van alle kanten hulp nodig; Samen op weg naar de energie
