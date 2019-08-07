@@ -13,6 +13,6 @@ tag: motiveren
 order: 1
 ---
 
-Vond je het inzicht op LinkedIn ook tof?<br>En ben je benieuwd naar nog meer gevonden inzichten?
+Vond je het inzicht op LinkedIn ook interessant?<br>En ben je benieuwd naar nog meer gevonden inzichten?
 
 Zoals waarom vegetari&euml;rs eigenlijk behoefte hebben aan iets wat net zo smaakt en eruitziet als vlees. Of hoe een emoticon veel invloed kan hebben op de hoeveelheid energie die we verbruiken.
