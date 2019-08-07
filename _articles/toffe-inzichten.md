@@ -2,7 +2,7 @@
 title: Gratis weggever
 description: '**Toffe inzichten** om groen gedrag te stimuleren'
 image: /img/parrot-1978675_960_720.png
-public: true
+public: false
 has_request: true
 request_image: /uploads/Mock-up-website.png
 request_title: >-
