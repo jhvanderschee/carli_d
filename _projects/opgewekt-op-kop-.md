@@ -22,8 +22,6 @@ order: 1
 
 In augustus 2019 zullen er 24.000 exemplaren verspreid worden op de eilanden &eacute;n daarbuiten. Een geweldige opdracht waarbij duidelijk is geworden dat de betrokkenheid van de eilander inwoners en bedrijven het verschil maakt in de energietransitie.
 
-De achterpagina van de krant&nbsp;
-
-&nbsp;
+De helft van de achterpagina van de krant kan je los knippen en vouwen tot een handig boekje. Een boekje volle snelle bespaartips.
 
 Ook een blik op de krant werpen? Dat kan\!<br>[Blader door kran](https://www.yumpu.com/nl/document/read/62768432/opgewekt-op-kop-met-de-energie-van-de-toekomst){: target="_blank"}[t op externe pagina](https://www.yumpu.com/nl/document/read/62768432/opgewekt-op-kop-met-de-energie-van-de-toekomst){: target="_blank"}<br>&nbsp;
