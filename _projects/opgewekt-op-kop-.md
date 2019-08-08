@@ -1,7 +1,7 @@
 ---
 title: Opgewekt op kop.
 subtitle: Krantje
-image: /img/Krant_mockup_2.jpg
+image: /img/Krant_mockup_1.jpg
 images:
   - image: /img/Krant_mockup_4.jpg
   - image: /uploads/Mockup-kleine-boekje.jpg
