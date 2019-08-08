@@ -11,7 +11,7 @@ description: >-
   resultaat? De krant ‘Opgewekt op kop met de energie van de toekomst’.
 client_title: Opdrachtgever
 client: Duurzame Wadden
-client_image: /img/Duurzame Wadden - Logo-31.jpg
+client_image: /img/DW logo.jpg
 bgcolor: lightgray
 tags:
   - motiveren
