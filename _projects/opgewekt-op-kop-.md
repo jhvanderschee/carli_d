@@ -3,7 +3,7 @@ title: Opgewekt op kop.
 subtitle: Krantje
 image: /img/Krant_mockup_1.jpg
 images:
-  - image: /img/Krant_mockup_4.jpg
+  - image: /uploads/Krant_mockup_5.jpg
   - image: /uploads/Mockup-kleine-boekje.jpg
 description: >-
   De Waddeneilanden en duurzame energie? Dat gaat goed samen. De resultaten van
