@@ -1,6 +1,6 @@
 ---
 title: Opgewekt op kop.
-subtitle: Krantje
+subtitle: Krant
 image: /img/Krant_mockup_1.jpg
 images:
   - image: /uploads/Krant_mockup_5.jpg
