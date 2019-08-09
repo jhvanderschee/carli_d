@@ -1,5 +1,5 @@
 ---
-title: Te informatief.
+title: Feiten en cijfers.
 text_left: 0
 text_right: 170
 image: /img/informatief-17.png
@@ -8,4 +8,4 @@ bgcolor: white
 order: 5
 ---
 
-Dit raakt ons niet en brengt ons niet in beweging.
+Feiten en cijfers motiveren mensen niet &eacute;cht.&nbsp;
