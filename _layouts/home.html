@@ -35,14 +35,19 @@
     
 <div class="section darkred">
     CONSEQUENTIE.<br />
-    Je frisse plan behaalt niet zijn potentiële
-    resultaat. Dit kost je veel tijd, frustratie en geld.
+    Het frisse plan behaalt niet zijn potentiële
+    resultaat. Dit kost veel tijd, frustratie en geld.
+</div>
+
+<div class="section yellow">
+    <p><em class="highlight"> Tijd voor een frisse blik en de<br /> 
+     vertaling naar een overtuigend <br /> communicatiemiddel </em></p>
 </div>
 
 <div class="section carousel">
     <div class="navigation">
         <div>
-            <strong>OPLOSSING.</strong><br />
+            <strong>AANPAK.</strong><br />
             Naast overtuigende content, de kracht van verbeelding inzetten, want...<br />
         </div>
         <div>{% for item in site.solutions %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
@@ -62,9 +67,9 @@
 
 <div class="section green">
     RESULTAAT.<br />
-    Je middelen zijn helder
+    De middelen zijn helder
     en overtuigend, en sluiten aan op de
-    beperkte tijd die je doelgroep heeft/neemt. 
+    beperkte tijd die de doelgroep heeft/neemt. 
 </div>
 
 <div id="communicatiemiddelen" class="section">
@@ -89,13 +94,13 @@
         
     </div>
     <br />
-    <a href="communicatiemiddelen" class="button">Lees meer >></a>
+    <a href="communicatiemiddelen" class="button">Zie meer middelen >></a>
 </div>
 
 
 <div id="portfolio" class="section lightgreen">
     <strong>PORTFOLIO.</strong><br />
-    Selectie groene projecten.<br />
+    Selectie groene communicatiemiddelen.<br />
     
     {% assign siteprojects = site.projects | sort:'order' %}
     {% for item in siteprojects limit:3 %}
@@ -109,7 +114,7 @@
     {% endfor %}
 
     <br />
-    <a href="/portfolio" class="button">Bekijk alle projecten >></a>
+    <a href="/portfolio" class="button">Bekijk meer projecten >></a>
     
 </div>
 
