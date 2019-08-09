@@ -8,7 +8,7 @@ request_image: /uploads/Mock-up-website.png
 request_title: >-
   Download alle toffe inzichten voor als je zelf bezig bent overtuigende content
   te creëren.
-request_cta: Download
+request_cta: Gratis download
 tag: motiveren
 order: 1
 ---
