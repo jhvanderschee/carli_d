@@ -5,10 +5,10 @@ description: |-
   plannen vaak stranden
 image: /img/Blog_valkuilen-30.png
 public: true
-has_request: false
-request_image: 
-request_title: 
-request_cta:
+has_request: true
+request_image: /uploads/Mock-up-website.png
+request_title: Download deze inzichten als je bezig bent overtuigende content te creëren.
+request_cta: Download
 tag: valkuilen
 order: 3
 ---
