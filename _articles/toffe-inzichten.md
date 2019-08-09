@@ -1,7 +1,7 @@
 ---
 title: Gratis weggever
 description: |-
-  ***Gratis weggever*** 
+  **Gratis weggever** 
   Toffe inzichten om groen gedrag te stimuleren
 image: /img/parrot-1978675_960_720.png
 public: true
