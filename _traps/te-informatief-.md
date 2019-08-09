@@ -8,4 +8,4 @@ bgcolor: white
 order: 5
 ---
 
-Feiten en cijfers motiveren mensen niet &eacute;cht.&nbsp;
+Feiten en cijfers motiveert mensen niet &eacute;cht.&nbsp;
