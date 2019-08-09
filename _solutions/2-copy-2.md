@@ -8,4 +8,4 @@ bgcolor: lightgray
 order: 2
 ---
 
-Doordat je letterlijk verbanden ziet, krijg je nieuwe inzichten.
+Doordat men letterlijk verbanden ziet, komen er nieuwe inzichten.
