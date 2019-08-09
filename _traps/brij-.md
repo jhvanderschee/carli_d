@@ -1,5 +1,5 @@
 ---
-title: Brij.
+title: Beknopt.
 text_left: 170
 text_right: 0
 image: /img/brij-18.png
@@ -8,4 +8,4 @@ bgcolor: lightgray
 order: 6
 ---
 
-Er is een brij aan informatie / gebrek aan overzicht.
+Teveel informatie zorgt voor een gebrek aan overzicht.
