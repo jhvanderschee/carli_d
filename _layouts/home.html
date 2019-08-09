@@ -48,7 +48,7 @@
     <div class="navigation">
         <div>
             <strong>AANPAK.</strong><br />
-            Naast overtuigende content zetten we de kracht van verbeelding in, want...<br />
+            Naast een frisse blik op de content zetten we de kracht van verbeelding in, want...<br />
         </div>
         <div>{% for item in site.solutions %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
     </div>
@@ -103,7 +103,7 @@
     Selectie groene communicatiemiddelen.<br />
     
     {% assign siteprojects = site.projects | sort:'order' %}
-    {% for item in siteprojects limit:3 %}
+    {% for item in siteprojects limit:4 %}
         <div style="position: absolute; margin-top: 50px; padding-right: 5px; cursor: pointer;" onclick="document.location.href='{{ item.url }}';" class="lightgreen">
             <div class="subtitle">{{ item.subtitle }}</div>
         </div>
