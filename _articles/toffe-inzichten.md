@@ -10,7 +10,7 @@ request_title: >-
   creëren.
 request_cta: Download
 tag: motiveren
-order: 80
+order: 1
 ---
 
 Vond je het inzicht op LinkedIn ook interessant?<br>En ben je benieuwd naar nog meer gevonden inzichten?
