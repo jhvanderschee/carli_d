@@ -3,10 +3,10 @@ title: BLOG WHY-methode
 description: Waarom de **WHY-methode** zo goed werkt
 image: /img/man.png
 public: true
-has_request: false
-request_image: 
-request_title: 
-request_cta:
+has_request: true
+request_image: /uploads/Mock-up-website.png
+request_title: Download deze inzichten als je bezig bent overtuigende content te creëren.
+request_cta: Download
 tag: motiveren
 order: 13
 ---
