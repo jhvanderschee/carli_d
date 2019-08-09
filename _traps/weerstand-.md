@@ -8,4 +8,4 @@ bgcolor: white
 order: 3
 ---
 
-Realiseren dat verandering altijd weerstand oproept.
+Verandering roep altijd weerstand op.
