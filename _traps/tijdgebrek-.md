@@ -8,4 +8,4 @@ bgcolor: lightgray
 order: 4
 ---
 
-Men neemt/heeft niet genoeg tijd.
+Men neemt en heeft niet genoeg tijd.
