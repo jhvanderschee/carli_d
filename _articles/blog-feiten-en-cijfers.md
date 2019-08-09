@@ -3,10 +3,10 @@ title: BLOG Feiten en cijfers
 description: Hoe het toch komt dat je mensen **niet** kunt overtuigen met feiten en cijfers
 image: /img/Blog_feiten-25.png
 public: true
-has_request: false
-request_image: 
-request_title: 
-request_cta:
+has_request: true
+request_image: /uploads/Mock-up-website.png
+request_title: Download deze inzichten als je bezig bent overtuigende content te creëren.
+request_cta: Download
 tag: motiveren
 order: 11
 ---
