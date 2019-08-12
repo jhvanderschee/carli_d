@@ -1,5 +1,5 @@
 ---
-title: Teveel informatie.
+title: Veel informatie.
 text_left: 170
 text_right: 0
 image: /img/brij-18.png
@@ -8,4 +8,4 @@ bgcolor: lightgray
 order: 6
 ---
 
-Teveel informatie zorgt voor een gebrek aan overzicht.
+Veel informatie zorgt voor een gebrek aan overzicht en vertelt niet perse meer.&nbsp;
