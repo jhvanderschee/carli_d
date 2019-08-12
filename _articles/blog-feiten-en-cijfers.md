@@ -4,7 +4,7 @@ description: Hoe het toch komt dat je mensen **niet** kunt overtuigen met feiten
 image: /img/Blog_feiten-25.png
 public: true
 has_request: true
-request_image: /uploads/Mock-up-website.png
+request_image: /uploads/Mock-up-website.jpg
 request_title: >-
   Wil je meer toffe inzichten, omdat je bezig bent overtuigende content te
   creëren?
