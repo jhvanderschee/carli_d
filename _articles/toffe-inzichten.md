@@ -15,7 +15,7 @@ order: 1
 
 Ben je bezig overtuigende content te cre&euml;ren voor een groene organisatie of je eigen groene ambitie? Laat je dan eens inspireren door de toffe inzichten die ik met de tijd heb verzameld. Ik heb ze gebundeld, omdat ik ze niet wil vergeten. Hopelijk heb jij er ook iets aan\!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *Een van de inzichten uit het handboekje:*
 
