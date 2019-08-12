@@ -7,9 +7,7 @@ image: /img/Blog_valkuilen-30.png
 public: true
 has_request: true
 request_image: /uploads/Mock-up-website_klein.png
-request_title: >-
-  Wil je meer toffe inzichten, omdat je bezig bent overtuigende content te
-  creëren?
+request_title: 'Wil je meer inzichten, omdat je bezig bent overtuigende content te creëren?'
 request_cta: Gratis download
 tag: valkuilen
 order: 3
