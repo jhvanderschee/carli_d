@@ -3,10 +3,10 @@ title: Gratis weggever
 description: |-
   **-Gratis weggever-** 
   Toffe inzichten om groen gedrag te stimuleren
-image: /uploads/Mock-up-website.jpg
+image: /uploads/Mock-up-website_klein.png
 public: true
 has_request: true
-request_image: /uploads/Mock-up-website.jpg
+request_image: /uploads/Mock-up-website_klein.png
 request_title: Download alle toffe inzichten
 request_cta: Gratis download
 tag: motiveren
