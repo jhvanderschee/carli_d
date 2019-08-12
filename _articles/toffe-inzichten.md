@@ -3,10 +3,10 @@ title: Gratis weggever
 description: |-
   **-Gratis weggever-** 
   Toffe inzichten om groen gedrag te stimuleren
-image: /uploads/Mock-up-website.png
+image: /uploads/Mock-up-website.jpg
 public: true
 has_request: true
-request_image: /uploads/Mock-up-website.png
+request_image: /uploads/Mock-up-website.jpg
 request_title: Download alle toffe inzichten
 request_cta: Gratis download
 tag: motiveren
@@ -21,6 +21,6 @@ order: 1
 
 Dit komt omdat het onderdeel wordt van onze identiteit; de manier waarop we onszelf zien. We vertonen graag gedrag dat hiermee strookt; we hebben namelijk de behoefte om consistent te zijn.&nbsp;
 
-Dus iemand aansporen kleine veranderingen door te voeren, zal vanzelf leiden tot klimaatvriendelijker gedrag op steeds meer momenten. Die kleine duwtjes zijn dus een mooi begin van de consistente gedragsverandering die nodig is om het klimaat aan te passen.&nbsp;<br><br>**Tip voor jouw groene content**<br>Herinner mensen aan het klimaatvriendelijke gedrag dat zij eerder hebben vertoond (bijvoorbeeld het gebruik van ledlampen of het verlagen van de thermostaat). Dit maakt het logischer voor hen om dit klimaatvriendelijke gedrag ook te vertonen op een ander moment, in een andere situatie.&nbsp;
+Iemand aansporen kleine veranderingen door te voeren, zal vanzelf leiden tot klimaatvriendelijker gedrag op steeds meer momenten. Die kleine duwtjes zijn een mooi begin van de consistente gedragsverandering die nodig is om het klimaat aan te passen.&nbsp;<br><br>**Tip voor jouw groene content**<br>Herinner mensen aan het klimaatvriendelijke gedrag dat zij eerder hebben vertoond (bijvoorbeeld het gebruik van ledlampen of het verlagen van de thermostaat). Dit maakt het logischer voor hen om dit klimaatvriendelijke gedrag ook te vertonen op een ander moment, in een andere situatie.&nbsp;
 
 *Overige inzichten in handboekje:&nbsp;*<br>• Geld besparen is niet zo belangrijk<br>• We willen net zo goed/beter zijn<br>• ‘Groot’ werkt verlammend<br>• Concreet beeld maakt indruk<br>• Het limbische brein moet geraakt worden&nbsp;<br>• Meedenken maakt meegaand<br>• Nieuw willen we in een oud jasje
