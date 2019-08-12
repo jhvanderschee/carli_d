@@ -4,7 +4,7 @@ description: Waarom de **WHY-methode** zo goed werkt
 image: /img/man.png
 public: true
 has_request: true
-request_image: /uploads/Mock-up-website.jpg
+request_image: /uploads/Mock-up-website_klein.png
 request_title: >-
   Wil je meer toffe inzichten, omdat je bezig bent overtuigende content te
   creëren?
