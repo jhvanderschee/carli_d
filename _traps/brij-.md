@@ -8,4 +8,4 @@ bgcolor: lightgray
 order: 6
 ---
 
-Veel informatie zorgt voor een gebrek aan overzicht en vertelt niet perse meer.&nbsp;
+Veel informatie zorgt voor een gebrek aan overzicht en vertelt niet per se meer.&nbsp;
