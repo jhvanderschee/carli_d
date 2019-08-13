@@ -2,7 +2,7 @@
 title: Hoger niveau.
 text_left: 0
 text_right: 170
-image:
+image: /uploads/berg.png
 image_position: right bottom / auto 350px
 bgcolor: white
 order: 1
