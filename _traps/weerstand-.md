@@ -8,4 +8,4 @@ bgcolor: white
 order: 3
 ---
 
-Verandering roep weerstand op.
+Verandering roept weerstand op.
