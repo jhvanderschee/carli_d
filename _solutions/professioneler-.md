@@ -1,9 +1,9 @@
 ---
 title: Professioneler.
-text_left: 0
-text_right: 170
-image:
-image_position: right bottom / auto 350px
+text_left: 200
+text_right: 0
+image: /uploads/shutterstock_517980100.png
+image_position: left bottom / auto 250px
 bgcolor: white
 order: 1
 ---
