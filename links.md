@@ -1,4 +1,4 @@
 ---
-title: Communicatiemiddelen
+title: Links
 layout: 
 ---
