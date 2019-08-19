@@ -1,4 +1,4 @@
 ---
 title: Links
-layout: 
+layout: page
 ---
