@@ -7,7 +7,7 @@ images:
   - image: /img/E-vervoer02.jpg
   - image: /img/E-vervoer03.jpg
 description: >-
-  Gemeente Ameland had behoefte aan
+  Gemeente Ameland had de behoefte aan
 
   een beeldmerk waarmee alle elektrische vervoersmiddelen met elkaar verbonden
   zouden worden. Het beeldmerk gaat toegepast worden op de Arriva-bussen, de
@@ -23,6 +23,6 @@ tags:
 order: 13
 ---
 
-Omdat alle elektrische vervoersmiddelen al een eigen communicatie voerde omtrent het elektrische rijden, heeft Frisse Plannen gekeken naar welke boodschap een aanvulling zou zijn èn zou inspireren mee te willen doen. 
+Omdat alle elektrische vervoersmiddelen al een eigen communicatie voerde omtrent het elektrische rijden, heeft Frisse Plannen gekeken naar welke boodschap een aanvulling zou zijn &egrave;n zou inspireren mee te willen doen.&nbsp;
 
 Dit beeldmerk is daaruit voortgekomen. Het speelt in op het gevoel door op een simpele en enthousiasmerende manier uit te leggen wat het doel is waarnaar wordt gestreefd.
