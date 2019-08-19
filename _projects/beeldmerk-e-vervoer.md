@@ -7,7 +7,7 @@ images:
   - image: /img/E-vervoer02.jpg
   - image: /img/E-vervoer03.jpg
 description: >-
-  Gemeente Ameland had de behoefte aan
+  Gemeente Ameland wilde graag
 
   een beeldmerk waarmee alle elektrische vervoersmiddelen met elkaar verbonden
   zouden worden. Het beeldmerk gaat toegepast worden op de Arriva-bussen, de
