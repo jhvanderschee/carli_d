@@ -3,7 +3,7 @@ title: Links
 layout: page
 ---
 
-We hoeven natuurlijk niet allemaal opnieuw het wiel uit te vinden. Daarom hieronder een aantal handige links en documenten waar veel duurzame informatie vandaan gehaald kan worden.
+We hoeven natuurlijk niet allemaal opnieuw het wiel uit te vinden. Daarom hieronder een aantal handige links en documenten waar veel informatie vandaan gehaald kan worden.
 
 301 energiebespaartips van de Consumentenbond<br>[Download PDF](/7tactieken.pdf)
 
