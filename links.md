@@ -10,3 +10,5 @@ We hoeven natuurlijk niet allemaal opnieuw het wiel uit te vinden. Daarom hieron
 Stappenplan op maat om je huis energie&shy;zuiniger en aardgasvrij te maken<br>[Verbeterjehuis.nl](verbeterjehuis.nl){: target="_blank"}
 
 Stappenplan op maat m&eacute;t kosten en terugverdientijden<br>[GreenHome.nl](greenhome.nl){: target="_blank"}
+
+Veel duurzame informatie (per stad/gemeente)<br>[DuurzaamBouwloket.nl](duurzaambouwloket.nl){: target="_blank"}
