@@ -5,10 +5,8 @@ layout: page
 
 We hoeven natuurlijk niet allemaal opnieuw het wiel uit te vinden. Daarom hieronder een aantal handige links en documenten waar veel duurzame informatie vandaan gehaald kan worden.
 
-&nbsp;
+301 energiebespaartips van de Consumentenbond<br>[Download PDF](/7tactieken.pdf)
 
-301 energiebespaartips van de Consumentenbond
+Stappenplan op maat om je huis energie&shy;zuiniger en aardgasvrij te maken<br>[Verbeterjehuis.nl](verbeterjehuis.nl){: target="_blank"}
 
-[Download PDF](/7tactieken.pdf)
-
-&nbsp;
+Stappenplan op maat m&eacute;t kosten en terugverdientijden<br>[GreenHome.nl](greenhome.nl){: target="_blank"}
