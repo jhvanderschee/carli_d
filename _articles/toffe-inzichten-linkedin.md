@@ -14,7 +14,7 @@ tag: motiveren
 order: 1
 ---
 
-**Vond je het inzicht op LinkedIn ook interessant. Download hier dan alle toffe inzichten die ik tot nu toe heb verzameld. Hopelijk heb jij er ook iets aan\!**
+**Vond je het inzicht op LinkedIn ook interessant. Download hier dan alle toffe inzichten die ik tot nu toe heb verzameld. Hopelijk heb jij er ook iets aan en kunnen we samen de wereld wat frisser achterlaten\!**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
