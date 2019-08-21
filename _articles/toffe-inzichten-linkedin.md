@@ -18,4 +18,4 @@ order: 1
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*Inzichten in dit verzamelboekje:&nbsp;*<br>• Gedrag loopt over<br>• Geld besparen is niet zo belangrijk<br>• We willen net zo goed/beter zijn<br>• ‘Groot’ werkt verlammend<br>• Concreet beeld maakt indruk<br>• Het limbische brein moet geraakt worden&nbsp;<br>• Meedenken maakt meegaand<br>• Nieuw willen we in een oud jasje
+*Alle inzichten uit dit verzamelboekje:&nbsp;*<br>• Gedrag loopt over<br>• Geld besparen is niet zo belangrijk<br>• We willen net zo goed/beter zijn<br>• ‘Groot’ werkt verlammend<br>• Concreet beeld maakt indruk<br>• Het limbische brein moet geraakt worden&nbsp;<br>• Meedenken maakt meegaand<br>• Nieuw willen we in een oud jasje
