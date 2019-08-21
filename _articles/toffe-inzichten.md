@@ -2,7 +2,6 @@
 title: Gratis weggever
 description: |-
   **-Gratis weggever-** 
-
   Toffe inzichten om groen gedrag te stimuleren
 image: /uploads/Mock-up-website_klein.png
 public: true
