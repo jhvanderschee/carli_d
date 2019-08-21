@@ -11,7 +11,7 @@ tag: motiveren
 order: 1
 ---
 
-**Vond je het inzicht op LinkedIn ook interessant. Download hier dan alle toffe inzichten die ik tot nu toe heb verzameld. Hopelijk heb jij er ook iets aan en kunnen we samen de wereld wat frisser achterlaten\!**
+****Ben je bezig overtuigende content te cre&euml;ren voor een groene organisatie of je eigen groene ambitie? En vond je het inzicht op LinkedIn interessant? Laat je dan eens inspireren door de toffe inzichten die ik nog meer heb verzameld. Ik heb ze gebundeld, omdat ik ze niet wil vergeten. Hopelijk heb jij er ook iets aan\!****
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
