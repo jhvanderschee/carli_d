@@ -17,7 +17,7 @@ order: 1
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*Een van de inzichten uit het handboekje:*
+*Een van de inzichten uit het verzamelboekje:*
 
 **GEDRAG LOOPT OVER**<br>Wanneer we ons op een bepaalde manier gedragen (sociaal, gezond, klimaatvriendelijk), vertonen we dat gedrag ook op andere momenten. Het gedrag loopt over.
 
