@@ -27,4 +27,4 @@ Iemand aansporen kleine veranderingen door te voeren, zal vanzelf leiden tot kli
 
 &nbsp;
 
-*Overige inzichten in handboekje:&nbsp;*<br>• Geld besparen is niet zo belangrijk<br>• We willen net zo goed/beter zijn<br>• ‘Groot’ werkt verlammend<br>• Concreet beeld maakt indruk<br>• Het limbische brein moet geraakt worden&nbsp;<br>• Meedenken maakt meegaand<br>• Nieuw willen we in een oud jasje
+*Overige inzichten in dit verzamelboekje:&nbsp;*<br>• Geld besparen is niet zo belangrijk<br>• We willen net zo goed/beter zijn<br>• ‘Groot’ werkt verlammend<br>• Concreet beeld maakt indruk<br>• Het limbische brein moet geraakt worden&nbsp;<br>• Meedenken maakt meegaand<br>• Nieuw willen we in een oud jasje
