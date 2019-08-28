@@ -1,7 +1,7 @@
 ---
 title: Gratis weggever via LinkedIn
-description: Nieuw willen we in een oud jasje
-image: /uploads/worst.jpg
+description: Toffe inzichten om groen gedrag te stimuleren
+image: /uploads/image.png
 public: false
 has_request: true
 request_image: /uploads/Mock-up-website_klein.png
