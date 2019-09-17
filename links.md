@@ -12,3 +12,7 @@ Stappenplan op maat om je huis energie&shy;zuiniger en aardgasvrij te maken<br>[
 Stappenplan op maat m&eacute;t kosten en terugverdientijden<br>[GreenHome.nl](http://www.greenhome.nl){: target="_blank"}
 
 Veel duurzame informatie (per stad/gemeente)<br>[DuurzaamBouwloket.nl](http://www.duurzaambouwloket.nl){: target="_blank"}
+
+45 x inspiratie om je leven net iets duurzamer te maken (Vandebron)<br>De beste films, boeken, artikelen, podcasts en social media.<br>[Download PDF](/Vandebron.pdf)
+
+&nbsp;
