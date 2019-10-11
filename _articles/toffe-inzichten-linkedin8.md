@@ -1,6 +1,6 @@
 ---
 title: Gratis weggever via LinkedIn
-description: Toffe inzichten om groen gedrag te stimuleren
+description:
 image: /uploads/image.png
 public: false
 has_request: true
