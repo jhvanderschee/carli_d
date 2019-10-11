@@ -11,6 +11,3 @@ tag: motiveren
 order: 1
 ---
 
-Vond je het inzicht op LinkedIn ook interessant?
-
-En ben je benieuwd naar meer inzichten die groen gedrag kunnen stimuleren?
