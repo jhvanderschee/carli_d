@@ -161,7 +161,7 @@ geen ander de juiste inhoud aan te verbinden.’</p>
         <strong>ARTIKELEN.</strong>
         {% assign sitearticles = site.articles | where: 'public','true' | sort:'order' %}{% for item in sitearticles limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
         <br />
-        <a href="blogs" class="button">Zie meer blogs >></a>
+        <a href="blogs" class="button">Zie meer artikelen >></a>
 
 </div>
             <div id="contact" class="section lightgray">
