@@ -32,7 +32,7 @@
 </div>
 
 <div class="section">
-    <strong>ANDERE BLOGS.</strong><br />
+    <strong>ANDERE ARTIKELEN.</strong><br />
     {% assign siteposts = site.articles | where_exp: "item","item.url != page.url" | sort:'order' %}
     {% for item in siteposts limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
     <br />
