@@ -1,6 +1,6 @@
 ---
 title: ARTIKEL. Groene communicatiemiddelen
-description: Waarom **groen** soms alleen maar groen lijkt en het niet is.
+description: Waarom **groen** vaak alleen maar groen lijkt en het niet is.
 image:
 public: true
 has_request: true
