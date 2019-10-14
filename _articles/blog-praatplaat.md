@@ -1,11 +1,11 @@
 ---
-title: BLOG Praatplaat
+title: ARTIKEL Praatplaat
 description: Hoe een **praatplaat** helpt om plannen vooruit te krijgen.
 image: /img/GZI01.jpg
 public: true
 has_request: false
-request_image: 
-request_title: 
+request_image:
+request_title:
 request_cta:
 tag: praatplaat
 order: 5
