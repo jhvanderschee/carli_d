@@ -8,4 +8,4 @@ bgcolor: lightgray
 order: 1
 ---
 
-Het juiste beeld kan de content naar een hoger niveau tillen.
+Het juiste beeld kan de inhoud naar een hoger niveau tillen.
