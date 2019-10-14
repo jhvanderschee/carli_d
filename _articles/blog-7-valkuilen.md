@@ -1,5 +1,5 @@
 ---
-title: BLOG 7 valkuilen
+title: ARTIKEL 7 valkuilen
 description: |-
   **7 redenen** waarom goede 
   plannen vaak stranden
