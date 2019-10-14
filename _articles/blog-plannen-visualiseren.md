@@ -1,5 +1,5 @@
 ---
-title: BLOG Plannen visualiseren
+title: ARTIKEL Plannen visualiseren
 description: 5 redenen waarom je plannen het best **visueel** kunt maken
 image: /img/Blog_visualiseren-18.png
 public: true
@@ -11,7 +11,7 @@ tag: visualiseren
 order: 7
 ---
 
-**Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit blog laat zien waarom een plan visueel maken een goed idee is.**
+**Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit artikel laat zien waarom een plan visueel maken een goed idee is.**
 
 ![](/uploads/blog-visualiseren-31.png)<br>1\. Wanneer je letterlijk verbanden ziet, ontstaan nieuwe inzichten. Bij jou, maar ook bij mensen met wie je het plan deelt. Dit geeft je waardevolle input van anderen, waardoor je het plan constant naar een hoger niveau tilt.&nbsp;
 
@@ -23,4 +23,4 @@ order: 7
 
 ![](/uploads/blog-visualiseren-39.png)<br>5\. Emotie is essentieel om mensen intrinsiek gemotiveerd te krijgen. En niets roept sneller emoties op dan visuele content. Van ontroering en geborgenheid tot humor en woede, je kunt het met &eacute;&eacute;n beeld oproepen.
 
-*(Om dit extra kracht bij te zetten kun je voor de inhoud gebruik maken van de WHY-techniek van Simon Sinek. [Lees blog](/blogs/bog-why-methode/))*
+*(Om dit extra kracht bij te zetten kun je voor de inhoud gebruik maken van de WHY-techniek van Simon Sinek. [Lees artikel](/blogs/bog-why-methode/))*
