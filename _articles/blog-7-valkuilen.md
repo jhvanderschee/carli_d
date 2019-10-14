@@ -13,7 +13,7 @@ tag: valkuilen
 order: 3
 ---
 
-**Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit blog laat zien waar het vaak misgaat, en hoe je dat kunt voorkomen.&nbsp;**
+**Je hebt een plan. Een goed plan. Maar heb je ook draagvlak? Om je plan te realiseren heb je medewerking nodig. En deze krijg je het liefst zo effectief mogelijk. Sterker nog, wanneer je niet effectief bent gaat het vaak mis. Dit artikel laat zien waar het vaak misgaat, en hoe je dat kunt voorkomen.&nbsp;**
 
 ![](/uploads/blog-valkuilen-33.png)<br>Ons gehoor gebruikt minder dan 2% van het verwerkingsvermogen van onze zintuigen. Ons zicht 75%. Hierdoor begrijpen we gevisualiseerde inhoud niet alleen beter, we onthouden het ook makkelijker.
 
