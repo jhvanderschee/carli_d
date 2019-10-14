@@ -7,8 +7,8 @@ has_request: true
 request_image: /uploads/Mock-up-website_klein.png
 request_title: 'Wil je meer inzichten, omdat je bezig bent overtuigende content te creëren?'
 request_cta: Gratis download
-tag: valkuilen
-order: 3
+tag: papier
+order: 8
 ---
 
 Artikel volgt
