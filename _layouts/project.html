@@ -22,7 +22,7 @@
 <div class="section">
         <a href="/portfolio" class="button">Zie andere communicatiemiddelen >></a><br /><br />
 
-    <strong>GERELATEERDE BLOGS.</strong><br />
+    <strong>GERELATEERDE ARTIKELEN.</strong><br />
     {% assign sitearticles = site.articles | where_exp: "item", "page.tags contains item.tag" %}
     {% for item in sitearticles limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
     <br />
