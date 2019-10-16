@@ -1,5 +1,5 @@
 ---
-title: Feiten en cijfers.
+title: Weinig feiten en cijfers.
 text_left: 0
 text_right: 170
 image: /img/informatief-17.png
