@@ -1,5 +1,5 @@
 ---
-title: Tijdgebrek.
+title: Niet tijdrovend.
 text_left: 150
 text_right: 0
 image: /img/klok-14.png
