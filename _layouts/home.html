@@ -37,9 +37,8 @@ Dat kan veel beter! En wij weten hoe.<br />
         <p class="small">
         Communicatie over duurzaamheid is vaak complex, omdat het over innovatieve 
 technieken en abstracte zaken als 'warmte', 'energietransitie' of 'gas' gaat. <br /><br />
-Is de boodschap die je wilt communiceren helder en toegankelijk voor jouw doelgroep? Brengt het mensen in beweging?<br /><br />
-
-Lees hieronder waar je op moet letten met de inhoud (wij denken graag mee), de consequentie en de oplossing.
+Is de boodschap die je wilt communiceren helder en toegankelijk voor jouw doelgroep? Brengt het mensen in beweging?  
+            <a href="/blogs/blog-7-valkuilen/">Lees 7 valkuilen omtrent de inhoud >></a> </p> <br /><br />
 </p>
 
 </div> 
@@ -49,32 +48,7 @@ Lees hieronder waar je op moet letten met de inhoud (wij denken graag mee), de c
 <div class="section carousel">
     <div class="navigation">
         <div>
-            <strong>AANDACHTSPUNTEN INHOUD.</strong>
-        </div>
-        <div>{% for item in site.traps %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
-    </div>
-    <div class="slides_container" style="width: {{ site.traps | size | times: 400 }}px">
-        {% assign sitetraps = site.traps | sort: 'order' %}{% for item in sitetraps %}
-            <div class="slide {{ item.bgcolor }}" style="background: url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 125px; height: 300px;">
-                <div style="padding-left: {{ item.text_left }}px; padding-right: {{ item.text_right }}px;">
-                    <strong>{{ item.title }}</strong><br />
-                    {{ item.content }}
-                </div>
-            </div>
-        {% endfor %}
-    </div>
-</div>
-    
-<div class="section darkred">
-    CONSEQUENTIE.<br />
-    Het frisse plan behaalt niet zijn potentiële
-    resultaat als de middelen niet helder en overtuigend zijn. Dit kost veel tijd, frustratie en geld.
-</div>
-
-<div class="section carousel">
-    <div class="navigation">
-        <div>
-            <strong>OPLOSSING.</strong><br />
+            <strong>AANPAK.</strong><br />
             <p class="small">Naast een objectieve, frisse blik op de inhoud is een goed grafisch ontwerp van belang, want...<p /><br />
         </div>
         <div>{% for item in site.solutions %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
