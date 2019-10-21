@@ -1,5 +1,5 @@
 ---
-title: Charettes Ameland.
+title: Charettes 2017.
 subtitle: Brochure
 image: /img/Charettes01.jpg
 images:
