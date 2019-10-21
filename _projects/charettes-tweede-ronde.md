@@ -21,8 +21,8 @@ tags:
 order: 5
 ---
 
-In 2018 werd de tweede ronde Charette-avonden georganiseerd. Het ging om twee avonden. De insteek van de avonden was om bewoners, bedrijfseigenaren en experts samen te laten discussi&euml;ren over het ingewikkelde vraagstuk 'de energietransitie'.&nbsp;
+Op 25 mei en 1 juni 2018 organiseerden de gemeente Ameland en de Hanzehogeschool Groningen twee charrettes, meedenk-avonden over de energietransitie. Dit boekje is gebaseerd op die twee avonden en op de input die Amelanders daar leverden.
 
-Deze brochure is een verslag van deze tweede ronde.&nbsp;
+Bij de eerste bijeenkomsten ging het vooral om het oogsten van wensen, visies en idee&euml;n. Ook werden hier de verkenningen gepresenteerd die door het convenant Duurzaam Ameland waren geschetst. Tijdens de charrettes leverden de Amelanders commentaar op die verkenningen. De tweede ronde richtte zich op het formuleren van concrete projecten. Bewoners en ondernemers leverden daarmee bouwstenen voor een duurzame ontwikkeling. En ze maakten hun inbreng meteen concreet in de vorm van mogelijke nieuwe projecten.
 
 PAPIER<br>Deze brochure is gedrukt op stone-paper; papier gemaakt van steen. [Lees hier meer over &gt;&gt;](/blogs/blog-steen-en-tomaatpapier/)
