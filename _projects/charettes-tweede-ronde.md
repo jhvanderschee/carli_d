@@ -1,5 +1,5 @@
 ---
-title: Charettes tweede ronde
+title: Charettes 2018.
 subtitle: Brochure
 image: /img/Charettes01.jpg
 images:
