@@ -21,8 +21,8 @@ tags:
 order: 5
 ---
 
-Er zijn in alle vier de dorpen Charette-avonden georganiseerd. De insteek van de avonden was om bewoners, bedrijfseigenaren en experts samen te laten discussi&euml;ren over het ingewikkelde vraagstuk 'de energietransitie'.&nbsp;
+In 2018 werd de tweede ronde Charette-avonden georganiseerd. Het ging om twee avonden. De insteek van de avonden was om bewoners, bedrijfseigenaren en experts samen te laten discussi&euml;ren over het ingewikkelde vraagstuk 'de energietransitie'.&nbsp;
 
-Deze brochure is een verslag van deze eerste vier avonden. Met foto's, cartoons en interessante resultaten.
+Deze brochure is een verslag van deze tweede ronde.&nbsp;
 
 PAPIER<br>Deze brochure is gedrukt op stone-paper; papier gemaakt van steen. [Lees hier meer over &gt;&gt;](/blogs/blog-steen-en-tomaatpapier/)
