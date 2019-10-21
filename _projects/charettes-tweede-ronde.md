@@ -1,10 +1,10 @@
 ---
 title: Charettes 2018.
 subtitle: Brochure
-image: /img/Charettes2_binnenwerk1.jpg
+image: /img/Charettes2_binnenwerk2.jpg
 images:
   - image: /img/Charettes2Cover.jpg
-  - image: /img/Charettes03.jpg
+  - image: /img/Charettes2_binnenwerk1.jpg
 description: >-
   Gemeente Ameland wil in 2020 volledig energieneutraal zijn. Om deze ambitie
   waar te maken is er van alle kanten hulp nodig; Samen op weg naar de energie
