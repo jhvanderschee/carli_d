@@ -15,7 +15,7 @@ order: 1
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br><br>\-KAARS/T-
 
-<br>\-TO GO CUP-<br>**![](/uploads/kaffeeform-kaffeesatz-tasse-cup-weducer-hero-600x480-3.jpg){: width="300" height="256"}**<br>Voor 14,90 euro kan je deze to-go-beker bestellen. Hij is gemaakt van koffieprut en biohars. Hoe fris is dat?\!<br>[https://www.kaffeeform.com/en/shop/weducer-cup/](https://www.kaffeeform.com/en/shop/weducer-cup/){: target="_blank"}<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Een kaart en tevens kaars gemaakt van bijenwas met gegraveerde tekst. Te versturen voor 6 euro per stuk.<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br><br>\-TO GO CUP-<br>**![](/uploads/kaffeeform-kaffeesatz-tasse-cup-weducer-hero-600x480-3.jpg){: width="300" height="256"}**<br>Voor 14,90 euro kan je deze to-go-beker bestellen. Hij is gemaakt van koffieprut en biohars. Hoe fris is dat?\!<br>[https://www.kaffeeform.com/en/shop/weducer-cup/](https://www.kaffeeform.com/en/shop/weducer-cup/){: target="_blank"}<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \-RENAULT 4 OP ZONNE-ENERGIE-<br>![](/uploads/auto.JPG){: width="300" height="260"}<br>Een leuk doe-het-zelf pakket voor 12,50 euro met hoogwaardig zonnepaneeltje, ingebouwde oplaadbare batterij en onderdelen van karton. Kan plat opgestuurd worden.<br>[https://www.ecomondo.nl/winkel/autogami-renault-4/](https://www.ecomondo.nl/winkel/autogami-renault-4/){: target="_blank"}<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
