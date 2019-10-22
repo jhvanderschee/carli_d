@@ -19,14 +19,12 @@ order: 8
 
 \-NIKS TEGOEDBON-<br>![](/uploads/bon-niks-2.jpg){: width="300" height="313"}<br>Voor 15, 25, of 50 euro krijg je een wit pasje van NIKS thuisgestuurd; een aandenken aan de donatie die je iemand cadeau doet. Wie liever &eacute;cht niks heeft, kan het pasje ook begraven: het is dan binnen enkele dagen verdwenen.<br>[https://niks.greenpeace.nl/](https://niks.greenpeace.nl/){: target="_blank"}<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\- OESTERZWAM GROWKIT -<br>![](/uploads/zwam.JPG){: width="300" height="294"}<br>Met deze RotterZwam Growkit voor 14,95 euro kun je zelf thuis oesterzwammen kweken. Het enige dat je nodig hebt is koffiedik en wat geduld.&nbsp;<br>[https://www.ecomondo.nl/winkel/rotterzwam-growkit-oesterzwammen/](https://www.ecomondo.nl/winkel/rotterzwam-growkit-oesterzwammen/){: target="_blank"}<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\-ARMBAND VAN PLASTIC UIT DE OCEAAN-<br>![](/uploads/armband.jpg){: width="300" height="237"}<br>De armband is gemaakt van 100% gerecycled plastic uit de oceaan (waaronder visnetten). Hij is verkrijgbaar voor 28 euro en in 4 kleuren. 5 euro per armband gaat naar de Plastic Soup Foundation.<br>[https://www.mbrctheocean.com/nl/?utm\_source=affiliate&utm\_medium=dsc&utm\_campaign=mbrc](https://www.mbrctheocean.com/nl/?utm_source=affiliate&amp;utm_medium=dsc&amp;utm_campaign=mbrc)<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\- OESTERZWAM GROWKIT -<br>![](/uploads/zwam.JPG){: width="300" height="294"}<br>Met deze RotterZwam Growkit voor 14,95 euro kun je zelf thuis oesterzwammen kweken. Het enige dat je nodig hebt is koffiedik en wat geduld.&nbsp;<br>[https://www.ecomondo.nl/winkel/rotterzwam-growkit-oesterzwammen](https://www.ecomondo.nl/winkel/rotterzwam-growkit-oesterzwammen/){: target="_blank"}<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \-GERECYCLED EN CIRCULAIR HORLOGE-<br>![](/uploads/zebra-1-looped.png){: width="300" height="289"}<br>&nbsp;
 
 Dit horloge voor 149 euro is veelal van gerecycled materiaal gemaakt. De zwarte onderdelen komen van oude tv’s. Geen enkel onderdeel van de kast is gelijmd. Daardoor kunnen de onderdelen aan het eind makkelijk uit elkaar worden gehaald en opnieuw worden gebruikt.<br>[https://loopedgoods.com/product/dazzling-zebra/](https://loopedgoods.com/product/dazzling-zebra/)<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-&nbsp;
+\- SYMPATHIEKE TELEFOON -&nbsp;<br>![](/uploads/fairphone.jpg){: width="300" height="300"}<br>Een telefoon gemaakt zonder kinderarbeid. Met betere lonen voor de mensen die ze in elkaar zetten. En zonder oorlogen te financieren. &Egrave;n ook nog eens modulair, waardoor je zelf onderdelen kunt vervangen als er iets stuk gaat. Dat allemaal voor nog geen 450 euro\! Merk: Fairphone<br>[https://shop.fairphone.com/nl/](https://shop.fairphone.com/nl/)
 
 &nbsp;
