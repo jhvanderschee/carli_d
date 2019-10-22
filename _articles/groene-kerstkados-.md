@@ -8,7 +8,7 @@ request_image: /uploads/Mock-up-website_klein.png
 request_title: 'Wil je toffe inzichten, omdat je bezig bent overtuigende content te creëren?'
 request_cta: Gratis download
 tag: groene-communicatiemiddelen
-order: 8
+order: 1
 ---
 
 **Bijdragen aan de strijd tegen klimaatverandering en tegelijkertijd goede sier maken met Sinterklaas, kerst, of andere feestelijke gelegenheden. Het kan. Hieronder een aantal suggesties:**
