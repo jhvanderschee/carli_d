@@ -11,7 +11,7 @@ tag: groene-communicatiemiddelen
 order: 8
 ---
 
-**Bijdragen aan de strijd tegen klimaatverandering en tegelijkertijd goede sier maken met Sinterklaas, Kerst, of andere feestelijke gelegenheden. Het kan. Hieronder een aantal suggesties:**
+**Bijdragen aan de strijd tegen klimaatverandering en tegelijkertijd goede sier maken met Sinterklaas, kerst, of andere feestelijke gelegenheden. Het kan. Hieronder een aantal suggesties:**
 
 **![](/uploads/kaffeeform-kaffeesatz-tasse-cup-weducer-hero-600x480.jpg){: width="600" height="480"}**<br>Voor 14,90 euro kan je deze to-go-beker bestellen. Hij is gemaakt van koffieprut en biohars. Hoe fris is dat?\!<br>[https://www.kaffeeform.com/en/shop/weducer-cup/](https://www.kaffeeform.com/en/shop/weducer-cup/)
 
