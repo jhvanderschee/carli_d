@@ -1,8 +1,6 @@
 ---
 title: ARTIKEL 7 valkuilen
-description: |-
-  **7 redenen** waarom goede 
-  plannen vaak stranden
+description: "**7 redenen** waarom goede plannen vaak stranden"
 image: /img/Blog_valkuilen-30.png
 public: true
 has_request: true

@@ -1,6 +1,6 @@
 ---
 title: Gratis weggever via LinkedIn
-description:
+description: ""
 image:
 public: false
 has_request: true

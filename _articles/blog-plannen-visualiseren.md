@@ -1,6 +1,6 @@
 ---
 title: ARTIKEL Plannen visualiseren
-description: 5 redenen waarom je plannen het best **visueel** kunt maken
+description: "5 redenen waarom je plannen het best **visueel** kunt maken"
 image: /img/Blog_visualiseren-18.png
 public: true
 has_request: true
