@@ -1,6 +1,6 @@
 ---
 title: Groene kerstkado's.
-description: '**Groene** kerstkado''s'
+description: '**Groene** eindejaarskado''s'
 image: /uploads/groenkado.jpg
 public: true
 has_request: false
