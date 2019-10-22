@@ -21,10 +21,8 @@ order: 8
 
 \- OESTERZWAM GROWKIT -<br>![](/uploads/zwam.JPG){: width="300" height="294"}<br>Met deze RotterZwam Growkit voor 14,95 euro kun je zelf thuis oesterzwammen kweken. Het enige dat je nodig hebt is koffiedik en wat geduld.&nbsp;<br>[https://www.ecomondo.nl/winkel/rotterzwam-growkit-oesterzwammen](https://www.ecomondo.nl/winkel/rotterzwam-growkit-oesterzwammen/){: target="_blank"}<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\-GERECYCLED EN CIRCULAIR HORLOGE-<br>![](/uploads/zebra-1-looped.png){: width="300" height="289"}<br>&nbsp;
+\-GERECYCLED EN CIRCULAIR HORLOGE-<br>![](/uploads/zebra-1-looped.png){: width="300" height="289"}<br>Dit horloge voor 149 euro is veelal van gerecycled materiaal gemaakt. De zwarte onderdelen komen van oude tv’s. Geen enkel onderdeel van de kast is gelijmd. Daardoor kunnen de onderdelen aan het eind makkelijk uit elkaar worden gehaald en opnieuw worden gebruikt.<br>[https://loopedgoods.com/product/dazzling-zebra/](https://loopedgoods.com/product/dazzling-zebra/)<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Dit horloge voor 149 euro is veelal van gerecycled materiaal gemaakt. De zwarte onderdelen komen van oude tv’s. Geen enkel onderdeel van de kast is gelijmd. Daardoor kunnen de onderdelen aan het eind makkelijk uit elkaar worden gehaald en opnieuw worden gebruikt.<br>[https://loopedgoods.com/product/dazzling-zebra/](https://loopedgoods.com/product/dazzling-zebra/)<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\- SYMPATHIEKE TELEFOON -&nbsp;<br>![](/uploads/fairphone.jpg){: width="300" height="300"}<br>Een telefoon gemaakt zonder kinderarbeid. Met betere lonen voor de mensen die ze in elkaar zetten. En zonder oorlogen te financieren. &Egrave;n ook nog eens modulair, waardoor je zelf onderdelen kunt vervangen als er iets stuk gaat. Dat allemaal voor nog geen 450 euro\! Merk: Fairphone<br>[https://shop.fairphone.com/nl/](https://shop.fairphone.com/nl/)
+\- SYMPATHIEKE TELEFOON -&nbsp;<br>![](/uploads/fairphone.jpg){: width="300" height="300"}<br>Een telefoon gemaakt zonder kinderarbeid. Met betere lonen voor de mensen die ze in elkaar zetten. Zonder oorlogen te financieren. &Egrave;n ook nog eens modulair, waardoor je zelf onderdelen kunt vervangen als er iets stuk gaat. En dat allemaal voor nog geen 450 euro\! Merk: Fairphone<br>[https://shop.fairphone.com/nl/](https://shop.fairphone.com/nl/)
 
 &nbsp;
