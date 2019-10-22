@@ -17,6 +17,8 @@ order: 1
 
 ![](/uploads/bon-niks-2.jpg){: width="300" height="313"}<br>Voor 15, 25, of 50 euro krijg je een wit pasje van NIKS thuisgestuurd; een aandenken aan de donatie die je iemand cadeau doet. Wie liever &eacute;cht niks heeft, kan het pasje ook begraven: het is dan binnen enkele dagen verdwenen.<br>[https://niks.greenpeace.nl/](https://niks.greenpeace.nl/){: target="_blank"}
 
+![](/uploads/zwam.JPG){: width="300" height="294"}<br>Met de RotterZwam Growkit kun je zelf thuis oesterzwammen kweken. Het enige dat je nodig hebt is koffiedik en wat geduld.&nbsp;<br>[https://www.ecomondo.nl/winkel/rotterzwam-growkit-oesterzwammen/](https://www.ecomondo.nl/winkel/rotterzwam-growkit-oesterzwammen/)
+
 &nbsp;
 
 &nbsp;
