@@ -1,5 +1,5 @@
 ---
-title: Groene kerstkado's.
+title: Groene eindejaarskado's.
 description: '**Groene** eindejaarskado''s'
 image: /uploads/groenkado.jpg
 public: false
