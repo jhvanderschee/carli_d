@@ -5,14 +5,18 @@
     Selectie ontworpen groene communicatiemiddelen.
 </div>
 <div class="section lightgreen" style="padding-top: 1px;">
+    <div class="itemholder twoup">
     {% assign siteprojects = site.projects | sort:'order' %}{% for item in siteprojects %}
+    <div class="item" style="position: relative;">
         <div style="position: absolute; margin-top: 50px; padding-right: 5px; cursor: pointer;" onclick="document.location.href='{{ item.url }}';" class="lightgreen">
             <div class="subtitle">{{ item.subtitle }}</div>
         </div>
 
         <div style="margin: 40px 0 0; height: 295px; background: url('{{ item.image }}') center center / cover; cursor: pointer;" onclick="document.location.href='{{ item.url }}';"></div>
         <a class="hoekje" href="{{ item.url }}" alt="Lees meer over dit project">Meer >></a>
+    </div>
     {% endfor %}
+    </div>
     <br />
     <a href="/#home" class="button"><< Terug naar home</a>
 </div>

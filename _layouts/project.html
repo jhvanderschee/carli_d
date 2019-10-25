@@ -4,8 +4,10 @@
         <a href="/#portfolio" class="button"><< Terug</a><br /><br />
     <div class="subtitle">{{ page.subtitle }}</div>
     <strong>{{ page.title }}</strong>
-    <div id="currentimage" style="margin: 10px 0 10px; height: 295px; background: url('{{ page.image }}') center center / cover;"></div>
-    <div class="gallery"><div class="gallerythumbnail active" style="background-image: url('{{ page.image }}');" onclick="setGallery(this);"></div>{% for item in page.images %}<div class="gallerythumbnail" style="background-image: url('{{ item.image }}');" onclick="setGallery(this);"></div>{% endfor %}</div>
+    <div class="imageholder" style="margin: 10px 0 0; max-width: 430px;">
+        <div id="currentimage" style="margin-bottom: 10px; height: 295px; background: url('{{ page.image }}') center center / cover;"></div>
+        <div class="gallery"><div class="gallerythumbnail active" style="background-image: url('{{ page.image }}');" onclick="setGallery(this);"></div>{% for item in page.images %}<div class="gallerythumbnail" style="background-image: url('{{ item.image }}');" onclick="setGallery(this);"></div>{% endfor %}</div>
+    </div>
 
     <div class="small">
         <p><strong>{{ page.description }}</strong></p>
