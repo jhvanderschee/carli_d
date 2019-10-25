@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=400">
+        <meta id="viewport" name="viewport" content="width=400">
 
         <title>{% if page.title and page.title != 'Home' %}{{ page.title }} | {% endif %}{{ site.title }}</title>
         {% assign pagecontent_description = page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
@@ -31,7 +31,13 @@
 
         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
         <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
-        
+        <script>
+            if (screen.width < 600) {
+              document.getElementById("viewport").setAttribute("content", "width=400");
+            } else {
+              document.getElementById("viewport").setAttribute("content", "width=device-width");
+            }
+        </script>
     </head>
     <body class="{{ page.layout }}" id="body">
         <div id="top">
