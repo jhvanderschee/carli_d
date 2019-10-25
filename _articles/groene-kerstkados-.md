@@ -2,7 +2,7 @@
 title: Groene eindejaarskado's.
 description: '**Groene** eindejaarskado''s'
 image: /uploads/groenkado.jpg
-public: false
+public: true
 has_request: false
 request_image: /uploads/Mock-up-website_klein.png
 request_title: 'Wil je toffe inzichten, omdat je bezig bent overtuigende content te creëren?'
