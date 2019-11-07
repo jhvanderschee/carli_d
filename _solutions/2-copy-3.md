@@ -1,7 +1,7 @@
 ---
 title: Beter te onthouden.
 text_left: 0
-text_right: 170
+text_right: 140
 image: /img/oplossing-21.png
 image_position: right bottom / auto 350px
 bgcolor: white
