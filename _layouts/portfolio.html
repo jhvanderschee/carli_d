@@ -8,7 +8,7 @@
     <div class="itemholder twoup">
     {% assign siteprojects = site.projects | sort:'order' %}{% for item in siteprojects %}
     <div class="item" style="position: relative;">
-        <div style="position: absolute; margin-top: 50px; padding-right: 5px; cursor: pointer;" onclick="document.location.href='{{ item.url }}';" class="lightgreen">
+        <div style="position: absolute; margin-top: 10px; padding-right: 5px; cursor: pointer;" onclick="document.location.href='{{ item.url }}';" class="lightgreen">
             <div class="subtitle">{{ item.subtitle }}</div>
         </div>
 
