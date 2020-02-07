@@ -33,7 +33,7 @@
 
 <div class="section">
     <strong>ANDERE ARTIKELEN.</strong><br />
-    {% assign siteposts = site.articles | where_exp: "item","item.url != page.url" | sort:'order' %}
+    {% assign siteposts = site.articles | where: 'public','true' | where_exp: "item","item.url != page.url" | sort:'order' %}
     {% for item in siteposts limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
     <br />
     <a href="/blogs" class="button">Naar alle artikelen >></a><br /><br />
