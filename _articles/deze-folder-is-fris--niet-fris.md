@@ -5,7 +5,9 @@ image: /uploads/fris-of-niet-fris-4.JPG
 public: true
 has_request: true
 request_image: /uploads/Mock-up-website_klein.png
-request_title: 'Wil je meer inzichten, omdat je bezig bent overtuigende content te creëren?'
+request_title: >-
+  Wil je toffe inzichten die overtuigen, omdat je bezig bent groene content te
+  creëren?
 request_cta: Gratis download
 tag: valkuilen
 order: 1
