@@ -1,7 +1,7 @@
 ---
 title: Deze folder is fris / niet fris
-description: Deze folder is **fris / niet fris**
-image: /uploads/fris-of-niet-fris-2.JPG
+description: Een **frisse** of **niet frisse** folder
+image: /uploads/fris-of-niet-fris-3.JPG
 public: true
 has_request: true
 request_image: /uploads/Mock-up-website_klein.png
@@ -11,7 +11,7 @@ tag: valkuilen
 order: 1
 ---
 
-Bovenstaande is nog niet zo makkelijk te beoordelen.&nbsp;
+Fris of niet fris, dat is nog niet zo makkelijk te beoordelen.&nbsp;
 
 Hoe mooi zou het zijn als niet alleen jouw project verantwoord is, maar het drukwerk om hierover te communiceren ook? Gelukkig vinden de meesten het steeds belangrijker om op een verantwoorde manier met onze omgeving om te gaan. Alleen &egrave;cht verantwoorde keuzes maken is vaak zo complex dat je al snel door de bomen het (duurzaam beheerde) bos niet meer ziet.&nbsp;
 
