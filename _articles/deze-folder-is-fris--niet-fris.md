@@ -17,7 +17,7 @@ Hoe mooi zou het zijn als niet alleen jouw project verantwoord is, maar het druk
 
 Frisse Plannen heeft het thema ‘duurzaam drukwerk’ uitgediept en presenteert de keuzes in onderstaande folder.
 
-![](/uploads/folder.jpg){: width="520" height="320"}
+![](/uploads/folder.jpg){: width="520" height="320"}![](/uploads/folder.jpg){: width="520" height="320"}
 
 Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aandachtspunten: de grondstoffen en de productie van het papier, het drukproces en het verspreiden.
 
