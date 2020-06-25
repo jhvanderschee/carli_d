@@ -1,7 +1,7 @@
 ---
 title: Deze folder is fris / niet fris
 description: Deze folder is **fris / niet fris**
-image: /uploads/fris-of-niet-fris.JPG
+image: /uploads/fris-of-niet-fris-2.JPG
 public: true
 has_request: true
 request_image: /uploads/Mock-up-website_klein.png
