@@ -35,7 +35,9 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *RESTMATERIAAL*<br>Wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?
 
-\_\_\_\_\_\_\_\_\_\_<br>**DRUKPROCES<br>Frisse Plannen werkt samen met groene drukkers die zonder chemische middelen werken.**
+\_\_\_\_\_\_\_\_\_\_<br>&nbsp;
+
+**DRUKPROCES<br>Frisse Plannen werkt samen met groene drukkers die zonder chemische middelen werken.**
 
 *IPA*<br>IPA is een oplosmiddel dat door het grootste gedeelte van&nbsp;<br>de Nederlandse grafische industrie wordt gebruikt. IPA is&nbsp;<br>door de toxische werking slecht voor mens en milieu.&nbsp;
 
@@ -45,11 +47,15 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *SYNTHETISCHE ELEMENTEN*<br>Is er gebruik gemaakt van synthetische elementen in het drukwerk (zoals de drager bij foliedruk of laminaat)?
 
-*ENERGIEVERBRUIK EN RESTMATERIAAL*<br>Wordt de gebruikte energie voor het drukken duurzaam opgewekt? (Ingekochte certificaten tellen we niet mee) En wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?<br><br>\_\_\_\_\_\_\_\_\_\_<br>&nbsp;
+*ENERGIEVERBRUIK EN RESTMATERIAAL*<br>Wordt de gebruikte energie voor het drukken duurzaam opgewekt? (Ingekochte certificaten tellen we niet mee) En wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?<br><br>\_\_\_\_\_\_\_\_\_\_<br><br><br>**VERSPREIDING**<br>En ten slotte; hoeveel exemplaren laat je drukken om te verspreiden?&nbsp;<br>Het is verleidelijk om een paar honderd exemplaren extra te laten drukken, omdat dat goedkoper is dan later bijdrukken, maar dit betekent vaak ook meer afval. En ga je het communicatiemiddel sealen? En elektrisch bezorgen?
 
-**VERSPREIDING**<br>En ten slotte; hoeveel exemplaren laat je drukken om te verspreiden?&nbsp;<br>Het is verleidelijk om een paar honderd exemplaren extra te laten drukken, omdat dat goedkoper is dan later bijdrukken, maar dit betekent vaak ook meer afval. En ga je het communicatiemiddel sealen? En elektrisch bezorgen?
+\_\_\_\_\_\_\_\_\_\_<br>**Creëer****&nbsp;jij communicatie voor groene organisaties en heb je interesse in het fysieke sample-boekje m&egrave;t daarin 6 papiersamples die verantwoord zijn? **
 
-**Creëer****&nbsp;jij communicatie voor groene organisaties en heb je interesse in het fysieke sample-boekje m&egrave;t daarin 6 papiersamples die verantwoord zijn? Stuur mij dan een [e-mail](mailto:carli@frisseplannen.nl?subject=Ik%20wil%20wel%20zo'n%20sample-boekje%20ontvangen)&nbsp;of bel mij op 06 47 218 000.<br>Frisse groet, Carli**
+**Stuur mij dan een [e-mail](mailto:carli@frisseplannen.nl?subject=Ik%20wil%20wel%20zo'n%20sample-boekje%20ontvangen)&nbsp;of bel mij op 06 47 218 000.**<br>&nbsp;
+
+**Frisse groet, Carli**
+
+&nbsp;
 
 &nbsp;
 
