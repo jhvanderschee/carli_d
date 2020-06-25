@@ -55,7 +55,7 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 <br>**Creëer jij communicatie voor groene organisaties en heb je interesse in het fysieke sample-boekje m&egrave;t daarin 6 papiersamples die verantwoord zijn?&nbsp;**
 
-**Stuur mij dan een [e-mail](mailto:carli@frisseplannen.nl?subject=Ik%20wil%20wel%20zo'n%20sample-boekje%20ontvangen)&nbsp;of bel mij op 06 47 218 000.**<br>&nbsp;
+**Stuur mij dan een [e-mail](mailto:carli@frisseplannen.nl?subject=Ik%20wil%20wel%20zo'n%20sample-boekje%20ontvangen)&nbsp;of bel 06 47 218 000.**<br>&nbsp;
 
 **Frisse groet, Carli**
 
