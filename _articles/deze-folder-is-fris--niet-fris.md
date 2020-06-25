@@ -9,7 +9,7 @@ request_title: >-
   Wil je toffe inzichten die overtuigen, omdat je bezig bent groene content te
   creëren?
 request_cta: Gratis download
-tag: valkuilen
+tag: papier
 order: 1
 ---
 
