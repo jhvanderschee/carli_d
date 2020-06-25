@@ -1,6 +1,6 @@
 ---
 title: Deze folder is fris / niet fris
-description: Een **frisse** of **niet frisse** folder
+description: Een **fris** of **niet fris** communicatiemiddel
 image: /uploads/fris-of-niet-fris-4.JPG
 public: true
 has_request: true
