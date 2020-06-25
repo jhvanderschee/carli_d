@@ -25,7 +25,9 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *ANDERE INGREDIËNTEN*<br>Van suikerriet, bamboo, hennep of gras kan er ook papier worden gemaakt. Per ingrediënt bekijken we of dit milieuvriendelijk is.
 
-\_\_\_\_\_\_\_\_\_\_<br>**PRODUCTIE VAN PAPIER<br>Van bomen maak je cellulose/pulp, waarmee papier wordt gemaakt. Dit kan op dezelfde locatie zijn (geïntegreerde locatie) of de pulp wordt ingekocht door een papierfabrikant. De aangeleverde cellulose wordt meestal gebleekt (de papierfabrikant geeft aan hoe lang en dus hoe wit zij dat willen).**
+\_\_\_\_\_\_\_\_\_\_<br>![](/uploads/productie-van-papier.JPG){: width="458" height="503"}
+
+**PRODUCTIE VAN PAPIER<br>Van bomen maak je cellulose/pulp, waarmee papier wordt gemaakt. Dit kan op dezelfde locatie zijn (geïntegreerde locatie) of de pulp wordt ingekocht door een papierfabrikant. De aangeleverde cellulose wordt meestal gebleekt (de papierfabrikant geeft aan hoe lang en dus hoe wit zij dat willen).**
 
 *OPTISCHE WITMAKERS*<br>Vaak worden er optische witmakers (fluorescerende chemische stof) toegevoegd aan het papier om het witter te laten lijken. Hoe witter het papier, hoe groter de kans dat er optische witmakers inzitten. En hoe witter, hoe meer optische witmakers.&nbsp;
 
@@ -35,7 +37,7 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *RESTMATERIAAL*<br>Wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?
 
-\_\_\_\_\_\_\_\_\_\_<br>&nbsp;
+\_\_\_\_\_\_\_\_\_\_<br>![](/uploads/drukproces.JPG){: width="484" height="505"}
 
 **DRUKPROCES<br>Frisse Plannen werkt samen met groene drukkers die zonder chemische middelen werken.**
 
@@ -47,7 +49,7 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *SYNTHETISCHE ELEMENTEN*<br>Is er gebruik gemaakt van synthetische elementen in het drukwerk (zoals de drager bij foliedruk of laminaat)?
 
-*ENERGIEVERBRUIK EN RESTMATERIAAL*<br>Wordt de gebruikte energie voor het drukken duurzaam opgewekt? (Ingekochte certificaten tellen we niet mee) En wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?<br><br>\_\_\_\_\_\_\_\_\_\_<br><br><br>**VERSPREIDING**<br>En ten slotte; hoeveel exemplaren laat je drukken om te verspreiden?&nbsp;<br>Het is verleidelijk om een paar honderd exemplaren extra te laten drukken, omdat dat goedkoper is dan later bijdrukken, maar dit betekent vaak ook meer afval. En ga je het communicatiemiddel sealen? En elektrisch bezorgen?
+*ENERGIEVERBRUIK EN RESTMATERIAAL*<br>Wordt de gebruikte energie voor het drukken duurzaam opgewekt? (Ingekochte certificaten tellen we niet mee) En wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?<br><br>\_\_\_\_\_\_\_\_\_\_<br>![](/uploads/verspreiding.JPG){: width="363" height="373"}<br><br>**VERSPREIDING**<br>En ten slotte; hoeveel exemplaren laat je drukken om te verspreiden?&nbsp;<br>Het is verleidelijk om een paar honderd exemplaren extra te laten drukken, omdat dat goedkoper is dan later bijdrukken, maar dit betekent vaak ook meer afval. En ga je het communicatiemiddel sealen? En elektrisch bezorgen?
 
 \_\_\_\_\_\_\_\_\_\_<br>**Creëer****&nbsp;jij communicatie voor groene organisaties en heb je interesse in het fysieke sample-boekje m&egrave;t daarin 6 papiersamples die verantwoord zijn? **
 
