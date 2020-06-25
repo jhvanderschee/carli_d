@@ -45,7 +45,9 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *SYNTHETISCHE ELEMENTEN*<br>Is er gebruik gemaakt van synthetische elementen in het drukwerk (zoals de drager bij foliedruk of laminaat)?
 
-*ENERGIEVERBRUIK EN RESTMATERIAAL*<br>Wordt de gebruikte energie voor het drukken duurzaam opgewekt? (Ingekochte certificaten tellen we niet mee) En wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?<br>\_\_\_\_\_\_\_\_\_\_
+*ENERGIEVERBRUIK EN RESTMATERIAAL*<br>Wordt de gebruikte energie voor het drukken duurzaam opgewekt? (Ingekochte certificaten tellen we niet mee) En wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?<br><br>\_\_\_\_\_\_\_\_\_\_<br>&nbsp;
+
+**VERSPREIDING**<br>En ten slotte; hoeveel exemplaren laat je drukken om te verspreiden?&nbsp;<br>Het is verleidelijk om een paar honderd exemplaren extra te laten drukken, omdat dat goedkoper is dan later bijdrukken, maar dit betekent vaak ook meer afval. En ga je het communicatiemiddel sealen? En elektrisch bezorgen?
 
 **Creëer****&nbsp;jij communicatie voor groene organisaties en heb je interesse in het fysieke sample-boekje m&egrave;t daarin 6 papiersamples die verantwoord zijn? Stuur mij dan een [e-mail](mailto:carli@frisseplannen.nl?subject=Ik%20wil%20wel%20zo'n%20sample-boekje%20ontvangen)&nbsp;of bel mij op 06 47 218 000.<br>Frisse groet, Carli**
 
