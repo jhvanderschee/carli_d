@@ -17,15 +17,15 @@ Frisse Plannen heeft het thema ‘duurzaam drukwerk’ uitgediept en presenteert
 
 ![](/uploads/folder.jpg){: width="520" height="320"}![](/uploads/folder.jpg){: width="520" height="320"}
 
-Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aandachtspunten: de **grondstoffen** en de **productie van het papier**, **het drukproces** en het **verspreiden**.
+Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aandachtspunten: de **grondstoffen** en de **productie van het papier**, het **drukproces** en het **verspreiden**.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>**GRONDSTOFFEN**<br>*FSC/PEFC-pulp&nbsp;*<br>FSC/PEFC is een verstandige keuze, want het komt uit bossen die duurzaam worden beheerd. Bossen die er niet zouden staan als er geen vraag was naar papier. Bij het kappen van een boom worden er minstens twee nieuwe geplaatst. We letten er ook op waar deze bossen staan en hoeveel kilometers de bomen/pulp hebben afgelegd om naar Nederland te komen. Bij het FSC-keurmerk wordt er ook gekeken naar de arbeidsomstandigheden, wat bij PEFC niet het geval is.&nbsp;
+\_\_\_\_\_\_\_\_\_\_<br>**GRONDSTOFFEN**<br><br>*FSC/PEFC-pulp&nbsp;*<br>FSC/PEFC is een verstandige keuze, want het komt uit bossen die duurzaam worden beheerd. Bossen die er niet zouden staan als er geen vraag was naar papier. Bij het kappen van een boom worden er minstens twee nieuwe geplaatst. We letten er ook op waar deze bossen staan en hoeveel kilometers de bomen/pulp hebben afgelegd om naar Nederland te komen. Bij het FSC-keurmerk wordt er ook gekeken naar de arbeidsomstandigheden, wat bij PEFC niet het geval is.&nbsp;
 
 *GERECYCLED (FSC)*<br>Met gerecycled papier weet je eigenlijk niet waar het vandaan komt, want het is een ingezamelde mix. Deze mix wordt m.b.v. veel water en chemie ontdaan van inkt, nietjes en plastic. Tevens zijn er altijd nieuwe vezels nodig. Vezels kunnen tot 7 keer worden hergebruikt voordat ze te beschadigd zijn. De milieuimpact is bijna gelijk aan nieuw papier, alleen als we geen papier hergebruiken wordt de afval-<br>stapel groter. Er bestaat ook FSC-gerecycled; dit garandeert niet perse dat de mix geheel FSC is, maar wel dat er naar de FSC-eisen is gehandeld (denk aan verantwoord omgaan met omgeving, personeel, etc). Recyclen gebeurt veelal in het buitenland.&nbsp;
 
 *ANDERE INGREDIËNTEN*<br>Van suikerriet, bamboo, hennep of gras kan er ook papier worden gemaakt. Per ingrediënt bekijken we of dit milieuvriendelijk is.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>**PRODUCTIE VAN PAPIER<br>Van bomen maak je cellulose/pulp, waarmee<br>papier wordt gemaakt. Dit kan op dezelfde locatie zijn (geïntegreerde locatie) of de pulp wordt ingekocht door een papierfabrikant. De aangeleverde cellulose wordt meestal gebleekt (de papierfabrikant geeft aan hoe lang en dus hoe wit zij dat willen).**
+\_\_\_\_\_\_\_\_\_\_<br>**PRODUCTIE VAN PAPIER<br>Van bomen maak je cellulose/pulp, waarmee papier wordt gemaakt. Dit kan op dezelfde locatie zijn (geïntegreerde locatie) of de pulp wordt ingekocht door een papierfabrikant. De aangeleverde cellulose wordt meestal gebleekt (de papierfabrikant geeft aan hoe lang en dus hoe wit zij dat willen).**
 
 *OPTISCHE WITMAKERS*<br>Vaak worden er optische witmakers (fluorescerende chemische stof) toegevoegd aan het papier om het witter te laten lijken. Hoe witter het papier, hoe groter de kans dat er optische witmakers inzitten. En hoe witter, hoe meer optische witmakers.&nbsp;
 
@@ -35,7 +35,7 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *RESTMATERIAAL*<br>Wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>**DRUKPROCES<br>Frisse Plannen werkt samen met groene drukkers die zonder chemische middelen werken.**
+\_\_\_\_\_\_\_\_\_\_<br>**DRUKPROCES<br>Frisse Plannen werkt samen met groene drukkers die zonder chemische middelen werken.**
 
 *IPA*<br>IPA is een oplosmiddel dat door het grootste gedeelte van&nbsp;<br>de Nederlandse grafische industrie wordt gebruikt. IPA is&nbsp;<br>door de toxische werking slecht voor mens en milieu.&nbsp;
 
@@ -45,9 +45,9 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *SYNTHETISCHE ELEMENTEN*<br>Is er gebruik gemaakt van synthetische elementen in het drukwerk (zoals de drager bij foliedruk of laminaat)?
 
-*ENERGIEVERBRUIK EN RESTMATERIAAL*<br>Wordt de gebruikte energie voor het drukken duurzaam opgewekt? (Ingekochte certificaten tellen we niet mee) En wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?<br>&nbsp;
+*ENERGIEVERBRUIK EN RESTMATERIAAL*<br>Wordt de gebruikte energie voor het drukken duurzaam opgewekt? (Ingekochte certificaten tellen we niet mee) En wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?<br>\_\_\_\_\_\_\_\_\_\_
 
-**Maak jij communicatie voor groene organisaties en heb je interesse in het fysieke sample-boekje m&egrave;t daarin 6 papiersamples die verantwoord zijn? Stuur mij dan een [e-mail](mailto:carli@frisseplannen.nl?subject=Ik%20wil%20wel%20zo'n%20sample-boekje%20ontvangen).**
+**Creëer****&nbsp;jij communicatie voor groene organisaties en heb je interesse in het fysieke sample-boekje m&egrave;t daarin 6 papiersamples die verantwoord zijn? Stuur mij dan een [e-mail](mailto:carli@frisseplannen.nl?subject=Ik%20wil%20wel%20zo'n%20sample-boekje%20ontvangen).**
 
 &nbsp;
 
