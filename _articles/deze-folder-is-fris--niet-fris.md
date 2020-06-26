@@ -3,7 +3,7 @@ title: Deze folder is fris / niet fris
 description: Een **fris** of **niet fris** communicatiemiddel
 image: /uploads/fris-of-niet-fris-4.JPG
 public: true
-has_request: true
+has_request: false
 request_image: /uploads/Mock-up-website_klein.png
 request_title: >-
   Wil je toffe inzichten die overtuigen, omdat je bezig bent groene content te
