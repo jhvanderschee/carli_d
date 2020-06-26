@@ -51,7 +51,7 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *SYNTHETISCHE ELEMENTEN*<br>Is er gebruik gemaakt van synthetische elementen in het drukwerk (zoals de drager bij foliedruk of laminaat)?
 
-*ENERGIEVERBRUIK EN RESTMATERIAAL*<br>Wordt de gebruikte energie voor het drukken duurzaam opgewekt? (Ingekochte certificaten tellen we niet mee) En wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?<br><br>\_\_\_\_\_\_\_\_\_\_<br>![](/uploads/verspreiding.JPG){: width="363" height="373"}<br><br>**VERSPREIDING**<br>En ten slotte; hoeveel exemplaren laat je drukken om te verspreiden?&nbsp;<br>Het is verleidelijk om een paar honderd exemplaren extra te laten drukken, omdat dat goedkoper is dan later bijdrukken, maar dit betekent vaak ook meer afval. En ga je het communicatiemiddel sealen? En elektrisch bezorgen?
+*ENERGIEVERBRUIK EN RESTMATERIAAL*<br>Wordt de gebruikte energie voor het drukken duurzaam opgewekt? (Ingekochte certificaten tellen we niet mee) En wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?<br><br>\_\_\_\_\_\_\_\_\_\_<br>![](/uploads/verspreiding.JPG){: width="363" height="373"}<br><br>**VERSPREIDING**<br>En ten slotte; hoeveel exemplaren laat je drukken om te verspreiden? Het is verleidelijk om een paar honderd exemplaren extra te laten drukken, omdat dat goedkoper is dan later bijdrukken, maar dit betekent vaak ook meer afval. En ga je het communicatiemiddel sealen? En elektrisch bezorgen?
 
 \_\_\_\_\_\_\_\_\_\_
 
