@@ -5,10 +5,7 @@
     <a href="{{ page.url }}" class="bloglink"><span style="background: white url({{ page.image }}) center center / contain no-repeat;"></span>{{ page.description | markdownify }}</a>
     <div class="small blogcontent">
         {{ page.content }}
-        
-         <br />
-    <a href="/#home" class="button"><< Terug naar home</a>
-</div>
+    
 
         {% if page.has_request %}
         <div class="blogrequest green">
