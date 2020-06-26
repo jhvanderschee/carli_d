@@ -29,7 +29,7 @@
             Drukken op 100% gerecycled papier of kiezen voor
         online content, is vaak helemaal niet zo milieuvriendelijk als jij denkt. 
         Dat kan veel beter! En wij weten hoe.<br /> 
-                    <a href="/blogs/artikel-groene-communicatiemiddelen">Lees waarom groen vaak groen lijkt, maar het niet is >></a>
+                    <a href="/blogs/deze-folder-is-fris-niet-fris/">Lees hier meer over >></a>
                     <br /><br />&nbsp;</p>
             </div> 
         </div> 
@@ -84,7 +84,7 @@
     
     <div class="itemholder twoup">
             {% assign siteprojects = site.projects | sort:'order' %}
-            {% for item in siteprojects limit:4 %}
+            {% for item in siteprojects limit:6 %}
             <div class="item" style="position: relative;">
                 <div style="position: absolute; margin-top: 10px; padding-right: 5px; cursor: pointer;" onclick="document.location.href='{{ item.url }}';" class="lightgreen">
                     <div class="subtitle">{{ item.subtitle }}</div>
@@ -101,6 +101,8 @@
 </div>
 
 <div id="communicatiemiddelen" class="section">
+     <strong>Communicatiemiddelen.</strong><br />
+    Afhankelijk van het doel en de doelgroep kiezen we voor het juiste middel.<br />
  <a href="communicatiemiddelen" class="button">Soorten communicatiemiddelen >></a><br />
 </div>
 
@@ -150,9 +152,9 @@
 
 <div id="blogs" class="section">
         <strong>ARTIKELEN.</strong>
-        {% assign sitearticles = site.articles | where: 'public','true' | sort:'order' %}{% for item in sitearticles limit:3 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
+        {% assign sitearticles = site.articles | where: 'public','true' | sort:'order' %}{% for item in sitearticles limit:4 %}<a href="{{ item.url }}" class="bloglink"><span style="background: white url({{ item.image }}) center center / contain no-repeat;"></span>{{ item.description | markdownify }}</a>{% endfor %}
         <br />
-        <a href="blogs" class="button">Zie meer artikelen >></a>
+        <a href="blogs" class="button">Zie alle artikelen >></a>
 </div>
 
 
@@ -169,7 +171,7 @@
             dat niet goed (meer) werkt. Zo sta ik zelf ook in het leven.</p>
 
         <p class="small">De vaak complexe en technische materie vertalen naar 
-        een helder en overtuigend verhaal, maakt dat ik mijn werk erg uitdagend vind.</p>
+        een helder en overtuigend grafisch ontwerp, maakt dat ik mijn werk erg uitdagend vind.</p>
     
     </div>
 </div>
