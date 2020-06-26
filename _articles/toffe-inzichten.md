@@ -1,6 +1,6 @@
 ---
 title: Gratis weggever
-description: "**-GRATIS WEGGEVER-** Toffe inzichten om groen gedrag te stimuleren"
+description: '**-GRATIS WEGGEVER-** Toffe inzichten om groen gedrag te stimuleren'
 image: /uploads/Mock-up-website_klein.png
 public: true
 has_request: true
@@ -8,10 +8,10 @@ request_image: /uploads/Mock-up-website_klein.png
 request_title: Download alle toffe inzichten
 request_cta: Gratis download
 tag: motiveren
-order: 1
+order: 4
 ---
 
-**Ben je bezig overtuigende content te cre&euml;ren voor een groene organisatie of je eigen groene ambitie? Laat je dan eens inspireren door de toffe inzichten die ik met de tijd heb verzameld. Ik heb ze gebundeld, omdat ik ze niet wil vergeten. Hopelijk heb jij er ook iets aan\!**
+**Ben je bezig overtuigende content te creëren voor een groene organisatie of je eigen groene ambitie? Laat je dan eens inspireren door de toffe inzichten die ik met de tijd heb verzameld. Ik heb ze gebundeld, omdat ik ze niet wil vergeten. Hopelijk heb jij er ook iets aan\!**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
