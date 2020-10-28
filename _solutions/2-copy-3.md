@@ -1,5 +1,5 @@
 ---
-title: Beter te onthouden.
+title: Praatplaat.
 text_left: 0
 text_right: 140
 image: /img/oplossing-21.png
@@ -8,4 +8,4 @@ bgcolor: white
 order: 3
 ---
 
-Zo’n 80% van wat we zien kunnen we onthouden (20% bij lezen).
+Een praatplaat legt de basis voor constructieve discussies.
