@@ -1,8 +1,8 @@
 ---
 title: Poster.
 text_left: 0
-text_right: 170
-image: /img/middelen_poster.svg
+text_right: 140
+image:
 image_position: right bottom / auto 180px
 bgcolor: lightgray
 order: 1
