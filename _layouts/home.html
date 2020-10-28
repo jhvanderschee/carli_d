@@ -2,8 +2,8 @@
 
 <div class="section" style="padding-top: 150px;">
     <div style="position: relative; z-index: 2;">
-        <strong>Jij creëert groene<br /> communicatie voor een <br />organisatie
-            of initiatief</strong><br /><br />
+        <strong>Grafisch ontwerp <br />
+            voor groene initiatieven</strong><br /><br />
     </div>
     
         <div class="img smaller" style="text-align: center; color: #E94927; right: 20px; width: 50px; bottom: 90px; cursor: pointer; z-index: 2;" 
@@ -15,72 +15,12 @@
 
 <div class="section green">
     <p>
-        <em class="highlight">Dan wil je ook groen geproduceerde communicatie<strong>middelen</strong>.</em>
-        <br /><br /> 
-        <em class="highlight">En een fris ontwerp dat jouw gecreëerde inhoud kracht bijzet.</em>
+        <em class="highlight">Helder vormgegeven</em>
+        <br />
+        <em class="highlight">en groen geproduceerd</em>
     </p>
 </div>
 
-<div class="lightgreen section">
-    <div class="itemholder twoup">
-        <div class="item">
-            <p><strong>GROENE COMMUNICATIEMIDDELEN.</strong></p>
-            <div class="imagesleft">
-                <div class="img">
-                    <img src="/img/groenemiddelen.png" />
-                </div>
-                <p class="small">
-            Drukken op 100% gerecycled papier of kiezen voor
-        online content, is vaak helemaal niet zo milieuvriendelijk als jij denkt. 
-        Dat kan veel beter! En wij weten hoe.<br /> 
-                    <a href="/blogs/deze-folder-is-fris-niet-fris/">Lees hier meer over >></a>
-                    <br /><br />&nbsp;</p>
-            </div> 
-        </div> 
-
-        <div class="item">
-            <p><strong>FRIS EN KRACHTIG ONTWERP.</strong></p>
-            <div class="imagesleft">
-                <div class="img">
-                    <img src="/img/helderemiddelen.png" />
-                </div>
-                <p class="small">
-                Communicatie over duurzaamheid is vaak complex, omdat het over innovatieve 
-        technieken en abstracte zaken als 'warmte', 'energietransitie' of 'gas' gaat. <br /><br />
-                Een goed grafisch ontwerp verheldert de boodschap en brengt mensen in beweging.
-                </p>
-            </div> 
-        </div> 
-    </div>
-</div>
-
-<div class="section carousel">
-    <div class="navigation">
-        <div>
-            <strong>AANPAK.</strong><br />
-            <p class="small">Na een frisse blik op de inhoud is een goed </br> grafisch ontwerp van belang, want...</p>
-        </div>
-        <div>{% for item in site.solutions %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
-    </div>
-    <div class="slides_container" style="width: {{ site.solutions | size | times: 400 }}px">
-        {% for item in site.solutions %}
-            <div class="slide {{ item.bgcolor }}" style="background: white url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 200px; height: 280px;">
-                <div style="padding-left: {{ item.text_left }}px; padding-right: {{ item.text_right }}px;">
-                    <strong>{{ item.title }}</strong><br />
-                    {{ item.content }}
-                </div>
-            </div>
-        {% endfor %}
-    </div>
-</div>
-
-
-<div class="section green">
-    <p>RESULTAAT.<br />
-    De communicatiemiddelen worden helder
-    en overtuigend, en sluiten aan op de
-    beperkte tijd die de doelgroep heeft/neemt. </p>
-</div>
 
 <div id="portfolio" class="section lightgreen">
     <strong>PORTFOLIO.</strong><br />
@@ -102,6 +42,26 @@
     <br />
     <a href="/portfolio" class="button">Zie meer ontwerpen >></a>
     
+</div>
+
+<div class="section carousel">
+    <div class="navigation">
+        <div>
+            <strong>AANPAK.</strong><br />
+            <p class="small">Na een frisse blik op de inhoud is een goed </br> grafisch ontwerp van belang, want...</p>
+        </div>
+        <div>{% for item in site.solutions %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
+    </div>
+    <div class="slides_container" style="width: {{ site.solutions | size | times: 400 }}px">
+        {% for item in site.solutions %}
+            <div class="slide {{ item.bgcolor }}" style="background: white url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 200px; height: 280px;">
+                <div style="padding-left: {{ item.text_left }}px; padding-right: {{ item.text_right }}px;">
+                    <strong>{{ item.title }}</strong><br />
+                    {{ item.content }}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
 </div>
 
 <div id="communicatiemiddelen" class="section">
