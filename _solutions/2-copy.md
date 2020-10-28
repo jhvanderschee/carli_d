@@ -4,7 +4,7 @@ text_left: 0
 text_right: 140
 image:
 image_position: left bottom / auto 350px
-bgcolor: lightgray
+bgcolor: white
 order: 4
 ---
 
