@@ -1,9 +1,9 @@
 ---
 title: Website of webshop.
-text_left: 0
-text_right: 140
-image:
-image_position: left bottom / auto 350px
+text_left: 90
+text_right:
+image: /img/Icon_website-34.png
+image_position: left bottom / auto 300px
 bgcolor: white
 order: 4
 ---
