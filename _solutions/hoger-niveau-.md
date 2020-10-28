@@ -1,7 +1,7 @@
 ---
 title: Poster.
-text_left: 0
-text_right: 140
+text_left: 90
+text_right:
 image: /img/Icon_poster-36.png
 image_position: left bottom / auto 210px
 bgcolor: white
