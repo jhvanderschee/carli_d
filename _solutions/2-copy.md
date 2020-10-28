@@ -1,5 +1,5 @@
 ---
-title: Motiverender.
+title: Website of webshop.
 text_left: 100
 text_right: 0
 image: /img/oplossing-23.png
@@ -8,4 +8,4 @@ bgcolor: lightgray
 order: 4
 ---
 
-Een beeld roept sneller emoties op en brengt mensen in beweging.
+Een website is dé ideale plek om veel informatie op te delen en up-to-date content te plaatsen.
