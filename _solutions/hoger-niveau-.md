@@ -3,7 +3,7 @@ title: Poster.
 text_left: 0
 text_right: 140
 image:
-image_position: right bottom / auto 180px
+image_position: right bottom / auto 210px
 bgcolor: white
 order: 1
 ---
