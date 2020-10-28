@@ -2,12 +2,11 @@
 
 <div class="section" style="padding-top: 150px;">
     <div style="position: relative; z-index: 2;">
-        <strong>Wij maken <br />grafische ontwerpen <br />
+        <strong>Grafisch ontwerp <br />
             voor groene initiatieven</strong><br /><br />
     </div>
     
-        <div class="img smaller" style="text-align: center; color: #E94927; right: 20px; width: 50px; bottom: 90px; cursor: pointer; z-index: 2;" 
-             onclick="window.open('tel:0031647218000');"><img src="/img/phone.svg" /></div>
+  
 
         
     <div class="img" style="right: 10px; width: 130px; bottom: 115px; z-index: 1;"><img src="/img/world.jpg" /></div>
@@ -24,7 +23,7 @@
 
 
 <div id="portfolio" class="section lightgreen">
-    <strong>PORTFOLIO.</strong><br />
+    <strong>PORTFOLIO.</strong>
     <div class="itemholder twoup">
             {% assign siteprojects = site.projects | sort:'order' %}
             {% for item in siteprojects limit:6 %}
@@ -46,8 +45,8 @@
 <div class="section carousel">
     <div class="navigation">
         <div>
-            <strong>AANPAK.</strong><br />
-            <p class="small">Na een frisse blik op de inhoud is een goed </br> grafisch ontwerp van belang, want...</p>
+            <strong>MIDDELEN.</strong><br />
+            <p class="small">Afhankelijk van het doel en de doelgroep kiezen we voor het juiste middel.</p>
         </div>
         <div>{% for item in site.solutions %}<div class="dot {% if forloop.first %}active{% endif %}" onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
     </div>
