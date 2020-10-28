@@ -1,11 +1,11 @@
 ---
-title: Hoger niveau.
+title: Poster.
 text_left: 0
 text_right: 170
-image: /uploads/berg.png
+image: /img/middelen_poster.svg
 image_position: right bottom / auto 180px
 bgcolor: lightgray
 order: 1
 ---
 
-Het juiste beeld kan de inhoud naar een hoger niveau tillen.
+Een poster zorgt voor dagelijkse aandacht en is gemakkelijk te verspreiden.
