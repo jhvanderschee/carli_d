@@ -27,4 +27,4 @@ De combinatie van zachte kleuren en vette letters passen bij wie Karlijn is; vro
 
 Frisse Plannen heeft tevens de website ontworpen en gerealiseerd. [Neem een kijkje op de website &gt;&gt;](https://www.lighthouseprojects.nl){: target="_blank" rel="noopener"}
 
-GROENE PRODUCTIE<br>De visitekaartjes zijn in een kleine oplage gedrukt op Viber. Dit is papier gemaakt van olifantsgras (20%) dat groeit in Nederland en van FSC bomen (80%) die groeien op de Ardennen. Deze bomen groeien speciaal voor de papierproductie en zouden daar dus niet staan als er geen vraag was naar papier. [Lees meer over groene productie &gt;&gt;](/blogs/artikel-groene-communicatiemiddelen/)&nbsp;&nbsp;
+GROENE PRODUCTIE<br>De visitekaartjes zijn in een kleine oplage gedrukt op Viber-papier. Dit is papier gemaakt van olifantsgras (20%) dat groeit in Nederland en van FSC bomen (80%) die groeien op de Ardennen. Deze bomen groeien speciaal voor de papierproductie en zouden daar dus niet staan als er geen vraag was naar papier. [Lees meer over groene productie &gt;&gt;](/blogs/deze-folder-is-fris-niet-fris/)&nbsp;&nbsp;
