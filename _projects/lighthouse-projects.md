@@ -4,6 +4,7 @@ subtitle: Identiteit
 image: /uploads/LP_Logo_bewegend.gif
 images:
   - image: /img/visitekaartje.jpg
+  - image: /uploads/Website.JPG
 description: >-
   Lighthouse Projects, opgericht door Karlijn Buis, helpt bedrijven en
   organisaties om plannen en ideeën die bijdragen aan de energietransitie of
