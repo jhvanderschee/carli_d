@@ -1,7 +1,7 @@
 ---
 title: Lighthouse Projects
 subtitle: Identiteit
-image:
+image: /uploads/LP_Logo_bewegend.gif
 images:
   - image: /img/E-vervoer03.jpg
 description: >-
@@ -10,14 +10,15 @@ description: >-
   verduurzaming te realiseren. Dit doet zij door hiervoor een heldere strategie
   en plan van aanpak te ontwikkelen, waardoor concrete vervolgstappen gezet
   kunnen worden.
-client_title: Opdrachtgever
+client_title:
 client:
-client_image: /img/Logo_Gemeente-10.png
+client_image:
 bgcolor: lightgray
 tags:
-  - motiveren
   - identiteit
-order: 13
+  - groene-communicatiemiddelen
+  - motiveren
+order: 3
 ---
 
 Ze had hiervoor een herkenbare identiteit nodig en schakelde daar Frisse Plannen voor in. Omdat Lighthouse Projects zorgt voor orde in de chaos is het logo opgebouwd uit een geordend stramien met letters die allemaal dezelfde afmeting hebben. De rode pijl staat voor beweging; een project vooruit krijgen/versnellen.&nbsp;
