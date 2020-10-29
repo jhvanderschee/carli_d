@@ -1,7 +1,7 @@
 ---
 title: Lighthouse Projects
 subtitle: Identiteit
-image: /uploads/LP_Logo_bewegend.gif
+image: /uploads/visitekaartje.jpg
 images:
   - image: /img/E-vervoer03.jpg
 description: >-
