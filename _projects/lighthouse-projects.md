@@ -18,7 +18,7 @@ tags:
   - identiteit
   - groene-communicatiemiddelen
   - motiveren
-order: 3
+order: 5
 ---
 
 Ze had hiervoor een herkenbare identiteit nodig en schakelde daar Frisse Plannen voor in. Omdat Lighthouse Projects zorgt voor orde in de chaos is het logo opgebouwd uit een geordend stramien met letters die allemaal dezelfde afmeting hebben. De rode pijl staat voor beweging; een project vooruit krijgen/versnellen.&nbsp;
