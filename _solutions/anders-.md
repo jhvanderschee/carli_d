@@ -1,5 +1,5 @@
 ---
-title: Anders.
+title: Poster.
 text_left: 90
 text_right:
 image: /img/Icon_poster-36.png
