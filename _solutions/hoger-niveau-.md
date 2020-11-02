@@ -1,5 +1,5 @@
 ---
-title: Poster.
+title: Anders.
 text_left: 90
 text_right:
 image: /img/Icon_poster-36.png
@@ -8,4 +8,4 @@ bgcolor: white
 order: 6
 ---
 
-Een poster zorgt voor dagelijkse aandacht en is gemakkelijk te verspreiden.
+Andere communicatiemiddelen zijn natuurlijk ook mogelijk. Neem contact op voor de mogelijkheden.
