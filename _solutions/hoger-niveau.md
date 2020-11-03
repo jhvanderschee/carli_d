@@ -2,7 +2,7 @@
 title: Anders.
 text_left: 90
 text_right:
-image:
+image: /img/Icon_identiteit-31.png
 image_position: left bottom / auto 210px
 bgcolor: white
 order: 7
