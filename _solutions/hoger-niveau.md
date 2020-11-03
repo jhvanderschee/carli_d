@@ -8,4 +8,4 @@ bgcolor: white
 order: 7
 ---
 
-Andere middelen zijn natuurlijk ook mogelijk. Neem contact op voor de mogelijkheden.
+Andere middelen zijn natuur&nbsp; lijk ook mogelijk. Neem contact op voor de mogelijkheden.
