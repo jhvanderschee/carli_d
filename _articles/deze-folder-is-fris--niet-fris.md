@@ -39,9 +39,23 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *RESTMATERIAAL*<br>Wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?
 
-\_\_\_\_\_\_\_\_\_\_<br>![](/uploads/drukproces.JPG){: width="484" height="505"}
+\_\_\_\_\_\_\_\_\_\_<br>![](/img/Folder.jpg){: width="208" height="229"}
 
 **DRUKPROCES<br>Frisse Plannen werkt samen met groene drukkers die zonder chemische middelen werken.**
+
+&nbsp;
+
+*ECOPRINTED KEURMERK*<br>Het EcoPrinted&reg; beeldmerk staat garant voor drukwerk dat gebaseerd is op negen duurzaamheidscriteria. Deze criteria tezamen, staan garant voor het naleven van de hoogst mogelijke milieueisen in de grafische industrie op dit moment.
+
+1. IPA-vrije offset producties
+2. Gebruik van BIO inkten
+3. Chemieloze CTP
+4. Elektrisch of collectief transport
+5. Gebruik van FSC gecertificeerde papiersoorten
+6. CO2 neutraal certificering
+7. ISO 14001 certificering
+8. Duurzaam inkopen certificering
+9. Groene stroom certificering
 
 *IPA*<br>IPA is een oplosmiddel dat door het grootste gedeelte van&nbsp;<br>de Nederlandse grafische industrie wordt gebruikt. IPA is&nbsp;<br>door de toxische werking slecht voor mens en milieu.&nbsp;
 
@@ -51,7 +65,9 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *SYNTHETISCHE ELEMENTEN*<br>Is er gebruik gemaakt van synthetische elementen in het drukwerk (zoals de drager bij foliedruk of laminaat)?
 
-*ENERGIEVERBRUIK EN RESTMATERIAAL*<br>Wordt de gebruikte energie voor het drukken duurzaam opgewekt? (Ingekochte certificaten tellen we niet mee) En wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?<br><br>\_\_\_\_\_\_\_\_\_\_<br>![](/uploads/verspreiding.JPG){: width="363" height="373"}<br><br>**VERSPREIDING**<br>En ten slotte; hoeveel exemplaren laat je drukken om te verspreiden? Het is verleidelijk om een paar honderd exemplaren extra te laten drukken, omdat dat goedkoper is dan later bijdrukken, maar dit betekent vaak ook meer afval. En ga je het communicatiemiddel sealen? En elektrisch bezorgen?
+*ENERGIEVERBRUIK EN RESTMATERIAAL*<br>Wordt de gebruikte energie voor het drukken duurzaam opgewekt? (Ingekochte certificaten tellen we niet mee) En wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?
+
+<br>\_\_\_\_\_\_\_\_\_\_<br>![](/uploads/verspreiding.JPG){: width="363" height="373"}<br><br>**VERSPREIDING**<br>En ten slotte; hoeveel exemplaren laat je drukken om te verspreiden? Het is verleidelijk om een paar honderd exemplaren extra te laten drukken, omdat dat goedkoper is dan later bijdrukken, maar dit betekent vaak ook meer afval. En ga je het communicatiemiddel sealen? En elektrisch bezorgen?
 
 \_\_\_\_\_\_\_\_\_\_
 
