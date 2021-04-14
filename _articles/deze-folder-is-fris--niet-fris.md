@@ -39,13 +39,9 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *RESTMATERIAAL*<br>Wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?
 
-\_\_\_\_\_\_\_\_\_\_<br>![](/img/Folder.jpg){: width="208" height="229"}
+\_\_\_\_\_\_\_\_\_\_<br><br>![](/img/Folder.jpg){: width="208" height="229"}
 
-**DRUKPROCES<br>Frisse Plannen werkt samen met groene drukkers die zonder chemische middelen werken.**
-
-&nbsp;
-
-*ECOPRINTED KEURMERK*<br>Het EcoPrinted&reg; beeldmerk staat garant voor drukwerk dat gebaseerd is op negen duurzaamheidscriteria. Deze criteria tezamen, staan garant voor het naleven van de hoogst mogelijke milieueisen in de grafische industrie op dit moment.
+**DRUKPROCES<br>Frisse Plannen werkt samen met groene drukkers die zonder chemische middelen werken.**<br><br>*KEURMERK*<br>Het EcoPrinted&reg; beeldmerk staat garant voor drukwerk dat gebaseerd is op negen duurzaamheidscriteria. Deze criteria tezamen, staan garant voor het naleven van de hoogst mogelijke milieueisen in de grafische industrie op dit moment.
 
 1. IPA-vrije offset producties
 2. Gebruik van BIO inkten
@@ -57,7 +53,7 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 8. Duurzaam inkopen certificering
 9. Groene stroom certificering
 
-*IPA*<br>IPA is een oplosmiddel dat door het grootste gedeelte van&nbsp;<br>de Nederlandse grafische industrie wordt gebruikt. IPA is&nbsp;<br>door de toxische werking slecht voor mens en milieu.&nbsp;
+<br>*IPA*<br>IPA is een oplosmiddel dat door het grootste gedeelte van&nbsp;<br>de Nederlandse grafische industrie wordt gebruikt. IPA is&nbsp;<br>door de toxische werking slecht voor mens en milieu.&nbsp;
 
 *INKT*<br>Drukkers kunnen drukken met synthetische inkt of plantaardige inkt. Met dat laatste drukken onze drukkers. De kleur zelf is&nbsp;<br>altijd gemaakt met chemisch pigment.&nbsp;
 
