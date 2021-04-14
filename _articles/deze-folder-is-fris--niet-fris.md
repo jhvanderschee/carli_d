@@ -41,7 +41,7 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 \_\_\_\_\_\_\_\_\_\_<br><br>![](/img/Folder.jpg){: width="208" height="229"}
 
-**DRUKPROCES<br>Frisse Plannen werkt samen met groene drukkers die zonder chemische middelen werken.**<br><br>*KEURMERK*<br>Het EcoPrinted&reg; beeldmerk staat garant voor drukwerk dat gebaseerd is op negen duurzaamheidscriteria. Deze criteria tezamen, staan garant voor het naleven van de hoogst mogelijke milieueisen in de grafische industrie op dit moment.
+**DRUKPROCES<br>Frisse Plannen werkt samen met groene drukkers die zonder chemische middelen werken.**<br><br>*KEURMERK*<br>Het EcoPrinted&reg; beeldmerk staat garant voor drukwerk dat gebaseerd is op negen duurzaamheidscriteria. Deze criteria tezamen staan garant voor het naleven van de hoogst mogelijke milieueisen in de grafische industrie op dit moment:
 
 1. IPA-vrije offset producties
 2. Gebruik van BIO inkten
