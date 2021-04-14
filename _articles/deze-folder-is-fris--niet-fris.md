@@ -55,7 +55,7 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 \_\_\_\_\_\_\_\_\_\_
 
-![](/img/Folder.jpg){: width="520" height="320"}<br>**Creëer jij communicatie voor groene organisaties en heb je interesse in het fysieke sample-boekje m&egrave;t daarin 6 verantwoorde papiersamples?&nbsp;**
+![](/uploads/folder-1.jpg){: width="520" height="320"}<br>**Creëer jij communicatie voor groene organisaties en heb je interesse in het fysieke sample-boekje m&egrave;t daarin 6 verantwoorde papiersamples?&nbsp;**
 
 **Stuur mij dan een [e-mail](mailto:carli@frisseplannen.nl?subject=Ik%20wil%20wel%20zo'n%20sample-boekje%20ontvangen)&nbsp;of bel 06 47 218 000.**<br>&nbsp;
 
