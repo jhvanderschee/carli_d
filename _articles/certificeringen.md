@@ -13,4 +13,14 @@ order: 3
 
 **Intro**
 
-**kopje**<br>Tekst
+**EcoPrinted&reg;**<br>*BEELDMERK*<br>Het EcoPrinted&reg; beeldmerk staat garant voor drukwerk dat gebaseerd is op negen duurzaamheidscriteria. Deze criteria tezamen staan garant voor het naleven van de hoogst mogelijke milieueisen in de grafische industrie op dit moment:
+
+1. IPA-vrije offset producties
+2. Gebruik van BIO inkten
+3. Chemieloze CTP
+4. Elektrisch of collectief transport
+5. Gebruik van FSC gecertificeerde papiersoorten
+6. CO2 neutraal certificering
+7. ISO 14001 certificering
+8. Duurzaam inkopen certificering
+9. Groene stroom certificering
