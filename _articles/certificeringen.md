@@ -13,7 +13,7 @@ order: 3
 
 **Intro**
 
-**EcoPrinted&reg;**<br>*BEELDMERK*<br>Het EcoPrinted&reg; beeldmerk staat garant voor drukwerk dat gebaseerd is op negen duurzaamheidscriteria. Deze criteria tezamen staan garant voor het naleven van de hoogst mogelijke milieueisen in de grafische industrie op dit moment:
+**<br>EcoPrinted&reg;**<br>*BEELDMERK*<br>Het EcoPrinted&reg; beeldmerk staat garant voor drukwerk dat gebaseerd is op negen duurzaamheidscriteria. Deze criteria tezamen staan garant voor het naleven van de hoogst mogelijke milieueisen in de grafische industrie op dit moment:
 
 1. IPA-vrije offset producties
 2. Gebruik van BIO inkten
