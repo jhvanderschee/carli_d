@@ -1,7 +1,7 @@
 ---
-title: Certificeringen
+title: ARTIKEL Certificeringen
 description: Welke **certificeringen** hebben onze producten en wat betekenen ze?
-image: /img/Ecoprintedgroen.svg
+image: /img/Certificeringen.svg
 public: true
 has_request: true
 request_image: /uploads/Mock-up-website_klein.png
@@ -10,6 +10,7 @@ request_cta: Gratis download
 tag: groene-communicatiemiddelen
 order: 3
 ---
+
 **Veel termen die worden gebruikt suggereren dat ze milieuvriendelijk zijn (groene stroom, 100% gerecycled, CO2 neutraal), maar dat is meestal niet het geval als je even verder kijkt.**
 
 **Voorbeeld**<br>Laten we als voorbeeld een (online) drukker nemen die aangeeft met FSC papier te werken of met 100% gerecycled papier. Dat is natuurlijk heel goed, maar het zegt verder niets over de rest van de productie. Zeker de goedkopere (online) drukkers werken vaak met partijen. Dat wil zeggen dat er meerdere ontwerpen op één drukplaat staan. Op zich niets mis mee, maar van het ene ontwerp zijn bijvoorbeeld maar 200 stuks nodig en van het andere 500 stuks. Dan worden er 500 gedrukt en bij de lagere orders wordt het overschot weggegooid. Dit is niet zo milieuvriendelijk natuurlijk en het gaat vaak om grote aantallen.
