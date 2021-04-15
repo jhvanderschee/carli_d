@@ -39,7 +39,7 @@ Voor het realiseren van duurzaam drukwerk let Frisse Plannen op de volgende aand
 
 *RESTMATERIAAL*<br>Wordt het restmateriaal op verantwoorde wijze verwerkt of opnieuw gebruikt?
 
-\_\_\_\_\_\_\_\_\_\_<br><br>![](/img/Drukproces.JPG){: width="484" height="505"}**DRUKPROCES<br>Frisse Plannen werkt samen met groene drukkers die zonder chemische middelen werken.**<br><br>*IPA*<br>IPA is een oplosmiddel dat door het grootste gedeelte van de Nederlandse grafische industrie wordt gebruikt. IPA is door de toxische werking slecht voor mens en milieu.&nbsp;
+\_\_\_\_\_\_\_\_\_\_<br><br>![](/img/Drukproces.JPG){: width="484" height="505"}<br>**DRUKPROCES<br>Frisse Plannen werkt samen met groene drukkers die zonder chemische middelen werken.**<br><br>*IPA*<br>IPA is een oplosmiddel dat door het grootste gedeelte van de Nederlandse grafische industrie wordt gebruikt. IPA is door de toxische werking slecht voor mens en milieu.&nbsp;
 
 *INKT*<br>Drukkers kunnen drukken met synthetische inkt of plantaardige inkt. Met dat laatste drukken onze drukkers. De kleur zelf is altijd gemaakt met chemisch pigment.&nbsp;
 
