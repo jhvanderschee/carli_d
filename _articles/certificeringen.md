@@ -29,9 +29,7 @@ order: 3
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
+![](/uploads/iso-14001-6.svg){: width="300" height="68"}<br>ISO 14001 is de internationale norm met eisen voor een milieumanagementsysteem. Onze drukker beschikt over een ISO Milieuzorg certificering. Binnen het bedrijf hanteren ze een milieubeleid waarbij ze in alles wat ze doen rekening houden met het milieu.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
