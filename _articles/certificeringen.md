@@ -25,6 +25,8 @@ order: 3
 8. Duurzaam inkopen certificering
 9. Groene stroom certificering
 
-**FSC&reg;**<br>Ook beschikt onze drukker over het FSC&reg; keurmerk. FSC staat voor Forest Stewardship Council&reg;, een internationale organisatie die zich inzet voor wereldwijd behoud en verantwoord bosbeheer. Het keurmerk beoordeelt de herkomst van de grondstof van papier en papierproducten. Deze moeten uit een verantwoord beheerd bos komen. Zij voldoen aan de eisen van het FSC label en dragen daarmee bij aan de bescherming van onze wereldwijde bossen en aan een gezonde leefomgeving voor mens en dier wereldwijd.
+![](/uploads/fsc.jpg){: width="254" height="121"}<br>Ook beschikt onze drukker over het FSC&reg; keurmerk. FSC staat voor Forest Stewardship Council&reg;, een internationale organisatie die zich inzet voor wereldwijd behoud en verantwoord bosbeheer. Het keurmerk beoordeelt de herkomst van de grondstof van papier en papierproducten. Deze moeten uit een verantwoord beheerd bos komen. Zij voldoen aan de eisen van het FSC label en dragen daarmee bij aan de bescherming van onze wereldwijde bossen en aan een gezonde leefomgeving voor mens en dier wereldwijd.<br><br><br>![](/uploads/climatecalc.svg){: width="300" height="40"}<br>ClimateCalc is een rekenmethode om te bepalen wat de CO2-uitstoot van de drukkerij is op jaarbasis. Dankzij deze methode kunnen we onze klanten adviseren over het te gebruiken papier om zo de CO2-voetafdruk van de order te verminderen of in zijn geheel zelfs te compenseren. Een certificering waar we erg blij mee zijn, want op deze manier kunnen we CO2-neutraal drukwerk aanbieden.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **We hebben ook producten die modulair zijn (dus eenvoudig aanpasbaar voor meerdere projecten; praatplaat) en producten die circulair zijn (die teruggestuurd kunnen worden; tevens praatplaat).&nbsp;**
