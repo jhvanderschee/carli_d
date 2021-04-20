@@ -11,7 +11,7 @@ tag: groene-communicatiemiddelen
 order: 3
 ---
 
-**Ons drukwerk voldoet aan onderstaande eisen:**<br><br><br>**![](/uploads/ecoprintedgroen-lang.svg){: width="300" height="68"}**<br>Het EcoPrinted&reg; beeldmerk staat garant voor drukwerk dat gebaseerd is op negen duurzaamheidscriteria. Deze criteria tezamen staan garant voor het naleven van de hoogst mogelijke milieueisen in de grafische industrie op dit moment:
+**Ons drukwerk voldoet aan onderstaande eisen:**<br><br><br>**![](/uploads/ecoprintedgroen-lang.svg){: width="300" height="68"}**<br><br>**Het EcoPrinted&reg; beeldmerk staat garant voor drukwerk dat gebaseerd is op negen duurzaamheidscriteria. Deze criteria tezamen staan garant voor het naleven van de hoogst mogelijke milieueisen in de grafische industrie op dit moment:**
 
 1. IPA-vrije offset producties
 2. Gebruik van BIO inkten
