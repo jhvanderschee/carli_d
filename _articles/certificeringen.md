@@ -23,15 +23,13 @@ order: 3
 8. Duurzaam inkopen certificering
 9. Groene stroom certificering<br><br>&nbsp;
 
-IPA<br>&nbsp;
+IPA<br>IPA is een oplosmiddel dat door het grootste gedeelte van de Nederlandse grafische industrie wordt gebruikt. IPA is door de toxische werking slecht voor mens en milieu. Onze drukker werkt IPA-vrij.
 
-BIO-INKTEN
+BIO-INKTEN<br>Drukkers kunnen drukken met synthetische inkt of plantaardige inkt. Met dat laatste drukken onze drukkers. De kleur zelf is altijd gemaakt met chemisch pigment.
 
-CHEMIELOZE CTP
+CHEMIELOZE CTP<br>Drukplaten kunnen met of zonder chemische ontwikkelbaden worden geproduceerd. Onze drukkers werken zonder.<br>&nbsp;
 
-TRANSPORT
-
-![](/uploads/fsc-1.jpg){: width="504" height="112"}<br>FSC staat voor Forest Stewardship Council&reg;, een internationale organisatie die zich inzet voor wereldwijd behoud en verantwoord bosbeheer. Het keurmerk beoordeelt de herkomst van de grondstof van papier en papierproducten. Deze moeten uit een verantwoord beheerd bos komen. Zij voldoen aan de eisen van het FSC label en dragen daarmee bij aan de bescherming van onze wereldwijde bossen en aan een gezonde leefomgeving voor mens en dier wereldwijd.<br><br><br>![](/uploads/climatecalc-1.svg){: width="300" height="31"}<br>ClimateCalc is een rekenmethode om te bepalen wat de CO2-uitstoot op jaarbasis is. Op deze manier kan de CO2-voetafdruk van het drukwerk zelfs volledig worden gecompenseerd. Dit betekent dat .....................
+![](/uploads/fsc-1.jpg){: width="504" height="112"}<br>FSC staat voor Forest Stewardship Council&reg;, een internationale organisatie die zich inzet voor wereldwijd behoud en verantwoord bosbeheer. Het keurmerk beoordeelt de herkomst van de grondstof van papier en papierproducten. Deze moeten uit een verantwoord beheerd bos komen. Zij voldoen aan de eisen van het FSC label en dragen daarmee bij aan de bescherming van onze wereldwijde bossen en aan een gezonde leefomgeving voor mens en dier wereldwijd.<br><br><br>![](/uploads/climatecalc-1.svg){: width="300" height="31"}<br>ClimateCalc is een rekenmethode om te bepalen wat de CO2-uitstoot op jaarbasis is. Op deze manier kan de CO2-voetafdruk van het drukwerk zelfs volledig worden gecompenseerd. Dit betekent dat …………………
 
 &nbsp;
 
