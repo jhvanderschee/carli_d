@@ -31,8 +31,6 @@ CHEMIELOZE CTP<br>Drukplaten kunnen met of zonder chemische ontwikkelbaden worde
 
 ![](/uploads/fsc-1.jpg){: width="504" height="112"}<br>FSC staat voor Forest Stewardship Council&reg;, een internationale organisatie die zich inzet voor wereldwijd behoud en verantwoord bosbeheer. Het keurmerk beoordeelt de herkomst van de grondstof van papier en papierproducten. Deze moeten uit een verantwoord beheerd bos komen. Zij voldoen aan de eisen van het FSC label en dragen daarmee bij aan de bescherming van onze wereldwijde bossen en aan een gezonde leefomgeving voor mens en dier wereldwijd.<br><br><br>![](/uploads/climatecalc-1.svg){: width="300" height="31"}<br>ClimateCalc is een rekenmethode om te bepalen wat de CO2-uitstoot op jaarbasis is. Op deze manier kan de CO2-voetafdruk van het drukwerk zelfs volledig worden gecompenseerd. Dit betekent dat er certificaten worden gekocht bij Climate Neutral.&nbsp;
 
-&nbsp;
-
 ![](/uploads/iso-14001-6.svg){: width="300" height="68"}<br>ISO 14001 is de internationale norm met eisen voor een milieumanagementsysteem. Onze drukker beschikt over een ISO Milieuzorg certificering. Binnen het bedrijf hanteren ze een milieubeleid waarbij ze in alles wat ze doen rekening houden met het milieu.
 
 &nbsp;
