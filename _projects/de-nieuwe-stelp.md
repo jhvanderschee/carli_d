@@ -1,9 +1,10 @@
 ---
 title: De Nieuwe Stelp.
 subtitle: Folder
-image: /img/NieuweStelp_binnenkant.jpg
+image: /img/Hand-met-brochure.jpg
 images:
   - image: /uploads/nieuwestelp-buitenkant.jpg
+  - image: /uploads/nieuwestelp_binnenkant.jpg
 description: >-
   Voor gemeente Ameland heeft Frisse Plannen een folder ontworpen die gaat
   bijdragen aan het (financieel) voor elkaar krijgen van een super innovatief
