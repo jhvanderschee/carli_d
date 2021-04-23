@@ -1,5 +1,5 @@
 ---
-title: De Nieuwe Stelp
+title: De Nieuwe Stelp.
 subtitle: Folder
 image: /uploads/nieuwestelp-buitenkant.jpg
 images:
@@ -9,15 +9,16 @@ description: >-
   de afgelopen twaalf jaar, projecten en inzet van nu is gebundeld. Het
   resultaat? De krant ‘Opgewekt op kop met de energie van de toekomst’.
 client_title: Opdrachtgever
-client: Duurzame Wadden
-client_image: /img/DW logo.jpg
+client: Gemeente Ameland
+client_image:
 bgcolor: lightgray
 tags:
   - motiveren
   - discussieren
   - visualiseren
-order: 1
+order: 2
 ---
+
 In augustus 2019 zullen er 24.000 exemplaren verspreid worden op de eilanden én daarbuiten. Een geweldige opdracht waarbij duidelijk is geworden dat de betrokkenheid van de eilander inwoners en bedrijven het verschil maakt in de energietransitie.
 
 De helft van de achterpagina van de krant kan je los knippen en vouwen tot een handig boekje. Een boekje volle snelle bespaartips.
