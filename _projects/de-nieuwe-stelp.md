@@ -3,7 +3,7 @@ title: De Nieuwe Stelp.
 subtitle: Folder
 image: /uploads/nieuwestelp-buitenkant.jpg
 images:
-  - image: /uploads/Krant_mockup_5.jpg
+  - image: /uploads/nieuwestelp_binnenkant.jpg
 description: >-
   De Waddeneilanden en duurzame energie? Dat gaat goed samen. De resultaten van
   de afgelopen twaalf jaar, projecten en inzet van nu is gebundeld. Het
