@@ -2,6 +2,7 @@
 title: Opgewekt op kop.
 subtitle: Krant
 image: /img/Krant_mockup_1.jpg
+vimeo_id:
 images:
   - image: /uploads/Krant_mockup_5.jpg
   - image: /uploads/Mockup-kleine-boekje.jpg

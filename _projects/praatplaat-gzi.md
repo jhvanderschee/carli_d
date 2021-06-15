@@ -2,6 +2,7 @@
 title: GZI next.
 subtitle: Praatplaat
 image: /img/GZI01.jpg
+vimeo_id:
 images:
   - image: /img/GZI03.jpg
   - image: /img/GZI02.jpg

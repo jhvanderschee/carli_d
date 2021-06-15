@@ -2,6 +2,7 @@
 title: Duurzame Huizen.
 subtitle: Brochure
 image: /uploads/Cover.jpg
+vimeo_id:
 images:
   - image: /uploads/Binnenwerk01.jpg
   - image: /uploads/Binnenwerk02.jpg

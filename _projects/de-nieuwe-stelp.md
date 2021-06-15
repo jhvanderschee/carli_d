@@ -2,6 +2,7 @@
 title: De Nieuwe Stelp.
 subtitle: Folder
 image: /img/Hand-met-brochure.jpg
+vimeo_id:
 images:
   - image: /uploads/nieuwestelp-buitenkant.jpg
   - image: /uploads/nieuwestelp_binnenkant.jpg

@@ -2,6 +2,7 @@
 title: Modulaire binnenwand.
 subtitle: Presentatiemateriaal
 image: /img/Wand_geheel.jpg
+vimeo_id:
 images:
   - image: /img/Wand_detail.jpg
   - image: /img/Wand op beurs.jpg

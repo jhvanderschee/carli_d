@@ -2,6 +2,7 @@
 title: Charettes 2018.
 subtitle: Brochure
 image: /img/Charettes2_binnenwerk2.jpg
+vimeo_id:
 images:
   - image: /img/Charettes2Cover.jpg
   - image: /img/Charettes2_binnenwerk1.jpg

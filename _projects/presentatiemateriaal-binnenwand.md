@@ -2,6 +2,7 @@
 title: Circulaire binnenwand.
 subtitle: Presentatiemateriaal
 image: /img/binnenwand.jpg
+vimeo_id:
 images:
   - image: /img/binnenwand_close.jpg
   - image: /img/binnenwand_folder.jpg

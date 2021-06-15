@@ -2,6 +2,7 @@
 title: Charettes 2017.
 subtitle: Brochure
 image: /img/Charettes01.jpg
+vimeo_id:
 images:
   - image: /img/Charettes02.jpg
   - image: /img/Charettes03.jpg

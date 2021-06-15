@@ -2,6 +2,7 @@
 title: Lighthouse Projects
 subtitle: Identiteit
 image: /uploads/LP_Logo_bewegend.gif
+vimeo_id:
 images:
   - image: /img/LP_visitekaartje.jpg
   - image: /uploads/LP_Website.JPG

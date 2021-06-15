@@ -2,6 +2,7 @@
 title: Duurzaam Ameland.
 subtitle: Praatplaat
 image: /img/DA_praatplaat.jpg
+vimeo_id:
 images:
   - image: /img/DA_animatie.jpg
 description: >-

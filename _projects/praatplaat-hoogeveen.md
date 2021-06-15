@@ -2,6 +2,7 @@
 title: Hoogeveen.
 subtitle: Praatplaat
 image: /img/Hoogeveen_01.jpg
+vimeo_id:
 images:
   - image: /img/Hoogeveen_02.jpg
 description: >-
