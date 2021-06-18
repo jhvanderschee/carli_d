@@ -1,7 +1,7 @@
 ---
 title: Handig mee te nemen
 subtitle: Waarom een praatplaat?
-image: /img/NOfriesland1.jpg
+image: /img/Afbeeldingvideo.JPG
 vimeo_id: 563161650
 images:
   - image: /img/NOfriesland2.jpg
@@ -17,4 +17,5 @@ tags:
   - visualiseren
 order: 3
 ---
+
 Lange tekst
