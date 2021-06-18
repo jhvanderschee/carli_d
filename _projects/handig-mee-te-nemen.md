@@ -1,6 +1,6 @@
 ---
-title: Handig mee te nemen
-subtitle: Waarom een praatplaat?
+title: Modulair en circulair
+subtitle: Video over praatplaten
 image: /img/Afbeeldingvideo.JPG
 vimeo_id: 563161650
 images:
