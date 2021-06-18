@@ -15,7 +15,7 @@ tags:
   - discussieren
   - motiveren
   - visualiseren
-order: 3
+order: '1'
 ---
 
 Lange tekst
