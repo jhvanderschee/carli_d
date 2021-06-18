@@ -2,7 +2,7 @@
 title: Noardeast-Fryslân
 subtitle: Praatplaat
 image: /img/NOfriesland1.jpg
-vimeo_id: 563161650
+vimeo_id:
 images:
   - image: /img/NOfriesland2.jpg
 description: >-
