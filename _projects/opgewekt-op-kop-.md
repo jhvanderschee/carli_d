@@ -5,7 +5,7 @@ image: /img/Krant_mockup_1.jpg
 vimeo_id:
 images:
   - image: /uploads/Krant_mockup_5.jpg
-  - image: /uploads/Mockup-kleine-boekje.jpg
+  - image: /uploads/Mockup-kleine-boekje2.jpg
 description: >-
   De Waddeneilanden en duurzame energie? Dat gaat goed samen. De resultaten van
   de afgelopen twaalf jaar, projecten en inzet van nu is gebundeld. Het
@@ -21,7 +21,7 @@ tags:
 order: 1
 ---
 
-In augustus 2019 zullen er 24.000 exemplaren verspreid worden op de eilanden &eacute;n daarbuiten. Een geweldige opdracht waarbij duidelijk is geworden dat de betrokkenheid van de eilander inwoners en bedrijven het verschil maakt in de energietransitie.
+In augustus 2019 zullen er 24.000 exemplaren verspreid worden op de eilanden én daarbuiten. Een geweldige opdracht waarbij duidelijk is geworden dat de betrokkenheid van de eilander inwoners en bedrijven het verschil maakt in de energietransitie.
 
 De helft van de achterpagina van de krant kan je los knippen en vouwen tot een handig boekje. Een boekje volle snelle bespaartips.
 
