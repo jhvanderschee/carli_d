@@ -1,7 +1,7 @@
 ---
 title: Super effectief en handig mee te nemen!
 subtitle: Video over praatplaten
-image: /img/Afbeeldingvideo.JPG
+image: /img/Afbeelding-video.jpg
 vimeo_id: 563161650
 images:
   - image: /uploads/Afbeelding-video2.JPG
