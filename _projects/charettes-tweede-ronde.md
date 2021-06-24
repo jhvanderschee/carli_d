@@ -19,7 +19,7 @@ tags:
   - motiveren
   - papier
   - visualiseren
-order: 5
+order: '10'
 ---
 
 Op 25 mei en 1 juni 2018 organiseerden de gemeente Ameland en de Hanzehogeschool Groningen twee charrettes, meedenk-avonden over de energietransitie. Dit boekje is gebaseerd op die twee avonden en op de input die Amelanders daar leverden.
