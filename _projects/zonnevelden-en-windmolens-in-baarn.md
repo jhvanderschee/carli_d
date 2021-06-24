@@ -6,11 +6,11 @@ vimeo_id:
 images:
   - image: /img/IMG_20210612_160314.jpg
 description: >-
-  Gemeente Baarn wil aandacht vragen van de bewoners van Baarn om mee te denken
-  over waar er mogelijkheden zijn om zonnevelden en windmolens te plaatsen. En
-  waar niet. 
+  Gemeente Baarn wilde aandacht vragen van de bewoners van Baarn om mee te
+  denken over waar er mogelijkheden zijn om zonnevelden en windmolens te
+  plaatsen. En waar niet. 
 client_title: Opdrachtgever
-client: Gemeente Baarn
+client:
 client_image: /img/Baarn_logo.png
 bgcolor: lightgray
 tags:
