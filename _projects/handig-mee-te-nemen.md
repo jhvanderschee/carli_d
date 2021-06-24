@@ -4,7 +4,7 @@ subtitle: Video over praatplaten
 image: /img/Afbeeldingvideo.JPG
 vimeo_id: 563161650
 images:
-  - image: /uploads/Afbeeldingvideo2.JPG
+  - image: /uploads/Afbeeldingvideo2.JPG.png
 description: >-
   Verbeelding zorgt ervoor dat je materie gemakkelijker kunt begrijpen, beter
   onthoudt en sneller verbanden legt. 
