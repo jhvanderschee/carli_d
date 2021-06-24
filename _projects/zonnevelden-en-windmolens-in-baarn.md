@@ -5,6 +5,7 @@ image: /uploads/IMG_20210612_144443.jpg
 vimeo_id:
 images:
   - image: /img/IMG_20210612_160314.jpg
+  - image: /uploads/IMG_20210612_144406.jpg
 description: >-
   Gemeente Baarn wilde aandacht vragen van de bewoners van Baarn om mee te
   denken over waar er mogelijkheden zijn om zonnevelden en windmolens te
