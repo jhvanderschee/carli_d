@@ -25,7 +25,7 @@ tags:
 order: '1'
 ---
 
-Door samen te discussiëren en oplossingen te bedenken, creëer je draagvlak en er ontstaan nieuwe inzichten.
+Door samen te discussiëren en oplossingen te bedenken, creëer je draagvlak en &nbsp;ontstaan er nieuwe inzichten.
 
 **Modulair**<br>De bovenste plaat met opdruk kan gemakkelijk worden vervangen, zodat de tafel ook weer gebruikt kan worden voor een volgend project.
 
