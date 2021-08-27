@@ -8,4 +8,4 @@ bgcolor: white
 order: 3
 ---
 
-Een praatplaat legt de basis voor constructieve discussies.
+Dé basis voor constructieve discussies.
