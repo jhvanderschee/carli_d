@@ -8,4 +8,4 @@ bgcolor: white
 order: 2
 ---
 
-Een brochure heeft als voordeel dat je doelgroep iets tastbaars krijgt.
+Je doelgroep krijgt iets tastbaars.
