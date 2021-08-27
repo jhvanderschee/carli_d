@@ -8,4 +8,4 @@ bgcolor: white
 order: 4
 ---
 
-Een website is dé ideale plek om veel informatie op te delen en up-to-date content te plaatsen.
+Dé plek om (actuele) informatie op te delen.
