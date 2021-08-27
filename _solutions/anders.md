@@ -8,4 +8,4 @@ bgcolor: white
 order: 6
 ---
 
-Een poster zorgt voor dagelijkse aandacht en is gemakkelijk te verspreiden.
+Dagelijkse aandacht en makkelijk verspreidbaar.
