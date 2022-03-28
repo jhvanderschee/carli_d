@@ -26,4 +26,4 @@ Je begint eigenlijk altijd met isoleren. Deze praktische gids helpt je om op een
 
 De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog en Terschelling zijn al in het bezit van een praktische gids.
 
-Ook een (op maat gemaakte) gids voor de bewoners van jouw gemeente?&nbsp;<br>[Stuur een berichtje](mailto:info@frisseplannen.nl?subject=Praktische%20gids%20over%20isoleren&amp;body=Beste%20Carli%2C%0AWij%20hebben%20interesse%20in%20een%20gids%20over%20isoleren%20voor%20onze%20gemeente...)<br>&nbsp;
+Ook een (op maat gemaakte) gids voor de bewoners van jouw gemeente?&nbsp;<br>*Neem dan even contact op via e-mail of telefoon.*<br>&nbsp;
