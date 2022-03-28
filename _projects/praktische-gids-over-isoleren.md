@@ -1,7 +1,7 @@
 ---
 title: Praktische gids over isoleren
 subtitle: Brochure
-image: /uploads/mockup-isolatie-vlieland-2.jpg
+image: /uploads/mockup-isolatie-vlieland-3.jpg
 vimeo_id:
 images:
   - image: /uploads/mockup-isolatie-vlieland-binnen1.jpg
