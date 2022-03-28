@@ -22,7 +22,7 @@ tags:
   - discussieren
   - motiveren
   - visualiseren
-order: '1'
+order: '2'
 ---
 
 Door samen te discussiëren en oplossingen te bedenken, creëer je draagvlak en &nbsp;ontstaan er nieuwe inzichten.
