@@ -26,4 +26,4 @@ Je begint eigenlijk altijd met isoleren. Deze praktische gids helpt je om op een
 
 De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog en Terschelling zijn al in het bezit van een praktische gids.
 
-Ook een (op maat gemaakte) gids voor de bewoners van jouw gemeente?&nbsp;<br>*Neem dan even contact op via e-mail of telefoon.*<br>&nbsp;
+Ook een (op maat gemaakte) gids voor de bewoners van jouw gemeente?&nbsp;<br>**Neem dan even contact op via e-mail of telefoon.**<br>&nbsp;
