@@ -6,6 +6,7 @@ vimeo_id:
 images:
   - image: /uploads/mockup-isolatie-vlieland-binnen1.jpg
   - image: /uploads/mockup-isolatie-vlieland-binnen2.jpg
+  - image: /uploads/mockup-isolatie-vlieland-binnen3.jpg
 description: >-
   Aardgasvrij wonen... zo makkelijk is dat allemaal nog niet. Waar begin je?
   Online is hier van alles over te vinden, maar je kan er ook goed overspoeld
