@@ -7,9 +7,9 @@ images:
   - image: /uploads/mockup-isolatie-vlieland-binnen1.jpg
   - image: /uploads/Mockup-kleine-boekje2.jpg
 description: >-
-  De Waddeneilanden en duurzame energie? Dat gaat goed samen. De resultaten van
-  de afgelopen twaalf jaar, projecten en inzet van nu is gebundeld. Het
-  resultaat? De krant ‘Opgewekt op kop met de energie van de toekomst’.
+  Aardgrasvrij wonen... zo makkelijk is dat allemaal nog niet. Waar begin je? Je
+  begint eigenlijk altijd met isoleren. Online is hier van alles over te vinden,
+  maar je kan er ook goed overspoelt raken door alle informatie!
 client_title: Opdrachtgever
 client: gemeente Vlieland
 client_image: /uploads/vlieland.jpg
@@ -21,8 +21,6 @@ tags:
 order: 1
 ---
 
-In augustus 2019 zullen er 24.000 exemplaren verspreid worden op de eilanden én daarbuiten. Een geweldige opdracht waarbij duidelijk is geworden dat de betrokkenheid van de eilander inwoners en bedrijven het verschil maakt in de energietransitie.
+Deze praktische gids helpt je om op een laagdrempelige manier te begrijpen wat er voor jouw huis mogelijk is. Waar je moet beginnen. En wil je meer weten? dan gebruik je de QR-codes die in de gids staan. Deze gids zorgt ervoor dat men gemotiveerd raakt om aan de slag te gaan. Ook de mensen die (nog) niet zelf actief op zoek zijn gegaan naar isolatiemaatregelen.
 
-D e helft van de achterpagina van de krant kan je los knippen en vouwen tot een handig boekje. Een boekje volle snelle bespaartips.
-
-Ook een blik op de krant werpen? Dat kan\!<br>[Blader door kran](https://www.yumpu.com/nl/document/read/62768432/opgewekt-op-kop-met-de-energie-van-de-toekomst){: target="_blank"}[t op externe pagina](https://www.yumpu.com/nl/document/read/62768432/opgewekt-op-kop-met-de-energie-van-de-toekomst){: target="_blank"}<br>&nbsp;
+Ook een brochure voor de bewoners van jouw gemeente?&nbsp;<br>[Stuur een berichtje](mailto:info@frisseplannen.nl?subject=Praktische%20gids%20over%20isoleren&amp;body=Beste%20Carli%2C%0AWij%20hebben%20interesse%20in%20een%20gids%20over%20isoleren%20voor%20onze%20gemeente...)<br>&nbsp;
