@@ -1,7 +1,7 @@
 ---
 title: Praktische gids over isoleren
 subtitle: Brochure
-image: /uploads/mockup-isolatie-vlieland-1.jpg
+image: /uploads/mockup-isolatie-vlieland-2.jpg
 vimeo_id:
 images:
   - image: /uploads/mockup-isolatie-vlieland-binnen1.jpg
@@ -12,7 +12,7 @@ description: >-
   raken door alle informatie!
 client_title: Opdrachtgever
 client: gemeente Vlieland
-client_image: /uploads/vlieland.jpg
+client_image:
 bgcolor: lightgray
 tags:
   - motiveren
