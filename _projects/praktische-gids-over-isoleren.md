@@ -17,8 +17,8 @@ client_image:
 bgcolor: lightgray
 tags:
   - motiveren
-  - discussieren
   - visualiseren
+  - brochure
 order: 1
 ---
 
