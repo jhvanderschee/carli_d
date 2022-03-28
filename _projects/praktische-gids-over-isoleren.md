@@ -11,8 +11,8 @@ description: >-
   Aardgasvrij wonen... zo makkelijk is dat allemaal nog niet. Waar begin je?
   Online is hier van alles over te vinden, maar je kan er ook goed overspoeld
   raken door alle informatie!
-client_title: Opdrachtgever
-client: gemeente Vlieland
+client_title:
+client:
 client_image:
 bgcolor: lightgray
 tags:
