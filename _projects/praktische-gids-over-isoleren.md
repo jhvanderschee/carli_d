@@ -7,7 +7,7 @@ images:
   - image: /uploads/mockup-isolatie-vlieland-binnen1.jpg
   - image: /uploads/Mockup-kleine-boekje2.jpg
 description: >-
-  Aardgrasvrij wonen... zo makkelijk is dat allemaal nog niet. Waar begin je?
+  Aardgasvrij wonen... zo makkelijk is dat allemaal nog niet. Waar begin je?
   Online is hier van alles over te vinden, maar je kan er ook goed overspoelt
   raken door alle informatie!
 client_title: Opdrachtgever
