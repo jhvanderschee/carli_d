@@ -1,5 +1,5 @@
 ---
-title: Aanbesteding groenonderhoud gemeente Eindhoven
+title: 'Aanbesteding groenonderhoud '
 subtitle: Plan van aanpak
 image: /uploads/krinkels-01.jpg
 vimeo_id:
