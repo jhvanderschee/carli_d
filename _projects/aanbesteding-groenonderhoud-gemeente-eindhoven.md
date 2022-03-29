@@ -18,6 +18,7 @@ tags:
   - motiveren
   - papier
   - visualiseren
-order: 11
+order: 1
 ---
+
 Enthousiaste ondernemers op de Friese Waddeneilanden laten zien hoe zij het aanpakken. Ze vertellen wat ze hebben gedaan én wat het hun kost en oplevert.
