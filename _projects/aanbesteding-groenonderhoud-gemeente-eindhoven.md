@@ -10,7 +10,7 @@ images:
 description: >-
   Krinkels verzorgt het ontwerp, aanleg en beheer van de openbare ruimte op het
   gebied van Groen, Infra, Water, Sport en gladheidsbestrijding. Regelmatig doen
-  zij mee met tenders om nieuwe aanbestedingen te proberen te krijgen.
+  zij mee met tenders om in aanmerking te komen voor nieuwe aanbestedingen.
 client_title: Opdrachtgever
 client: Friese Waddengemeenschap & Energie voor MKB
 client_image:
