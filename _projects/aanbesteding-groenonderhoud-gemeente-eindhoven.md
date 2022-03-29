@@ -12,7 +12,7 @@ description: >-
   gebied van Groen, Infra, Water, Sport en gladheidsbestrijding. Regelmatig doen
   zij mee met tenders om in aanmerking te komen voor nieuwe aanbestedingen.
 client_title: Opdrachtgever
-client: Friese Waddengemeenschap & Energie voor MKB
+client: Krinkels b.v.
 client_image:
 bgcolor: lightgreen
 tags:
