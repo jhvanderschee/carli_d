@@ -8,8 +8,9 @@ images:
   - image: /uploads/krinkels-03.jpg
   - image: /uploads/krinkels-04.jpg
 description: >-
-  Deze brochure is bedoeld om ondernemers (verder) op weg te helpen met de
-  verduurzaming van hun bedrijfspand.
+  Krinkels verzorgt het ontwerp, aanleg en beheer van de openbare ruimte op het
+  gebied van Groen, Infra, Water, Sport en gladheidsbestrijding. Regelmatig doen
+  zij mee met tenders om nieuwe aanbestedingen te proberen te krijgen.
 client_title: Opdrachtgever
 client: Friese Waddengemeenschap & Energie voor MKB
 client_image:
