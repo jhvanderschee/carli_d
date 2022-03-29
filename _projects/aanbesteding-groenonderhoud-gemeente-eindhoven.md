@@ -1,7 +1,7 @@
 ---
 title: 'Aanbesteding groenonderhoud '
 subtitle: Tender
-image: /uploads/krinkels-01.jpg
+image: /uploads/krinkels-01-1.jpg
 vimeo_id:
 images:
   - image: /uploads/krinkels-02.jpg
