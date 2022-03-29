@@ -6,6 +6,7 @@ vimeo_id:
 images:
   - image: /uploads/krinkels-02.jpg
   - image: /uploads/krinkels-03.jpg
+  - image: /uploads/krinkels-04.jpg
 description: >-
   Deze brochure is bedoeld om ondernemers (verder) op weg te helpen met de
   verduurzaming van hun bedrijfspand.
