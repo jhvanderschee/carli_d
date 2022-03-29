@@ -23,4 +23,6 @@ tags:
 order: 1
 ---
 
-Enthousiaste ondernemers op de Friese Waddeneilanden laten zien hoe zij het aanpakken. Ze vertellen wat ze hebben gedaan én wat het hun kost en oplevert.
+Frisse Plannen ontwerp met veel plezier deze plannen van aanpak.
+
+Beoordeling op vorm:&nbsp;
