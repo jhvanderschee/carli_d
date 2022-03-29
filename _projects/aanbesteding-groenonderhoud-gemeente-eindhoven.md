@@ -1,10 +1,10 @@
 ---
 title: Aanbesteding groenonderhoud gemeente Eindhoven
-subtitle: A4 (digitaal)
+subtitle: Plan van aanpak
 image: /uploads/krinkels-01.jpg
 vimeo_id:
 images:
-  - image: /img/DB_Binnenwerk.jpg
+  - image: /uploads/krinkels-02.jpg
   - image: /img/DB_Binnenwerk2.jpg
 description: >-
   Deze brochure is bedoeld om ondernemers (verder) op weg te helpen met de
