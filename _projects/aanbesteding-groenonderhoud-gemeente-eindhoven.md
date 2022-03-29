@@ -26,3 +26,5 @@ order: 1
 Frisse Plannen ontwerp met veel plezier deze plannen van aanpak.
 
 Beoordeling op vorm:&nbsp;
+
+Wil je ook geholpen worden met het helder overbrengen van jouw plan van aanpak en meer kans maken op gunning van de aanbesteding? Frisse Plannen helpt jou graag\!
