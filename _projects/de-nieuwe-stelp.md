@@ -9,7 +9,7 @@ images:
 description: >-
   Krinkels verzorgt het ontwerp, aanleg en beheer van de openbare ruimte op het
   gebied van Groen, Infra, Water, Sport en gladheidsbestrijding. Regelmatig doen
-  zij mee met tenders om nieuwe aanbestedingen te verkrijgen.
+  zij mee met tenders om nieuwe aanbestedingen te proberen te krijgen.
 client_title: Opdrachtgever
 client: Gemeente Ameland
 client_image:
