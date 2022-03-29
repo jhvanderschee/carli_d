@@ -20,7 +20,7 @@ tags:
   - motiveren
   - discussieren
   - visualiseren
-order: 2
+order: 5
 ---
 
 Frisse Plannen mocht met de input (Word-bestand en twee impressies van de architect) een communicatiemiddel ontwerpen. Dit is een kruisslag gevouwen folder geworden, omdat je zo in een oogopslag alle vier de innovatieve ambities voor het zorgcentrum bij elkaar kunt zien. De stockfoto's die wij erbij hebben gezocht moeten ervoor zorgen dat de informatie op een toegankelijke en heldere manier overkomt.
