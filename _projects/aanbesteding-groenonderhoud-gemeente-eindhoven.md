@@ -16,10 +16,9 @@ client: Krinkels b.v.
 client_image:
 bgcolor: lightgreen
 tags:
-  - brochure
   - motiveren
-  - papier
   - visualiseren
+  - groene-communicatiemiddelen
 order: 1
 ---
 
