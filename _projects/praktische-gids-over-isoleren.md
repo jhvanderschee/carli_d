@@ -32,4 +32,4 @@ INHOUD GIDS<br>\- in 3 stappen naar aardgasvrij (globale, bondige uitleg)<br>\- 
 
 **Aan de slag in je eigen huis**<br>(beknopte uitleg en concrete richtlijnen)<br>\- naden en kieren<br>\- dakisolatie (schuin en plat)<br>\- muurisolatie<br>\- raamisolatie<br>\- vloerisolatie<br>\- welk isolatiemateriaal kan ik kiezen?<br>\- wat betekenen de verschillende isolatiewaarden?
 
-\- aantal interviews (optioneel)<br>\- hoe betaalt u het? (subsidies, btw-regeling, hypotheken, etc)<br>\- checklist (wat heeft u al gedaan en wat is nog van toepassing op uw woning)<br>&nbsp;
+\- aantal interviews (optioneel)<br>\- hoe betaalt u het? (subsidies, btw-regeling, hypotheken, etc)<br>\- checklist (wat heeft u al gedaan en wat is nog van toepassing op uw woning)
