@@ -26,7 +26,9 @@ Je begint eigenlijk altijd met isoleren. Deze praktische gids helpt je om op een
 
 De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog en Terschelling zijn al in het bezit van een praktische gids.
 
-**INHOUD GIDS**<br>\- in 3 stappen naar aardgasvrij (globale, bondige uitleg)<br>\- waar verliest u warmte in uw woning (en waar het meeste)<br>\- warmtescan (hoe het werkt, wat het oplevert en waar je terecht kunt)<br>\- aan de slag met isoleren (aan de hand van bouwjaar concrete richtlijnen)<br>\- interview met een expert&nbsp;<br><br>AAN DE SLAG IN JE EIGEN HUIS (beknopte uitleg en concrete richtlijnen)<br>\- naden en kieren<br>\- dakisolatie (schuin en plat)<br>\- muurisolatie<br>\- raamisolatie<br>\- vloerisolatie
+INHOUD GIDS<br>\- in 3 stappen naar aardgasvrij (globale, bondige uitleg)<br>\- waar verliest u warmte in uw woning (en waar het meeste)<br>\- warmtescan (hoe het werkt, wat het oplevert en waar je terecht kunt)<br>\- aan de slag met isoleren (aan de hand van bouwjaar concrete richtlijnen)<br>\- interview met een expert&nbsp;
+
+**Aan de slag in je eigen huis**<br>(beknopte uitleg en concrete richtlijnen)<br>\- naden en kieren<br>\- dakisolatie (schuin en plat)<br>\- muurisolatie<br>\- raamisolatie<br>\- vloerisolatie
 
 &nbsp;
 
