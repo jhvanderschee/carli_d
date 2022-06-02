@@ -47,5 +47,3 @@ Hoe betaalt u het?<br>*Subsidies, btw-regeling, hypotheek, etc*
 Checklist<br>*Wat heeft u al gedaan en wat is nog van toepassing op uw woning*
 
 &nbsp;
-
-&nbsp;
