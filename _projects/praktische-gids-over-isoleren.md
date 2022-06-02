@@ -1,12 +1,12 @@
 ---
-title: Praktische gids over isoleren
-subtitle: Brochure
-image: /uploads/mockup-isolatie-vlieland-3.jpg
+title: Isolatiegids
+subtitle: Praktische gids
+image: /uploads/isolatiegids-cover.jpg
 vimeo_id:
 images:
-  - image: /uploads/mockup-isolatie-vlieland-binnen1.jpg
+  - image: /uploads/isolatiegids-warmtescan.jpg
   - image: /uploads/mockup-isolatie-vlieland-binnen3.jpg
-  - image: /uploads/mockup-isolatie-vlieland-binnen2.jpg
+  - image: /uploads/isolatiegids-vloerisolatie.jpg
 description: >-
   Aardgasvrij wonen... zo gemakkelijk is dat allemaal nog niet. Waar begin je?
   Online is hier van alles over te vinden, maar je kan er ook goed overspoeld
