@@ -24,7 +24,7 @@ order: 1
 
 Je begint eigenlijk altijd met isoleren. Deze praktische gids helpt je om op een laagdrempelige manier te begrijpen wat er voor jouw huis mogelijk is. Waar je moet beginnen. En wil je meer weten? dan gebruik je de QR-codes die in de gids staan. Deze gids zorgt ervoor dat men gemotiveerd raakt om aan de slag te gaan. Ook de mensen die (nog) niet actief zelf op zoek zijn gegaan naar isolatiemaatregelen.
 
-De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog en Terschelling zijn al in het bezit van een praktische gids.<br><br>Ook een op maat gemaakte gids voor de bewoners van uw gemeente? Neem dan vrijblijvend contact op 06 47 218 000 of [stuur een email](mailto:info@frisseplannen.nl?subject=Interesse%20in%20isolatiegids).
+De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog en Terschelling zijn al in het bezit van een praktische gids.<br><br>Ook een op maat gemaakte gids voor de bewoners van uw gemeente? Neem dan vrijblijvend contact op: 06 47 218 000 of [stuur een email](mailto:info@frisseplannen.nl?subject=Interesse%20in%20isolatiegids).
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
