@@ -42,9 +42,9 @@ Wat betekenen de verschillende isolatiewaarden?
 
 Aantal interviews met bewoners die actief zijn op het gebied van isoleren (optioneel)
 
-Hoe betaalt u het? (subsidies, btw-regeling, hypotheek, etc)
+Hoe betaalt u het?<br>*Subsidies, btw-regeling, hypotheek, etc*
 
-Checklist (wat heeft u al gedaan en wat is nog van toepassing op uw woning)
+Checklist<br>*Wat heeft u al gedaan en wat is nog van toepassing op uw woning*
 
 &nbsp;
 
