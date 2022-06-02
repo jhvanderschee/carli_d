@@ -11,7 +11,7 @@ description: >-
   Aardgasvrij wonen... zo gemakkelijk is dat allemaal nog niet. Waar begin je?
   Online is hier van alles over te vinden, maar je kan er ook goed overspoeld
   raken door alle informatie!
-client_title: 'Voorgaande opdrachtgevers:'
+client_title: 'Gemeenten in het bezit van de gids:'
 client:
 client_image: /uploads/logos-17.png
 bgcolor: lightgray
