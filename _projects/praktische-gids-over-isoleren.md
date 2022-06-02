@@ -24,8 +24,24 @@ order: 1
 
 Je begint eigenlijk altijd met isoleren. Deze praktische gids helpt je om op een laagdrempelige manier te begrijpen wat er voor jouw huis mogelijk is. Waar je moet beginnen. En wil je meer weten? dan gebruik je de QR-codes die in de gids staan. Deze gids zorgt ervoor dat men gemotiveerd raakt om aan de slag te gaan. Ook de mensen die (nog) niet actief zelf op zoek zijn gegaan naar isolatiemaatregelen.
 
-De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog en Terschelling zijn al in het bezit van een praktische gids.<br><br>Ook een op maat gemaakte gids voor de bewoners van jouw gemeente? Neem dan vrijblijvend contact op.
+De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog en Terschelling zijn al in het bezit van een praktische gids.<br><br>Ook een op maat gemaakte gids voor de bewoners van jouw gemeente? Neem dan vrijblijvend contact op 06 47 218 000 of [stuur een email](mailto:info@frisseplannen.nl?subject=Interesse%20in%20isolatiegids)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-INHOUD GIDS<br>\- in 3 stappen naar aardgasvrij (globale, bondige uitleg)<br>\- waar verliest u warmte in uw woning (en waar het meeste)<br>\- warmtescan (hoe het werkt, wat het oplevert en waar je terecht kunt)<br>\- aan de slag met isoleren (concrete richtlijnen aan de hand van bouwjaar)<br>\- interview met een expert&nbsp;<br>\- naden en kieren<br>\- dakisolatie (schuin en plat)<br>\- muurisolatie<br>\- raamisolatie<br>\- vloerisolatie<br>\- welk isolatiemateriaal kan ik kiezen?<br>\- wat betekenen de verschillende isolatiewaarden?<br>\- aantal interviews met bewoners die actief zijn op het gebied van isoleren (optioneel)<br>\- hoe betaalt u het? (subsidies, btw-regeling, hypotheek, etc)<br>\- checklist (wat heeft u al gedaan en wat is nog van toepassing op uw woning)
+INHOUD GIDS<br>In 3 stappen naar aardgasvrij (globale, bondige uitleg)<br><br>Waar verliest u warmte in uw woning (en waar het meeste)<br><br>Warmtescan (hoe het werkt, wat het oplevert en waar je terecht kunt)<br><br>Aan de slag met isoleren (concrete richtlijnen aan de hand van bouwjaar)<br><br>Interview met een expert&nbsp;<br><br>Naden en kieren<br><br>Dakisolatie (schuin en plat)
+
+Muurisolatie
+
+Raamisolatie
+
+Vloerisolatie
+
+Welk isolatiemateriaal kan ik kiezen?
+
+Wat betekenen de verschillende isolatiewaarden?
+
+Aantal interviews met bewoners die actief zijn op het gebied van isoleren (optioneel)
+
+Hoe betaalt u het? (subsidies, btw-regeling, hypotheek, etc)
+
+Checklist (wat heeft u al gedaan en wat is nog van toepassing op uw woning)
