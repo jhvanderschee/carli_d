@@ -1,7 +1,7 @@
 ---
 title: Isolatiegids
 subtitle: Praktische gids
-image: /uploads/isolatiegids-cover-4.jpg
+image: /uploads/isolatiegids-cover-5.jpg
 vimeo_id:
 images:
   - image: /uploads/isolatiegids-warmtescan.jpg
