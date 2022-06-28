@@ -1,5 +1,5 @@
 ---
-title: Isolatiegids
+title: De Slimme Isolatiegids
 subtitle: Praktische gids
 image: /uploads/isolatiegids-cover-5.jpg
 vimeo_id:
