@@ -17,7 +17,6 @@ client_image: /uploads/logos-17.png
 bgcolor: lightgray
 tags:
   - groene-communicatiemiddelen
-  - motiveren
   - visualiseren
 order: 1
 ---
