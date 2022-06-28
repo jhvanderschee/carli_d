@@ -19,7 +19,6 @@ tags:
   - groene-communicatiemiddelen
   - motiveren
   - visualiseren
-  - brochure
 order: 1
 ---
 
