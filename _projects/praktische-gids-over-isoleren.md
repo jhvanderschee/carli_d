@@ -28,7 +28,9 @@ De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog en Terschelling zijn
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**INHOUD GIDS**<br><br>In 3 stappen naar aardgasvrij<br>*Globale en bondige uitleg*<br><br>Warmteverlies<br>*Waar verliest u warmte in uw woning en waar het meeste*<br><br>Warmtescan<br>*Hoe het werkt, wat het oplevert en waar je terecht kunt*<br><br>Aan de slag met isoleren<br>*Concrete richtlijnen aan de hand van bouwjaar*<br><br>In gesprek met een energie-expert&nbsp;<br><br>Naden en kieren<br><br>Dakisolatie (schuin en plat)
+**INHOUD GIDS**<br><br>In 3 stappen naar aardgasvrij<br>*Globale en bondige uitleg*<br><br>Warmteverlies<br>*Waar verliest u warmte in uw woning en waar het meeste*<br><br>Warmtescan<br>*Hoe het werkt, wat het oplevert en waar je terecht kunt*<br><br>Aan de slag met isoleren<br>*Concrete richtlijnen aan de hand van bouwjaar*<br><br>In gesprek met een energie-expert&nbsp;<br><br>Naden en kieren
+
+Ventileren<br><br>Dakisolatie (schuin en plat)
 
 Muurisolatie
 
