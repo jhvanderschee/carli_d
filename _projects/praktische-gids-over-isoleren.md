@@ -26,12 +26,9 @@ De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog en Terschelling zijn
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**REVIEW**
+**REVIEW**<br>*'De informatie is erg uitgebreid (en precies) en ik merk dat het bewoners aanspreekt om te lezen dat dorpsgenoten met dezelfde problemen kampen en hier oplossingen voor hebben gevonden’*
 
-> ‘De informatie is erg uitgebreid (en precies) en ik merk dat het bewoners aanspreekt om te lezen dat dorpsgenoten met dezelfde problemen kampen en hier oplossingen voor hebben gevonden’
->
->
-> Erwin de Boer<br>*Energieadviseur gemeente Ameland*
+*Erwin de Boer<br>Energieadviseur gemeente Ameland*
 
 &nbsp;
 
