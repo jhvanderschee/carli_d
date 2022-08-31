@@ -18,6 +18,7 @@ bgcolor: lightgray
 tags:
   - groene-communicatiemiddelen
   - visualiseren
+  - motiveren
 order: 1
 ---
 Het begint eigenlijk altijd met isoleren. Deze praktische en [duurzaam geproduceerde](https://frisseplannen.nl/blogs/certificeringen/){: target="_blank" rel="noopener"} gids helpt om op een laagdrempelige manier te begrijpen wat er voor jouw huis mogelijk is. En waar je moet beginnen. En wil je meer weten? Dan gebruik je de QR-codes die in de gids staan die verwijzen naar o.a. Duurzaam Bouwloket en MilieuCentraal (alle informatie in de gids komt ook overeen met deze bestaande informatiekanalen).<br><br>De Slimme Isolatiegids zorgt ervoor dat men gemotiveerd raakt om aan de slag te gaan. Ook de mensen die (nog) niet zelf actief op zoek zijn gegaan naar isolatiemaatregelen.
