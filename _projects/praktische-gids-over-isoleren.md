@@ -25,6 +25,8 @@ Het begint eigenlijk altijd met isoleren. Deze praktische en [duurzaam geproduce
 
 De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog en Terschelling zijn al in het bezit van deze praktische gids.<br><br>Meer informatie over de inhoud?<br>Neem dan vrijblijvend contact op: 06 47 218 000 of [stuur een email](mailto:info@frisseplannen.nl?subject=Interesse%20in%20isolatiegids).
 
+[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank" rel="noopener"}
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **REVIEW**<br>*'De informatie is erg uitgebreid (en precies) en ik merk dat het bewoners aanspreekt om te lezen dat dorpsgenoten met dezelfde problemen kampen en hier oplossingen voor hebben gevonden’*
