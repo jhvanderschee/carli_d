@@ -24,7 +24,7 @@ tags:
   - groene-communicatiemiddelen
 order: 1
 ---
-Deze praktische en&nbsp;[duurzaam geproduceerde](https://frisseplannen.nl/blogs/certificeringen/){: target="_blank"}&nbsp;gids helpt de bewoners van jouw gemeente te begrijpen wat de eerste stap is naar aardgasvrij wonen (=isoleren) en hoe en waar ze dit kunnen toepassen op hun eigen woning. Isoleren om direct te besparen, maar dus ook om voorbereid te zijn op toekomstige duurzame warmtebronnen. Op een laagdrempelige manier, zonder dat ze overspoelt raken door alle informatie die online staat.
+Deze praktische en&nbsp;[duurzaam geproduceerde](https://frisseplannen.nl/blogs/certificeringen/){: target="_blank"}&nbsp;gids helpt de bewoners van jouw gemeente te begrijpen wat de eerste stap is naar aardgasvrij wonen (=isoleren) en hoe en waar ze dit kunnen toepassen op hun eigen woning. Isoleren om direct te besparen, maar dus ook om voorbereid te zijn op toekomstige duurzame warmtebronnen. Op een laagdrempelige en frisse manier, zonder dat ze overspoelt raken door alle informatie die online staat.
 
 De op maat gemaakte QR-codes verwijzen o.a. naar specifieke webpagina's van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal (alle informatie in de gids komt overeen met deze bestaande informatiekanalen).
 
