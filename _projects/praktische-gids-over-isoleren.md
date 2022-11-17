@@ -15,7 +15,7 @@ request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
 request_title: Vraag gratis en vrijblijvend een sample gids aan
 request_cta: Aanvragen
 client_title: Gemeenten in het bezit van de op maat gemaakte Slimme Isolatiegids
-client: 'Ameland, Terschelling, Vlieland, '
+client: Ameland, Terschelling, Vlieland, Schiermonnikoog, Tynaarlo en Ooststellingwerf
 client_image:
 bgcolor: lightgray
 tags:
