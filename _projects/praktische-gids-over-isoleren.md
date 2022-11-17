@@ -12,7 +12,7 @@ description: >-
   Online is hier van alles over te vinden, maar je kan er ook goed overspoeld
   raken door alle informatie!
 has_request: true
-request_image: /uploads/Mock-up-website_klein.png
+request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
 request_title: Vraag vrijblijvend een sample gids aan
 request_cta: Aanvragen
 client_title: Gemeenten in het bezit van de op maat gemaakte Slimme Isolatiegids
