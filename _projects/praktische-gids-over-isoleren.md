@@ -7,7 +7,9 @@ images:
   - image: /uploads/isolatiegids-warmtescan.jpg
   - image: /uploads/mockup-isolatie-vlieland-binnen3.jpg
   - image: /uploads/isolatiegids-vloerisolatie.jpg
-description: Vraag onderaan in het groene vlak gratis en vrijblijvend een sample gids aan
+description: >-
+  Vraag onderaan in het groene vlak gratis en vrijblijvend een fysiek sample
+  gids aan.
 has_request: true
 request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
 request_title: Vraag gratis en vrijblijvend een sample gids aan
