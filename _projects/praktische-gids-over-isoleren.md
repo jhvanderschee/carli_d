@@ -30,4 +30,4 @@ Deze praktische en&nbsp;[duurzaam geproduceerde](https://frisseplannen.nl/blogs/
 
 De op maat gemaakte QR-codes verwijzen o.a. naar specifieke webpagina's van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal (alle informatie in de gids komt overeen met deze bestaande informatiekanalen).<br>​​​​​​<br>Meer informatie over de inhoud?&nbsp;[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank" rel="noopener"}<br>Of vraag hieronder in het groene vlak een sample gids aan.
 
-<br>​​​​​​
+<br>​​​​
