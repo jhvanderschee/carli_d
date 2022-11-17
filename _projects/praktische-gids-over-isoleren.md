@@ -16,7 +16,7 @@ request_title: Vraag gratis en vrijblijvend een sample gids aan
 request_cta: Aanvragen
 client_title: Gemeenten in het bezit van de op maat gemaakte Slimme Isolatiegids
 client:
-client_image: /uploads/logos-17.png
+client_image: /uploads/logo-s.png
 bgcolor: lightgray
 tags:
   - visualiseren
