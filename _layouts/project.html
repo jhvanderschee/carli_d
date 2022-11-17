@@ -30,12 +30,12 @@
             <form method="post" action="https://formbucket.com/f/buk_pO7R8FbRJeG9Lmlc8LNsu2ED" id="toggleform" target="_top">
                 <div style="font-size: 20px;">Aanvragen sample gids.</div>
                 <input type="hidden" name="_next" value="{{ site.url }}/bedankt/"/>
-                <input type="text" name="name" placeholder="Naam">
-                <input type="text" name="email" placeholder="E-mailadres">
-                <input type="text" name="company" placeholder="Bedrijfsnaam/gemeente">
-                <input type="text" name="address" placeholder="Straatnaam + huisnummer">
-                <input type="text" name="postalcode" placeholder="Postcode">
-                <input type="text" name="city" placeholder="Plaatsnaam">
+                <input type="text" name="name" placeholder="Naam" required>
+                <input type="text" name="email" placeholder="E-mailadres" required>
+                <input type="text" name="phone" placeholder="Telefoonnummer (optioneel)" required>
+                <input type="text" name="company" placeholder="Bedrijfsnaam/gemeente" required>
+                <input type="text" name="address" placeholder="Straatnaam + huisnummer" required>
+                <input type="text" name="postalcode" placeholder="Postcode + plaatsnaam" required>
                 <input type="hidden" name="_subject" value="{{ page.title }}">
                 <input type="text" name="_gotcha" style="display: none;">
                 <input type="submit" value="Aanvragen" class="button large">
