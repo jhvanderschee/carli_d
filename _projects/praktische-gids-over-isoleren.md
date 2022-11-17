@@ -10,7 +10,7 @@ images:
 description: Vraag onderaan in het groene vlak gratis en vrijblijvend een sample gids aan
 has_request: true
 request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
-request_title: Vraag vrijblijvend een sample gids aan
+request_title: Vraag gratis en vrijblijvend een sample gids aan
 request_cta: Aanvragen
 client_title: Gemeenten in het bezit van de op maat gemaakte Slimme Isolatiegids
 client:
