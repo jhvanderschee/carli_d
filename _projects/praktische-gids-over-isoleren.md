@@ -26,8 +26,8 @@ order: 1
 ---
 Deze praktische en&nbsp;[duurzaam geproduceerde](https://frisseplannen.nl/blogs/certificeringen/){: target="_blank"}&nbsp;gids helpt de bewoners van jouw gemeente te begrijpen wat de eerste stap is naar aardgasvrij wonen (=isoleren) en hoe en waar ze dit kunnen toepassen op hun eigen woning. Isoleren om direct te besparen, maar dus ook om voorbereid te zijn op toekomstige duurzame warmtebronnen. Op een laagdrempelige en frisse manier, zonder dat ze overspoelt raken door alle informatie die online staat.
 
-De op maat gemaakte QR-codes verwijzen o.a. naar specifieke webpagina's van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal (alle informatie in de gids komt overeen met deze bestaande informatiekanalen).
+***‘De informatie is erg uitgebreid (en precies) en ik merk dat het bewoners aanspreekt om te lezen dat dorpsgenoten met dezelfde problemen kampen en hier oplossingen voor hebben gevonden’<br>Erwin de Boer - Energieadviseur gemeente Ameland***
 
-***‘De informatie is erg uitgebreid (en precies) en ik merk dat het bewoners aanspreekt om te lezen dat dorpsgenoten met dezelfde problemen kampen en hier oplossingen voor hebben gevonden’<br>Erwin de Boer - Energieadviseur gemeente Ameland***<br>​​​​​​<br>Meer informatie over de inhoud?&nbsp;[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank" rel="noopener"}<br>Of vraag hieronder in het groene vlak een sample gids aan.
+De op maat gemaakte QR-codes verwijzen o.a. naar specifieke webpagina's van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal (alle informatie in de gids komt overeen met deze bestaande informatiekanalen).<br>​​​​​​<br>Meer informatie over de inhoud?&nbsp;[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank" rel="noopener"}<br>Of vraag hieronder in het groene vlak een sample gids aan.
 
 <br>​​​​​​
