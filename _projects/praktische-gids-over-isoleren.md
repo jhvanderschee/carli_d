@@ -28,8 +28,6 @@ Deze praktische en&nbsp;[duurzaam geproduceerde](https://frisseplannen.nl/blogs/
 
 De op maat gemaakte QR-codes verwijzen o.a. naar specifieke webpagina's van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal (alle informatie in de gids komt overeen met deze bestaande informatiekanalen).
 
-***‘De informatie is erg uitgebreid (en precies) en ik merk dat het bewoners aanspreekt om te lezen dat dorpsgenoten met dezelfde problemen kampen en hier oplossingen voor hebben gevonden’<br>Erwin de Boer - Energieadviseur gemeente Ameland***
-
-De Slimme Isolatiegids zorgt ervoor dat men op een laagdrempelige manier gemotiveerd raakt om aan de slag te gaan. Ook de mensen die (nog) niet zelf actief op zoek zijn gegaan naar isolatiemaatregelen. Zonder dat ze overspoelt raken door alle informatie die online staat.<br>​​​​​​<br>Meer informatie over de inhoud?&nbsp;[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank" rel="noopener"}<br>Of vraag hieronder in het groene vlak een sample gids aan.
+***‘De informatie is erg uitgebreid (en precies) en ik merk dat het bewoners aanspreekt om te lezen dat dorpsgenoten met dezelfde problemen kampen en hier oplossingen voor hebben gevonden’<br>Erwin de Boer - Energieadviseur gemeente Ameland***<br>​​​​​​<br>Meer informatie over de inhoud?&nbsp;[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank" rel="noopener"}<br>Of vraag hieronder in het groene vlak een sample gids aan.
 
 <br>​​​​​​
