@@ -24,14 +24,12 @@ tags:
   - groene-communicatiemiddelen
 order: 1
 ---
-Aardgasvrij wonen... zo gemakkelijk is dat allemaal nog niet. Waar begin je? Online is hier van alles over te vinden, maar je kan er ook goed overspoeld raken door alle informatie\!
+Deze praktische en&nbsp;[duurzaam geproduceerde](https://frisseplannen.nl/blogs/certificeringen/){: target="_blank"}&nbsp;gids helpt de bewoners van jouw gemeente te begrijpen wat de eerste stap is naar aardgasvrij wonen (=isoleren) en hoe en waar ze dit kunnen toepassen op hun eigen woning. Isoleren om direct te besparen, maar dus ook om voorbereid te zijn op toekomstige duurzame warmtebronnen. Op een laagdrempelige manier, zonder dat ze overspoelt raken door alle informatie die online staat.
 
-Het begint eigenlijk altijd met isoleren. Deze praktische en [duurzaam geproduceerde](https://frisseplannen.nl/blogs/certificeringen/){: target="_blank" rel="noopener"} gids helpt om op een laagdrempelige manier te begrijpen wat er voor de inwoners van jouw gemeente mogelijk is. En waar ze moeten beginnen. En willen ze meer weten? Dan gebruiken ze de QR-codes die in de gids staan die verwijzen naar bijvoorbeeld&nbsp; een specifieke webpagina van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal (alle informatie in de gids komt overeen met deze bestaande informatiekanalen).
+De op maat gemaakte QR-codes verwijzen o.a. naar specifieke webpagina's van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal (alle informatie in de gids komt overeen met deze bestaande informatiekanalen).
 
-***'De informatie is erg uitgebreid (en precies) en ik merk dat het bewoners aanspreekt om te lezen dat dorpsgenoten met dezelfde problemen kampen en hier oplossingen voor hebben gevonden’<br>Erwin de Boer - Energieadviseur gemeente Ameland***
+***‘De informatie is erg uitgebreid (en precies) en ik merk dat het bewoners aanspreekt om te lezen dat dorpsgenoten met dezelfde problemen kampen en hier oplossingen voor hebben gevonden’<br>Erwin de Boer - Energieadviseur gemeente Ameland***
 
-De Slimme Isolatiegids zorgt ervoor dat men gemotiveerd raakt om aan de slag te gaan. Ook de mensen die (nog) niet zelf actief op zoek zijn gegaan naar isolatiemaatregelen.
-
-De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog en Terschelling zijn al in het bezit van deze praktische gids. Een gids voor gemeente Tynaarlo en Ooststellingwerf is in ontwikkeling.<br><br>Meer informatie over de inhoud?&nbsp;[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank" rel="noopener"}
+De Slimme Isolatiegids zorgt ervoor dat men op een laagdrempelige manier gemotiveerd raakt om aan de slag te gaan. Ook de mensen die (nog) niet zelf actief op zoek zijn gegaan naar isolatiemaatregelen. Zonder dat ze overspoelt raken door alle informatie die online staat.<br>​​​​​​<br>Meer informatie over de inhoud?&nbsp;[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank" rel="noopener"}<br>Of vraag hieronder in het groene vlak een sample gids aan.
 
 <br>​​​​​​
