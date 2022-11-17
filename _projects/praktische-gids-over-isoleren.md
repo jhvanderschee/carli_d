@@ -11,6 +11,10 @@ description: >-
   Aardgasvrij wonen... zo gemakkelijk is dat allemaal nog niet. Waar begin je?
   Online is hier van alles over te vinden, maar je kan er ook goed overspoeld
   raken door alle informatie!
+has_request: true
+request_image: /uploads/Mock-up-website_klein.png
+request_title: 'Wil je toffe inzichten, omdat je bezig bent overtuigende content te creëren?'
+request_cta: Gratis download
 client_title: Gemeenten in het bezit van de op maat gemaakte Slimme Isolatiegids
 client:
 client_image: /uploads/logos-17.png
