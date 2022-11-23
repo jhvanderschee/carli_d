@@ -14,13 +14,13 @@
 
         {{ content }}
 
-        <p><i>{{ page.client_title }}:</i><br />
-        {{ page.client }}</p>
+        {% if page.client_title %}<p><i>{{ page.client_title }}:</i><br />
+        {{ page.client }}</p>{% endif %}
 
-        <img src="{{ page.client_image }}" />
+        {% if page.client_image %}<img src="{{ page.client_image }}" />{% endif %}
 
         {% if page.has_request %}
-        <br><br><br>
+        {% if page.client_image %}<br><br><br>{% endif %}
         <div class="blogrequest green">
             <div id="toggleformdiv">
                 {% if page.request_image %}<img src="{{ page.request_image }}" />{% endif %}
