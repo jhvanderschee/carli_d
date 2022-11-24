@@ -23,7 +23,7 @@ tags:
   - groene-communicatiemiddelen
 order: 1
 ---
-<br><br>Deze praktische, op maat gemaakte en&nbsp;[duurzaam geproduceerde](https://frisseplannen.nl/blogs/certificeringen/){: target="_blank"}&nbsp;gids helpt de bewoners van jouw gemeente te begrijpen wat de eerste stap is naar aardgasvrij wonen (=isoleren) en hoe/waar ze dit kunnen toepassen op hun eigen woning. Op een laagdrempelige en frisse manier, zonder dat ze overspoelt raken door alle informatie die online staat.
+![](/uploads/tekst-over-groene-vlak-1.jpg){: width="2739" height="252"}<br><br>Deze praktische, op maat gemaakte en&nbsp;[duurzaam geproduceerde](https://frisseplannen.nl/blogs/certificeringen/){: target="_blank"}&nbsp;gids helpt de bewoners van jouw gemeente te begrijpen wat de eerste stap is naar aardgasvrij wonen (=isoleren) en hoe/waar ze dit kunnen toepassen op hun eigen woning. Op een laagdrempelige en frisse manier, zonder dat ze overspoelt raken door alle informatie die online staat.
 
 #### *‘De informatie is erg uitgebreid (en precies) en ik merk dat het bewoners aanspreekt om te lezen dat dorpsgenoten met dezelfde problemen kampen en hier oplossingen voor hebben gevonden’<br>Erwin de Boer - Energieadviseur gemeente Ameland*
 
