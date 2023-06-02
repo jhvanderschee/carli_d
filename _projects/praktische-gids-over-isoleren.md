@@ -29,6 +29,6 @@ order: 1
 
 <br>De QR-codes verwijzen o.a. naar specifieke webpagina's van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal. Alle informatie in de gids komt overeen met deze bestaande informatiekanalen.<br>​​​​​​<br>De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog, Terschelling, Ooststellingwerf en Tynaarlo zijn al in het bezit van deze praktische gids. Een gids voor gemeente Nijkerk en Súdwest-Fryslân*&nbsp;*is in ontwikkeling.
 
-Zie video over gids:&nbsp;[https://player.vimeo.com/video/832235256?h=256babdbba](https://player.vimeo.com/video/832235256?h=256babdbba){: target="_blank"}<br><br>Meer informatie?&nbsp;[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank"}
+Zie video over gids:&nbsp;<br>[https://player.vimeo.com/video/832235256?h=256babdbba](https://player.vimeo.com/video/832235256?h=256babdbba){: target="_blank"}<br><br>Meer informatie?&nbsp;<br>[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank"}
 
 Of vraag hieronder een sample gids aan.
