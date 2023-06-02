@@ -22,15 +22,13 @@ tags:
   - discussieren
   - motiveren
   - visualiseren
-order: '2'
+order: '50'
 ---
 Door samen te discussiëren en oplossingen te bedenken, creëer je draagvlak en &nbsp;ontstaan er nieuwe inzichten.
 
 **Modulair**<br>De bovenste plaat met opdruk kan gemakkelijk worden vervangen, zodat de tafel ook weer gebruikt kan worden voor een volgend project.
 
 **Circulair**<br>De tafel wordt (indien gewenst) ingenomen voor hergebruik. &nbsp;
-
-
 
 <br>**Specificaties**<br>De tafel kan ingesteld worden op kinderhoogte, zithoogte en stahoogte.
 
