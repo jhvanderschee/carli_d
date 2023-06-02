@@ -31,4 +31,4 @@ order: 1
 
 Zie video over gids:&nbsp;<br>[https://player.vimeo.com/video/832235256?h=256babdbba](https://player.vimeo.com/video/832235256?h=256babdbba){: target="_blank"}<br><br>Meer informatie?&nbsp;<br>[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank"}
 
-Of vraag hieronder een sample gids aan.
+<br>Of vraag hieronder een sample gids aan.
