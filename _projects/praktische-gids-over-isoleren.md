@@ -15,7 +15,7 @@ request_cta: Aanvragen
 request_on_top: false
 client_title:
 client:
-client_image: /uploads/alle-gidsen-bij-elkaar.jpg
+client_image: ''
 bgcolor: lightgray
 tags:
   - visualiseren
@@ -27,7 +27,7 @@ order: 1
 
 #### *‘De informatie is erg uitgebreid (en precies) en ik merk dat het bewoners aanspreekt om te lezen dat dorpsgenoten met dezelfde problemen kampen en hier oplossingen voor hebben gevonden’<br>Erwin de Boer - Energieadviseur gemeente Ameland*
 
-<br>De QR-codes verwijzen o.a. naar specifieke webpagina's van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal. Alle informatie in de gids komt overeen met deze bestaande informatiekanalen.<br>​​​​​​<br>De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog, Terschelling, Ooststellingwerf, Tynaarlo, Súdwest-Fryslân en Heerenveen zijn al in het bezit van deze praktische gids. Een gids voor gemeente Nijkerk ​​is in ontwikkeling.
+<br>De QR-codes verwijzen o.a. naar specifieke webpagina's van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal. Alle informatie in de gids komt overeen met deze bestaande informatiekanalen.<br>​​​​​​<br>![](/uploads/alle-gidsen-bij-elkaar.jpg){: width="1122" height="709"}<br>De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog, Terschelling, Ooststellingwerf, Tynaarlo, Súdwest-Fryslân en Heerenveen zijn al in het bezit van deze praktische gids. Een gids voor gemeente Nijkerk ​​is in ontwikkeling.
 
 Zie video over gids:&nbsp;<br>[https://player.vimeo.com/video/832235256?h=256babdbba](https://player.vimeo.com/video/832235256?h=256babdbba){: target="_blank"}<br><br>Meer informatie?&nbsp;<br>[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank"}
 
