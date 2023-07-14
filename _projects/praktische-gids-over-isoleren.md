@@ -27,7 +27,7 @@ DE SLIMME ISOLATIEGIDS:<br>\- ontzorgt de gemeente<br>\- helpt bij het behalen v
 
 **EIGENSCHAPPEN:**<br>\- A5-formaat, 40 pagina's<br>\- duurzaam geproduceerd<br>\- binnen 6 weken geleverd op 1 adres<br>\- indien gewenst met NAW-gegevens<br>\- deel 1 van 3 op weg naar aardgasvrij<br>
 
-# Meer dan 60.000 bewoners zijn al geholpen!<br>
+# Meer dan 60.000 bewoners zijn al geholpen bij het isoleren van hun huis!<br>
 
 <br>Maak een vrijblijvende belafspraak met Calendly &gt;&gt;
 
