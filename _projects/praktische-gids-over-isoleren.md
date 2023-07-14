@@ -33,7 +33,7 @@ DE GIDS:<br>\- ontzorgt de gemeente<br>\- helpt bij het behalen van de RES-doels
 
 EIGENSCHAPPEN:<br>\- op maat gemaakt voor jouw gemeente<br>\- duurzaam geproduceerd<br>\- heldere content die overeenkomt met bestaande kanalen<br>\- handige QR-codes naar specifieke pagina's<br>\- eerste stap naar aardgasvrij (tweede en derde stap volgen later, indien gewenst)
 
-<br>
+# Meer dan 60.000 bewoners<br>
 
 Maak een belafspraak met Calendly &gt;&gt;
 
