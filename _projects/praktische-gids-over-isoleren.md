@@ -29,6 +29,6 @@ order: 1
 
 **Eigenschappen**<br>\- A5-formaat, 40 pagina's<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 6 weken geleverd op 1 adres<br>\- indien gewenst met NAW-gegevens<br>\- deel 1 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank"}<br>\- [download Veel gestelde vragen &gt;&gt;](/uploads/De-Slimme-Isolatiegids_Frisse-vragen.pdf){: target="_blank" rel="noopener"}<br>
 
-# Meer dan 60.000 bewoners zijn al geholpen bij het isoleren van hun woning.
+# Meer dan 60.000 bewoners zijn al geholpen door De Slimme Isolatiegids.
 
 <br><br><br>[![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)
