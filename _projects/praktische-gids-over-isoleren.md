@@ -1,6 +1,6 @@
 ---
 title: De Slimme Isolatiegids
-subtitle: Gids op maat
+subtitle: Gemeentegids op maat
 image: /uploads/alle-covers-1.gif
 vimeo_id:
 images:
@@ -27,8 +27,14 @@ order: 1
 
 #### *‘De informatie is erg uitgebreid (en precies) en ik merk dat het bewoners aanspreekt om te lezen dat dorpsgenoten met dezelfde problemen kampen en hier oplossingen voor hebben gevonden’<br>Erwin de Boer - Energieadviseur gemeente Ameland*
 
-<br>De QR-codes verwijzen o.a. naar specifieke webpagina's van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal. Alle informatie in de gids komt overeen met deze bestaande informatiekanalen.<br>​​​​​​<br>De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog, Terschelling, Ooststellingwerf, Tynaarlo, Súdwest-Fryslân en Heerenveen zijn al in het bezit van deze praktische gids. Een gids voor gemeente Nijkerk ​​is in ontwikkeling.
+<br>De QR-codes verwijzen o.a. naar specifieke webpagina's van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal. Alle informatie in de gids komt overeen met deze bestaande informatiekanalen.<br>​​​​​​<br>De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog, Terschelling, Ooststellingwerf, Tynaarlo, Súdwest-Fryslân, Heerenveen en Nijkerk zijn al in het bezit van deze praktische gids.&nbsp;
 
-Zie video over gids:&nbsp;<br>[https://player.vimeo.com/video/832235256?h=256babdbba](https://player.vimeo.com/video/832235256?h=256babdbba){: target="_blank"}<br><br>Meer informatie?&nbsp;<br>[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank"}
+EIGENSCHAPPEN<br>\- op maat gemaakt voor jouw gemeente<br>\- duurzaam geproduceerd<br>\- heldere content die overeenkomt met bestaande kanalen<br>\- handige QR-codes naar specifieke pagina's<br>\- eerste stap naar aardgasvrij (tweede en derde stap volgen later, indien gewenst)
 
-<br>Of vraag hieronder een sample gids aan.
+DIT BRENGT DE GIDS TEWEEG<br>\- ontzorgt de gemeente<br>\- helpt bij het behalen van de RES-doelstellingen<br>\- concrete hulp voor bewoners op weg naar aardasvrij<br>\- helder naslagwerk voor komende jaren<br>
+
+Maak een belafspraak met Calendly &gt;&gt;
+
+[Zie video over gids &gt;&gt;](https://player.vimeo.com/video/832235256?h=256babdbba)<br><br>Meer informatie?&nbsp;[Download productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank"}
+
+<br>Vraag hieronder vrijblijvend een sample gids aan.
