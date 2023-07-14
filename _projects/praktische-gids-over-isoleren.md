@@ -23,7 +23,7 @@ tags:
   - groene-communicatiemiddelen
 order: 1
 ---
-DE SLIMME ISOLATIEGIDS:<br>\- ontzorgt de gemeente<br>\- helpt bij het behalen van de RES-doelstellingen<br>\- wordt op maat gemaakt (kleuren, lettertypes, lokale interviews)<br>\- biedt concrete hulp aan bewoners op de eerste stap naar aardasvrij (isoleren)<br>\- bevat heldere content die overeenkomt met bestaande kanalen<br>​​​​​​- heeft handige QR-codes naar specifieke pagina's<br>\- is een helder naslagwerk voor de komende jaren
+DE SLIMME ISOLATIEGIDS:<br>\- ontzorgt de gemeente<br>\- helpt bij het behalen van de RES-doelstellingen<br>\- wordt op maat gemaakt (kleuren, lettertypes, lokale interviews)<br>\- biedt concrete en laagdrempelige hulp bij isoleren<br>\- bevat heldere content die overeenkomt met bestaande kanalen<br>​​​​​​- heeft handige QR-codes naar specifieke pagina's<br>\- is een helder naslagwerk voor de komende jaren
 
 EIGENSCHAPPEN:<br>\- A5-formaat, 40 pagina's<br>\- duurzaam geproduceerd<br>\- binnen 6 weken geleverd op 1 adres<br>\- indien gewenst met NAW-gegevens<br>\- deel 1 van 3 op weg naar aardgasvrij<br>
 
