@@ -1,7 +1,7 @@
 ---
 title: De Slimme Isolatiegids
 subtitle: Praktische gids
-image: /uploads/isolatiegids-cover-9.jpg
+image: /uploads/test.gif
 vimeo_id:
 images:
   - image: /uploads/isolatiegids-warmtescan.jpg
