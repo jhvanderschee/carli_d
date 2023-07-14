@@ -31,4 +31,4 @@ order: 1
 
 # Meer dan 60.000 bewoners zijn al geholpen bij het isoleren van hun woning.
 
-<br><br><br>![](/uploads/knoppen-32-1.svg){: width="300" height="56"}
+<br><br><br>[![](/uploads/knoppen-32-1.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)
