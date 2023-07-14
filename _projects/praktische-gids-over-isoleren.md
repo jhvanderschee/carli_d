@@ -29,9 +29,9 @@ order: 1
 
 <br>De QR-codes verwijzen o.a. naar specifieke webpagina's van jullie gemeente, Duurzaam Bouwloket en MilieuCentraal. Alle informatie in de gids komt overeen met deze bestaande informatiekanalen.<br>​​​​​​<br>De bewoners van gemeente Ameland, Vlieland, Schiermonnikoog, Terschelling, Ooststellingwerf, Tynaarlo, Súdwest-Fryslân, Heerenveen en Nijkerk zijn al in het bezit van deze praktische gids.&nbsp;
 
-DE GIDS:<br>\- ontzorgt de gemeente<br>\- helpt bij het behalen van de RES-doelstellingen<br>\- biedt concrete hulp aan bewoners op de eerste stap naar aardasvrij (isoleren)<br>\- is een helder naslagwerk voor de komende jaren
+DE SLIMME ISOLATIEGIDS:<br>\- ontzorgt de gemeente<br>\- helpt bij het behalen van de RES-doelstellingen<br>\- wordt op maat gemaakt (kleuren, lettertypes, lokale interviews)<br>\- biedt concrete hulp aan bewoners op de eerste stap naar aardasvrij (isoleren)<br>\- bevat heldere content die overeenkomt met bestaande kanalen<br>​​​​​​- heeft handige QR-codes naar specifieke pagina's<br>\- is een helder naslagwerk voor de komende jaren
 
-EIGENSCHAPPEN:<br>\- op maat gemaakt voor jouw gemeente<br>\- duurzaam geproduceerd<br>\- heldere content die overeenkomt met bestaande kanalen<br>\- handige QR-codes naar specifieke pagina's<br>\- eerste stap naar aardgasvrij (tweede en derde stap volgen later, indien gewenst)
+EIGENSCHAPPEN:<br>\- A5-formaat, 40 pagina's<br>\- duurzaam geproduceerd<br>\- binnen 6 weken geleverd op 1 adres<br>\- indien gewenst met NAW-gegevens<br>
 
 # Meer dan 60.000 bewoners<br>
 
