@@ -1,6 +1,6 @@
 ---
 title: De Slimme Isolatiegids
-subtitle: Praktische gids
+subtitle: Gids op maat
 image: /uploads/Alle-covers.gif
 vimeo_id:
 images:
