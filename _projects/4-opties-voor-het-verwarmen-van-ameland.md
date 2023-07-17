@@ -1,7 +1,7 @@
 ---
 title: 4 opties voor het verwarmen van Ameland
 subtitle: Infographic en Animatie
-image: /uploads/hoge-temp.jpg
+image: /uploads/hoge-temp-1.jpg
 vimeo_id:
 images:
   - image: /uploads/krinkels-04.jpg
