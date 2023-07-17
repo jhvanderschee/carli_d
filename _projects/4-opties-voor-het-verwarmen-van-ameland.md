@@ -5,7 +5,7 @@ image: /uploads/hoge-temp-ingezoomd-1.jpg
 vimeo_id:
 images:
   - image: /uploads/3-opties.jpg
-  - image: /uploads/folder-techniek.png
+  - image: /uploads/detail.jpg
   - image: /uploads/folder-startinformatie.png
 description: >-
   Net als alle gemeenten moet Ameland bedenken hoe alle woningen te verwarmen
