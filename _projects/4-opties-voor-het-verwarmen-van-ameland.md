@@ -4,7 +4,7 @@ subtitle: Infographics en Animaties
 image: /uploads/hoge-temp-ingezoomd-1.jpg
 vimeo_id:
 images:
-  - image: /uploads/3-opties.jpg
+  - image: /uploads/3-opties-1.jpg
   - image: /uploads/detail.jpg
   - image: /uploads/folder-startinformatie.png
 description: >-
