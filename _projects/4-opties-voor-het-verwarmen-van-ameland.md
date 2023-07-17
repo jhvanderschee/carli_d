@@ -1,5 +1,5 @@
 ---
-title: Opties voor het verwarmen van Ameland
+title: Ameland slim verwarmen
 subtitle: Infographics en Animaties
 image: /uploads/hoge-temp-ingezoomd-1.jpg
 vimeo_id:
