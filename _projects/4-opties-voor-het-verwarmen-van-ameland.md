@@ -4,7 +4,7 @@ subtitle: Infographic en Animatie
 image: /uploads/Hoge-temp.jpg
 vimeo_id:
 images:
-  - image: /uploads/krinkels-04.jpg
+  - image: /uploads/3-opties.jpg
 description: >-
   Net als alle gemeenten moet Ameland nadenken hoe alle woningen te verwarmen
   zonder aardgas te verbruiken. Ameland wil dit 15 jaar eerder doen dan de rest
