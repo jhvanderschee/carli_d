@@ -25,8 +25,6 @@ De gemeente onderzoekt nu vier mogelijke opties. Het gaat om technische en compl
 
 Onderstaand de animaties die zijn gemaakt van de infograhics. Deze zijn zonder begeleiding van een techneut te bekijken en te begrijpen.
 
-![](/uploads/knoppen-34-1.svg){: width="300" height="90"}&nbsp;![](/uploads/knoppen-35-1.svg){: width="300" height="90"}
-
 ![](/uploads/filmpje1.jpg){: width="1000" height="557"}
 
 ![](/uploads/filmpje2.jpg){: width="1909" height="1064"}
