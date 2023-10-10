@@ -33,4 +33,4 @@ Onderstaand de animaties die zijn gemaakt van de infograhics. Deze zijn zonder b
 
 ![](/uploads/filmpje4.jpg){: width="1000" height="557"}
 
-GEMAAKTE COMMUNICATIEMIDDELEN<br>De vier opties zijn als infographic verbeeld op vier **praatplaten**. Platen waar je met een groep techneuten/bewoners omheen kunt staan en een gesprek over kunt voeren. Er is een **folder** die huis-aan-huis wordt verspreid, zodat de bewoners weten wat er gaat gebeuren en hoe ze mee kunnen beslissen. En vier **animaties** die de praatplaten stap voor stap uitleggen.
+GEMAAKTE COMMUNICATIEMIDDELEN<br>De opties zijn als infographic verbeeld op vier **praatplaten**. Platen waar je met een groep techneuten of bewoners omheen kunt staan en een gesprek over kunt voeren. Er is een **folder** die huis-aan-huis wordt verspreid, zodat de bewoners weten wat er gaat gebeuren en hoe ze mee kunnen beslissen. En vier **animaties**&nbsp;voor op de website, die de mogelijke opties stap voor stap uitleggen.
