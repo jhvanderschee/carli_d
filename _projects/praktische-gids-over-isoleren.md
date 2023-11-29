@@ -27,8 +27,6 @@ order: 1
 
 [![](/uploads/knoppen-33-33.svg){: width="300" height="90"}](https://vimeo.com/845903129?share=copy)
 
-**Belangrijke eigenschappen**<br>\- A5-formaat, 40 pagina's<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 6 weken geleverd op 1 adres<br>\- indien gewenst met NAW-gegevens<br>\- deel 1 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank"}<br>\- [download Veelgestelde vragen &gt;&gt;](/uploads/De-Slimme-Isolatiegids_Frisse-vragen.pdf){: target="_blank" rel="noopener"}
+**Belangrijke eigenschappen**<br>\- A5-formaat, ± 40 pagina's<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 6 weken geleverd op 1 adres<br>\- indien gewenst met NAW-gegevens<br>\- deel 1 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank"}<br>\- [download Veelgestelde vragen &gt;&gt;](/uploads/De-Slimme-Isolatiegids_Frisse-vragen.pdf){: target="_blank" rel="noopener"}
 
 # Meer dan 95.000 huishoudens zijn al geholpen bij het isoleren van hun woning door De Slimme Isolatiegids.
-
-<br><br>
