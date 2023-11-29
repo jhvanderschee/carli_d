@@ -29,8 +29,8 @@ order: 1
 
 **Kenmerken**<br>\- A5-formaat, ± 40 pagina's<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 6 weken geleverd op 1 adres<br>\- indien gewenst met NAW-gegevens<br>\- deel 1 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank"}<br>\- [download Veelgestelde vragen &gt;&gt;](/uploads/De-Slimme-Isolatiegids_Frisse-vragen.pdf){: target="_blank" rel="noopener"}
 
-# &gt;95.000 huishoudens zijn al geholpen door De Slimme Isolatiegids
+# &gt; 95.000 huishoudens zijn al geholpen bij het isoleren van hun woning
 
-<br>**Gemeenten die u voorgingen:**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk en Gooise Meren.
+<br><br>**Gemeenten die u voorgingen:**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk en Gooise Meren.
 
 Vraag hieronder een sample gids aan als u de gids fysiek wilt ontvangen om in te kunnen kijken.
