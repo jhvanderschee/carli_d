@@ -33,4 +33,4 @@ order: 1
 
 <br><br>**Gemeenten die u voorgingen:**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk en Gooise Meren.
 
-Vraag hieronder een sample gids aan als u de gids fysiek wilt ontvangen om in te kunnen kijken.
+*Vraag hieronder een sample gids aan als u de gids fysiek wilt ontvangen om in te kunnen kijken.*
