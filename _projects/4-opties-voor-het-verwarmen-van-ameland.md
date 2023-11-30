@@ -1,6 +1,6 @@
 ---
 title: Ameland slim verwarmen
-subtitle: Infographics en Animaties
+subtitle: 'Infographics '
 image: /uploads/hoge-temp-ingezoomd-1.jpg
 vimeo_id:
 images:
