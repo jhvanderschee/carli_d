@@ -31,8 +31,6 @@ order: 2
 
 # &gt; 95.000 huishoudens zijn al geholpen bij het isoleren van hun woning
 
-<br><br>**Gemeenten die u voorgingen:**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk en Gooise Meren.
-
-![](/uploads/3-magazines-op-elkaar.jpg){: width="3375" height="1696"}
+<br>![](/uploads/3-magazines-op-elkaar.jpg){: width="3375" height="1696"}<br>**Gemeenten die u voorgingen:**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk en Gooise Meren.
 
 *Vraag hieronder een sample gids aan als u de gids fysiek wilt ontvangen.*
