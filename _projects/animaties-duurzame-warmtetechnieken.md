@@ -1,7 +1,7 @@
 ---
 title: Animaties duurzame warmtetechnieken
 subtitle: Animaties
-image: /uploads/animation1.jpg
+image: /uploads/warmtepomp-individueel-low.gif
 vimeo_id: '889537648'
 images:
   - image: /uploads/folder-startinformatie.png
