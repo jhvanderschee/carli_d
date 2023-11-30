@@ -4,7 +4,10 @@ subtitle: Animaties
 image: /uploads/startanimatie-low.gif
 vimeo_id: '889537648'
 images:
-  - image: /uploads/folder-startinformatie.png
+  - image: /uploads/geothermie-low.gif
+  - image: /uploads/warmtepomp-individueel-low.gif
+  - image: /uploads/waterstof-low.gif
+  - image: /uploads/warmtepomp-collectief-low.gif
 description: >-
   Net als alle gemeenten moet Ameland bedenken hoe alle woningen te verwarmen
   zonder aardgas te verbruiken. Ameland wil dit 15 jaar sneller doen dan de rest
