@@ -1,7 +1,7 @@
 ---
 title: Animaties duurzame warmtetechnieken
 subtitle: Animaties
-image: /uploads/startanimatie-low.gif
+image: /uploads/startanimatie-low-1.gif
 vimeo_id: '889537648'
 images:
   - image: /uploads/geothermie-low.gif
