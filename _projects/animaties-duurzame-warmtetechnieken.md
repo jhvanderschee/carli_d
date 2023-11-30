@@ -4,9 +4,7 @@ subtitle: Animaties
 image: /uploads/startanimatie-low-1.gif
 vimeo_id: '889537648'
 images:
-  - image: /uploads/geothermie-low.gif
   - image: /uploads/warmtepomp-individueel-low.gif
-  - image: /uploads/waterstof-low.gif
   - image: /uploads/warmtepomp-collectief-low.gif
 description: >-
   Net als alle gemeenten moet Ameland bedenken hoe alle woningen te verwarmen
