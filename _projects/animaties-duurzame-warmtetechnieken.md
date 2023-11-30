@@ -25,7 +25,7 @@ Omdat er niet één simpele oplossing is die de hele warmtevraag oplost, is er e
 
 Klik op onderstaande animaties voor meer informatie:
 
-<br>[**Hoge temperatuur warmtenet<br>met diepe geothermie als bron**&nbsp;<br>![](/uploads/geothermie-high.gif){: width="739" height="415"}](https://vimeo.com/manage/videos/889537243)<br><br>[**Duurzaam geproduceerde waterstof<br>in bestaande gasleidingen**<br>![](/uploads/waterstof-high.gif){: width="739" height="415"}](https://vimeo.com/manage/videos/889539017){: target="_blank" rel="noopener"}
+<br>[**Hoge temperatuur warmtenet<br>met diepe geothermie als bron**&nbsp;<br>![](/uploads/geothermie-high.gif){: width="739" height="415"}](https://vimeo.com/manage/videos/889537243)<br><br>[**Duurzaam geproduceerde waterstof<br>in bestaande gasleidingen**<br>![](/uploads/waterstof-high-2.gif){: width="739" height="415"}](https://vimeo.com/manage/videos/889539017){: target="_blank" rel="noopener"}
 
 [**Elektrificatie door middel van<br>individuele warmtepompen**<br><br>![](/uploads/warmtepomp-individueel-high.gif){: width="739" height="415"}](https://vimeo.com/889538544?share=copy){: target="_blank" rel="noopener"}
 
