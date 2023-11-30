@@ -20,4 +20,8 @@ tags:
   - groene-communicatiemiddelen
 order: 1
 ---
-Testpagina
+Omdat er niet één simpele oplossing is die de hele warmtevraag oplost, is er een combinatie aan technieken nodig. Maar wat past het beste bij Ameland? Ameland onderzoekt 4 mogelijke alternatieven voor aardgas.
+
+Klik op onderstaande animaties voor meer informatie:
+
+[![](/uploads/geothermie-high.gif){: width="739" height="415"}](https://vimeo.com/manage/videos/889537243){: target="_blank" rel="noopener"}
