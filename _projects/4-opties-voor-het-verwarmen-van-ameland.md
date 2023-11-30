@@ -19,7 +19,7 @@ tags:
   - motiveren
   - visualiseren
   - groene-communicatiemiddelen
-order: 1
+order: 3
 ---
 De gemeente onderzoekt nu vier mogelijke opties. Het gaat om technische en complexe oplossingen. Omdat de bewoners een grote rol spelen in de beslissing welke optie het gaat worden, moet iedereen begrijpen wat de opties precies inhouden. Wat betekent het voor de mensen thuis? Wat moet er gebeuren op straatniveau? Waar liggen de kosten? Waar liggen de gevaren? Wat weten we al? Wat moet nog onderzocht worden?
 
