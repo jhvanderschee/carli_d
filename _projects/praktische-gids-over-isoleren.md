@@ -1,7 +1,7 @@
 ---
 title: De Slimme Isolatiegids
 subtitle: Gemeentegids op maat
-image: /uploads/isolatiegids-cover-9.jpg
+image: /uploads/isolatieboekje-1.jpg
 vimeo_id:
 images:
   - image: /uploads/isolatiegids-warmtescan.jpg
@@ -33,6 +33,6 @@ order: 2
 
 <br><br>**Gemeenten die u voorgingen:**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk en Gooise Meren.
 
-![](/uploads/alle-gidsen-bij-elkaar.jpg)
+![](/uploads/3-magazines-op-elkaar.jpg){: width="3375" height="1696"}
 
 *Vraag hieronder een sample gids aan als u de gids fysiek wilt ontvangen.*
