@@ -4,9 +4,8 @@ subtitle: Animaties
 image: /uploads/startanimatie-high-1.gif
 vimeo_id: '889537648'
 images:
-  - image: /uploads/warmtepomp-individueel-high.gif
-  - image: /uploads/warmtepomp-collectief-high.gif
-  - image: /uploads/waterstof-high-3.gif
+  - image: ''
+  - image: ''
 description: >-
   Net als alle gemeenten moet Ameland bedenken hoe alle woningen te verwarmen
   zonder aardgas te verbruiken. Ameland wil dit 15 jaar sneller doen dan de rest
