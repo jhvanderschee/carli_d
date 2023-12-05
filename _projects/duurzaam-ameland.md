@@ -21,3 +21,4 @@ tags:
   - groene-communicatiemiddelen
 order: 5
 ---
+Bezoekers vinden op de website onder andere meer informatie over **waarom**&nbsp;ze met Duurzaam Ameland inzetten op slim besparen, opwekken, opslaan, verwarmen en verbinden. **Hoe**&nbsp;ze dat doen en wat inwoners **zelf** kunnen **doen**. Per onderdeel zijn **veelgestelde vragen & antwoorden** te vinden. Daarnaast zijn **animatievideo’s** over mogelijke alternatieven voor aardgas te vinden en is de site aangepast aan de eisen rond gebruiksvriendelijkheid. De website wordt nog uitgebreid met een Duits en Engelstalig deel.
