@@ -4,7 +4,7 @@ subtitle: Productsheets
 image: /uploads/bureau-de-werkvloer.jpg
 vimeo_id:
 images:
-  - image: /uploads/3-opties-1.jpg
+  - image: /uploads/bureau-de-werkvloer2.jpg
 description: >-
   Soms vraagt een dienst om een heldere uitleg. Dan is als je het vertelt
   complex, maar als je het laat zien zo klaar als een klontje. 
