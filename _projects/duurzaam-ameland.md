@@ -4,7 +4,8 @@ subtitle: Website
 image: /uploads/minimal-website-mockup-duurzaam-ameland.jpg
 vimeo_id:
 images:
-  - image: /uploads/3-opties-1.jpg
+  - image: /uploads/duurzame-amelanders.jpg
+  - image: /uploads/zelf-doen.jpg
 description: >-
   Ameland wil koploper zijn in de energietransitie en in 2035 volledig over zijn
   op duurzame energie. De overstap naar een duurzaam energiesysteem kunnen ze
