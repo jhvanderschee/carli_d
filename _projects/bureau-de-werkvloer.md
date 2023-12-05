@@ -6,7 +6,7 @@ vimeo_id:
 images:
   - image: /uploads/bureau-de-werkvloer2.jpg
 description: >-
-  Soms vraagt een dienst om een heldere uitleg. Dan is als je het vertelt
+  Soms vraagt een dienst om een heldere uitleg. Dan is het als je het vertelt
   complex, maar als je het laat zien zo klaar als een klontje. 
 client_title:
 client:
