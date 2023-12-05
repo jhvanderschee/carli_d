@@ -6,9 +6,11 @@ vimeo_id:
 images:
   - image: /uploads/3-opties-1.jpg
 description: >-
-  Net als alle gemeenten moet Ameland bedenken hoe alle woningen te verwarmen
-  zonder aardgas te verbruiken. Ameland wil dit 15 jaar sneller doen dan de rest
-  van Nederland.
+  Ameland wil koploper zijn in de energietransitie en in 2035 volledig over zijn
+  op duurzame energie. De overstap naar een duurzaam energiesysteem kunnen ze
+  alleen maar samen maken en raakt iedereen.  Des te belangrijker dat inwoners
+  en andere betrokkenen over relevante informatie kunnen beschikken. Deze nieuwe
+  website geeft hier invulling aan. 
 client_title:
 client:
 client_image:
