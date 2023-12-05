@@ -6,6 +6,7 @@ vimeo_id:
 images:
   - image: /uploads/duurzame-amelanders.jpg
   - image: /uploads/zelf-doen.jpg
+  - image: /uploads/slim-besparen.jpg
 description: >-
   Ameland wil koploper zijn in de energietransitie en in 2035 volledig over zijn
   op duurzame energie. De overstap naar een duurzaam energiesysteem kunnen ze
