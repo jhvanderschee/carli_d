@@ -1,5 +1,5 @@
 ---
-title: Duurzaam Ameland
+title: Website Duurzaam Ameland
 subtitle: Website
 image: /uploads/minimal-website-mockup-duurzaam-ameland.jpg
 vimeo_id:
