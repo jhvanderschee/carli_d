@@ -18,9 +18,8 @@ tags:
   - motiveren
   - discussieren
   - visualiseren
-order: 3
+order: 8
 ---
-
 In augustus 2019 zullen er 24.000 exemplaren verspreid worden op de eilanden én daarbuiten. Een geweldige opdracht waarbij duidelijk is geworden dat de betrokkenheid van de eilander inwoners en bedrijven het verschil maakt in de energietransitie.
 
 De helft van de achterpagina van de krant kan je los knippen en vouwen tot een handig boekje. Een boekje volle snelle bespaartips.
