@@ -19,3 +19,7 @@ tags:
 order: 3
 ---
 Bureau de werkvloer wilde een aantal diensten op een heldere manier verbeelden om nieuwe opdrachtgevers te werven.
+
+Bureau de werkvloer zorgt voor inclusie binnen bedrijven. In een inclusieve cultuur mag iedereen meedoen, meepraten en meebeslissen. Mensen kunnen zichzelf zijn en talent krijgt de ruimte. Problemen worden besproken en er is geen angstcultuur of grensoverschrijdend gedrag. De uitstroomcijfers worden verminderd, de organisatie is toekomstbestendig en iedereen in de organisatie is gelukkiger.
+
+Dit doen zij door middel van online games, trainingen en presentaties.&nbsp;
