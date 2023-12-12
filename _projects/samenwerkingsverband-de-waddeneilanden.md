@@ -25,4 +25,4 @@ tags:
   - groene-communicatiemiddelen
 order: 3
 ---
-Frisse Plannen heeft op een heldere manier verbeeld wat de programmalijnen zijn. Er zijn simpele versies ontworpen voor klein gebruik en uitgebreidere versies voor groot gebruik.&nbsp;
+Frisse Plannen heeft op een heldere manier verbeeld wat de programmalijnen zijn. En een stijl ontworpen die breed door te voeren is. Er is een simpele versie van de programmalijnen ontworpen voor klein gebruik en uitgebreidere versies voor groot gebruik.&nbsp;
