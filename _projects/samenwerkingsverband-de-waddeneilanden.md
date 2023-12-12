@@ -1,6 +1,6 @@
 ---
 title: Samenwerkingsverband De Waddeneilanden
-subtitle: xxxx
+subtitle: Infographic
 image: /uploads/sdw1-1.jpg
 vimeo_id:
 images:
