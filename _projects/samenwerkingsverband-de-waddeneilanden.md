@@ -23,6 +23,6 @@ tags:
   - motiveren
   - visualiseren
   - groene-communicatiemiddelen
-order: 3
+order: 8
 ---
 Frisse Plannen heeft op een heldere manier verbeeld wat de programmalijnen zijn. En een stijl ontworpen die breed door te voeren is. Er is een simpele versie van de programmalijnen ontworpen voor klein gebruik en uitgebreidere versies voor groot gebruik.&nbsp;
