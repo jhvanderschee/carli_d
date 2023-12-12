@@ -8,9 +8,13 @@ images:
   - image: /uploads/sdw3.jpg
   - image: /uploads/sdw4.jpg
 description: >-
-  Net als alle gemeenten moet Ameland bedenken hoe alle woningen te verwarmen
-  zonder aardgas te verbruiken. Ameland wil dit 15 jaar sneller doen dan de rest
-  van Nederland.
+  De vijf Waddeneilanden hebben elk een eigen gemeenschap met unieke kenmerken.
+  In deze tijd van schaalvergroting is die gemeenschap waardevol maar ook
+  kwetsbaar. Juist daarom is het zo belangrijk om de uitdagingen en opgaven die
+  de eilanden verbindt gezamenlijk aan te gaan waar dat mogelijk en wenselijk
+  is. Samen staan we sterker! Met het Programma Waddeneilanden wordt intensief
+  samen gewerkt aan het versterken van de brede welvaart, de bloeiende en
+  levendige gemeenschappen, op de eilanden.
 client_title:
 client:
 client_image:
@@ -21,3 +25,4 @@ tags:
   - groene-communicatiemiddelen
 order: 3
 ---
+Frisse Plannen heeft op een heldere manier verbeeld wat de programmalijnen zijn. Er zijn simpele versies ontworpen voor klein gebruik en uitgebreidere versies voor groot gebruik.&nbsp;
