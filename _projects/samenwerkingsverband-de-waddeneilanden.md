@@ -1,12 +1,12 @@
 ---
 title: Samenwerkingsverband De Waddeneilanden
 subtitle: Infographic
-image: /uploads/sdw1-1.jpg
+image: /uploads/sdw1-2.jpg
 vimeo_id:
 images:
-  - image: /uploads/sdw2.jpg
-  - image: /uploads/sdw3.jpg
-  - image: /uploads/sdw4.jpg
+  - image: /uploads/sdw2-1.jpg
+  - image: /uploads/sdw3-1.jpg
+  - image: /uploads/sdw4-1.jpg
 description: >-
   De vijf Waddeneilanden hebben elk een eigen gemeenschap met unieke kenmerken.
   In deze tijd van schaalvergroting is die gemeenschap waardevol maar ook
