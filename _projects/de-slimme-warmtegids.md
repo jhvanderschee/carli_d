@@ -1,7 +1,7 @@
 ---
 title: De Slimme Warmtegids
 subtitle: Gemeentegids op maat
-image: /uploads/twee-boekjes-bij-elkaar-2.jpg
+image: /uploads/mockup-cover-met-achtergrond.jpg
 vimeo_id:
 images:
   - image: /uploads/isolatiegids-warmtescan.jpg
@@ -29,7 +29,7 @@ De gids gaat verder in op het klaarmaken van de woning voor lage temperatuurverw
 
 [![](/uploads/knoppen-33-33.svg){: width="300" height="90"}](https://vimeo.com/845903129?share=copy)<br>
 
-**Kenmerken**<br>\- A5-formaat, ± 40 pagina's<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 6 weken op maat gemaakt en geleverd<br>\- indien gewenst met NAW-gegevens<br>\- deel 2 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank" rel="noopener"}<br>\- [download Veelgestelde vragen &gt;&gt;](/uploads/De-Slimme-Isolatiegids_Frisse-vragen.pdf){: target="_blank" rel="noopener"}
+**Kenmerken**<br>\- A5-formaat, ± 40 pagina's<br>\- [milieuvriendelijk geproduceerd](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 6 weken op maat gemaakt en geleverd<br>\- indien gewenst met NAW-gegevens<br>\- deel 2 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank" rel="noopener"}<br>\- [download Veelgestelde vragen &gt;&gt;](/uploads/De-Slimme-Isolatiegids_Frisse-vragen.pdf){: target="_blank" rel="noopener"}
 
 # &gt; 110.000 huishoudens zijn al geholpen bij het isoleren van hun woning (gids 1). Deze gids helpt bij de volgende stap.
 
