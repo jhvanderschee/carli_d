@@ -21,7 +21,7 @@ tags:
   - visualiseren
   - motiveren
   - groene-communicatiemiddelen
-order: 2
+order: 1
 ---
 [​​​​​​![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)
 
