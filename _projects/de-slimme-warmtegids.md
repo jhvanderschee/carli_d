@@ -27,7 +27,7 @@ De gids gaat verder in op het klaarmaken van de woning voor lage temperatuurverw
 
 [![](/uploads/knoppen-33-33.svg){: width="300" height="90"}](https://vimeo.com/845903129?share=copy)<br>
 
-**Kenmerken**<br>\- A5-formaat, ± 40 pagina's<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 6 weken op maat gemaakt en geleverd<br>\- indien gewenst met NAW-gegevens<br>\- deel 2 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://www.frisseplannen.nl/Productsheet_DeSlimmeWarmtegids.pdf){: target="_blank" rel="noopener"}<br>\- [download Veelgestelde vragen &gt;&gt;](/FrisseVragenenAntwoorden.pdf){: target="_blank" rel="noopener"}
+**Kenmerken**<br>\- A5-formaat, ± 40 pagina's<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 6 weken op maat gemaakt en geleverd<br>\- indien gewenst met NAW-gegevens<br>\- deel 2 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://www.frisseplannen.nl/Productsheet_DeSlimmeWarmtegids.pdf){: target="_blank" rel="noopener"}<br>\- [download Veelgestelde vragen &gt;&gt;](https://www.frisseplannen.nl/FrisseVragenenAntwoorden.pdf){: target="_blank" rel="noopener"}
 
 # &gt; 110.000 huishoudens zijn al geholpen bij het isoleren van hun woning (gids 1). Deze gids helpt bij de volgende stap.
 
