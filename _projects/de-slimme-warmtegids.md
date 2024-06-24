@@ -21,7 +21,7 @@ tags:
   - groene-communicatiemiddelen
 order: 2
 ---
-De gids gaat verder in op het klaarmaken van de woning voor lage temperatuurverwarming. En legt uit hoe een (hybride) warmtepomp werkt, welke warmtepomp het beste bij de woning past en hoe een warmtenet in elkaar zit. Wat te doen met een kapotte cv en waarom we eigenlijk overstappen naar duurzame bronnen. Naar wens zijn er uiteraard extra onderwerpen toe te voegen (of onderwerpen te schrappen)
+De gids gaat verder in op het klaarmaken van de woning voor lage temperatuur verwarming. En legt uit hoe een (hybride) warmtepomp werkt, welke warmtepomp het beste bij de woning past en hoe een warmtenet in elkaar zit. Wat te doen met een kapotte cv en waarom we eigenlijk overstappen naar duurzame bronnen. Naar wens zijn er uiteraard extra onderwerpen toe te voegen (of onderwerpen te schrappen)
 
 [​​​​​​![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)
 
