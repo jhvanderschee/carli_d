@@ -4,10 +4,10 @@ subtitle: Gemeentegids op maat
 image: /uploads/mockup-voor-website-1.jpg
 vimeo_id:
 images:
-  - image: /uploads/isolatiegids-warmtescan.jpg
+  - image: /uploads/cover-en-binnenpagina-3.jpg
   - image: /uploads/mockup-isolatie-vlieland-binnen3.jpg
   - image: /uploads/isolatiegids-vloerisolatie.jpg
-description: "Deze gids ontzorgt de gemeente en ondersteunt energiecoaches. Het brengt de TvW naar de praktijk. De gids wordt op maakt gemaakt (met huisstijl en lokale interviews) en biedt\_concrete en laagdrempelige hulp. Hij staat vol\_heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket, Milieu Centraal, etc.). Handige QR-codes helpen de bewoners verder. De gids kan de komende jaren gebruikt worden als naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging."
+description: "Deze gids is een vervolg op De Slimme Isolatiegids en ontzorgt de gemeente en ondersteunt energiecoaches. Het brengt de TvW naar de praktijk. De gids wordt op maakt gemaakt (met huisstijl en lokale interviews) en biedt\_concrete en laagdrempelige hulp. Hij staat vol\_heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket, Milieu Centraal, etc.). Handige QR-codes helpen de bewoners verder. De gids kan de komende jaren gebruikt worden als naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging."
 has_request: false
 request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
 request_title: Vraag, gratis en vrijblijvend, een sample gids aan
