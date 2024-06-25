@@ -33,4 +33,4 @@ order: 1
 
 <br>![](/uploads/6-magazine-bij-elkaar-zonder-tekst.jpg){: width="3375" height="1696"}<br>**Gemeenten die u voorgingen:**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren en Noordenveld.
 
-<br>**Vervolg op De Slimme Isolatiegids**<br>Aardgasvrij wonen vraagt om meer dan alleen isoleren. De volgende stap is de woning nog verder klaar maken voor lage temperatuur-verwarming. Deze stap kan gezet worden met de tweede gids; [Lees meer over De Slimme Warmtegids &gt;&gt;]()<br><br>![](/uploads/cover-en-binnenpagina-2.jpg){: width="2716" height="1596"}<br>​<br>*Vraag hieronder een fysieke sample aan van de eerste gids.*
+<br>**Vervolg op De Slimme Isolatiegids**<br>Aardgasvrij wonen vraagt om meer dan alleen isoleren. De volgende stap is de woning nog verder klaar maken voor lage temperatuur-verwarming. Deze stap kan gezet worden met de tweede gids; [Lees meer over De Slimme Warmtegids &gt;&gt;](/portfolio/de-slimme-warmtegids/)<br><br>![](/uploads/cover-en-binnenpagina-2.jpg){: width="2716" height="1596"}<br>​<br>*Vraag hieronder een fysieke sample aan van de eerste gids.*
