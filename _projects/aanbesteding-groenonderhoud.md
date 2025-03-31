@@ -19,8 +19,8 @@ tags:
   - motiveren
   - visualiseren
   - groene-communicatiemiddelen
-order: 6
+order: 7
 ---
-Frisse Plannen ontwerp met veel plezier deze plannen van aanpak. Dat komt omdat het altijd een uitdaging is om het plan zo vorm te geven dat het fijn is om te lezen en dat het begrijpelijk is wat er staat door middel van verbeelding (bijvoorbeeld door infographics, tijdlijnen, foto's, etc). Ook de tijdsdruk is prettig; zo blijft het proces lekker in beweging.
+Frisse Plannen ontwerp met veel plezier deze plannen van aanpak. Dat komt omdat het altijd een uitdaging is om het plan zo vorm te geven dat het fijn is om te lezen en dat het begrijpelijk is wat er staat door middel van verbeelding (bijvoorbeeld door infographics, tijdlijnen, foto’s, etc). Ook de tijdsdruk is prettig; zo blijft het proces lekker in beweging.
 
-Wil je ook geholpen worden met het helder overbrengen van jouw plan en meer kans maken op gunning van de aanbesteding? Frisse Plannen helpt jou graag\!
+Wil je ook geholpen worden met het helder overbrengen van jouw plan en meer kans maken op gunning van de aanbesteding? Frisse Plannen helpt jou graag!
