@@ -17,7 +17,7 @@ tags:
   - motiveren
   - visualiseren
   - groene-communicatiemiddelen
-order: 3
+order: 7
 ---
 Bureau de werkvloer wilde een aantal diensten op een heldere manier verbeelden om nieuwe opdrachtgevers te werven.
 
