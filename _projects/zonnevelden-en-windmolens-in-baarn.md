@@ -17,6 +17,6 @@ bgcolor: lightgray
 tags:
   - motiveren
   - identiteit
-order: '7'
+order: '6'
 ---
 Samen met Jacqueline van Druten (communicatieadviseur duurzaamheid) hebben we deze campagne bedacht. De Baarnaars schrokken wel een beetje van een zonneveld midden in het centrum of een windmolen in de woonwijk, maar dat was enkel om de aandacht te trekken. Het heeft dan ook voornamelijk tot fijne gesprekken geleid.&nbsp;
