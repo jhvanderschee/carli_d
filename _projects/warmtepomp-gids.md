@@ -1,7 +1,7 @@
 ---
 title: Warmtepomp-gids
 subtitle: Gemeentegids op maat
-image: /uploads/mockup-voor-website-3.jpg
+image: /uploads/mockup-voor-website-4.jpg
 vimeo_id:
 images:
   - image: /uploads/mockup-spread1-website.jpg
