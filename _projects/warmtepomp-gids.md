@@ -7,7 +7,14 @@ images:
   - image: /uploads/mockup-spread1-website.jpg
   - image: /uploads/mockup-spread2-website.jpg
   - image: /uploads/mockup-spread3-website.jpg
-description: 'Deze gids '
+description: >-
+  Deze gids ontzorgt de gemeente en ondersteunt energiecoaches. Het brengt de
+  TvW naar de praktijk. De gids wordt op maakt gemaakt (met huisstijl en lokale
+  interviews) en biedt concrete en laagdrempelige hulp bij het kiezen van een
+  warmtepomp. Hij staat vol heldere content die overeenkomt met bestaande
+  kanalen (Duurzaam Bouwloket, Milieu Centraal, etc.). Handige QR-codes helpen
+  de bewoners verder. De gids kan de komende jaren gebruikt worden als
+  naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging.
 has_request: false
 request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
 request_title: Vraag, gratis en vrijblijvend, een sample gids aan
