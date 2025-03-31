@@ -4,10 +4,10 @@ subtitle: Gemeentegids op maat
 image: /uploads/mockup-voor-website-3.jpg
 vimeo_id:
 images:
-  - image: /uploads/mockup-binnenpagina-hybride.jpg
   - image: /uploads/mockup-spread1-website.jpg
-  - image: ''
-description: "Deze gids is een vervolg op De Slimme Isolatiegids en ontzorgt de gemeente en ondersteunt energiecoaches. Het brengt de TvW naar de praktijk. De gids wordt op maakt gemaakt (met huisstijl en lokale interviews) en biedt\_concrete en laagdrempelige hulp. Hij staat vol\_heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket, Milieu Centraal, etc.). Handige QR-codes helpen de bewoners verder. De gids kan de komende jaren gebruikt worden als naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging."
+  - image: /uploads/mockup-spread2-website.jpg
+  - image: /uploads/mockup-spread3-website.jpg
+description: 'Deze gids '
 has_request: false
 request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
 request_title: Vraag, gratis en vrijblijvend, een sample gids aan
@@ -29,8 +29,8 @@ De gids gaat verder in op het klaarmaken van de woning voor lage temperatuur ver
 
 [![](/uploads/zie-video-over-gids.png){: width="300" height="90"}](https://vimeo.com/966673833?share=copy "Zie video")<br>
 
-**Kenmerken**<br>\- A5-formaat, ± 40 pagina’s<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 7 weken op maat gemaakt en geleverd<br>\- indien gewenst met NAW-gegevens<br>\- deel 2 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://www.frisseplannen.nl/Productsheet_DeSlimmeWarmtegids.pdf){: target="_blank" rel="noopener"}<br>\- [download Veelgestelde vragen &gt;&gt;](https://www.frisseplannen.nl/FrisseVragenenAntwoorden.pdf){: target="_blank" rel="noopener"}
+**Kenmerken**<br>\- A5-formaat, ± 40 pagina’s<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 7 weken op maat gemaakt en geleverd<br>\- indien gewenst met NAW-gegevens
 
 # &gt; 122.000 huishoudens zijn al geholpen bij het isoleren van hun woning (gids 1). Deze gids helpt bij de volgende stap.
 
-<br><br>**Gemeenten die u voorgingen:**<br>Súdwest-Fryslân (In ontwikkeling: Lelystad en Ooststellingwerf)
+<br><br>**Gemeenten die u voorgingen:**<br>In ontwikkeling: Noordenveld
