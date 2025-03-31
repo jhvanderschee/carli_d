@@ -1,7 +1,7 @@
 ---
 title: De Slimme Isolatiegids
 subtitle: Gemeentegids op maat
-image: /uploads/mockup-voor-website-2.jpg
+image: /uploads/mockup-voor-website2-1.jpg
 vimeo_id:
 images:
   - image: /uploads/isolatiegids-warmtescan.jpg
