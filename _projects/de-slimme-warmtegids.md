@@ -1,7 +1,7 @@
 ---
 title: De Slimme Warmtegids
 subtitle: Gemeentegids op maat
-image: /uploads/mockup-voor-website-1.jpg
+image: /uploads/mockup-voor-website2.jpg
 vimeo_id:
 images:
   - image: /uploads/cover-en-binnenpagina-3.jpg
