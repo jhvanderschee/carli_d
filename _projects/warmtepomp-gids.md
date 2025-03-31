@@ -30,7 +30,7 @@ tags:
   - groene-communicatiemiddelen
 order: 3
 ---
-De gids helpt bewoners bij het kiezen van een geschikte warmtepomp voor de eigen woning, legt uit hoe een warmtepomp werkt, wat de gemeente voor plannen heeft, wat er komt kijken bij de aanleg en geeft advies over hoe het te betalen.
+De gids helpt bewoners bij het kiezen van een geschikte warmtepomp voor de eigen woning, legt uit hoe de verschillende warmtepompen werken, wat de gemeente voor plannen heeft, wat er komt kijken bij de aanleg, wat lage temperatuurverwarming is en geeft advies over hoe het te betalen.
 
 [​​​​​​![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)
 
