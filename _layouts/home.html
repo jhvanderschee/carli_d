@@ -94,15 +94,17 @@ het drukproces en de verspreiding.
         <div>{% for item in site.solutions %}<div class="dot {% if forloop.first %}active{% endif %}" 
                                                   onclick="setCarousel(this, {{ forloop.index0 }})"></div>{% endfor %}</div>
     </div>
-    <div class="slides_container" style="width: {{ site.solutions | size | times: 400 }}px">
-        {% for item in site.solutions %}
-            <div class="slide {{ item.bgcolor }}" style="background: white url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 200px; height: 160px;">
-                <div style="padding-left: {{ item.text_left }}px; padding-right: {{ item.text_right }}px;">
-                    <strong>{{ item.title }}</strong><br />
-                    {{ item.content }}
-                </div>
-            </div>
-        {% endfor %}
+    <div class="container">
+      <div class="slides_container" style="width: {{ site.solutions | size | times: 400 }}px">
+          {% for item in site.solutions %}
+              <div class="slide {{ item.bgcolor }}" style="background: white url({{ item.image }}) {{ item.image_position }} no-repeat; padding-top: 200px; height: 160px;">
+                  <div style="padding-left: {{ item.text_left }}px; padding-right: {{ item.text_right }}px;">
+                      <strong>{{ item.title }}</strong><br />
+                      {{ item.content }}
+                  </div>
+              </div>
+          {% endfor %}
+      </div>
     </div>
 </div>
 
