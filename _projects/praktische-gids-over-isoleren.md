@@ -37,7 +37,7 @@ De gids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Du
 
 \_\_\_\_\_\_\_
 
-### **Reviews:**
+# **Reviews**
 
 *‘De gids is bijzonder compleet. Met enige regelmaat kan ik ‘m tevoorschijn toveren wanneer iemand zegt: weet je wat een goed idee zou zijn? Een informatie-middel waarin dit of dat staat over isoleren. Staat er allemaal in, echt waar!’*<br>**Frederieke Brolsma - Gemeente Nijkerk**
 
