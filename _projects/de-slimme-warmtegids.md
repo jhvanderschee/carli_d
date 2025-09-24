@@ -12,7 +12,6 @@ has_request: false
 request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
 request_title: Vraag, gratis en vrijblijvend, een sample gids aan
 request_cta: Aanvragen
-request_on_top: false
 client_title:
 client:
 client_image: ''
