@@ -19,7 +19,7 @@ tags:
   - motiveren
   - visualiseren
   - groene-communicatiemiddelen
-order: 1
+order: 6
 ---
 Omdat er niet één simpele oplossing is die de hele warmtevraag oplost, is er een combinatie aan technieken nodig. Maar wat past het beste bij Ameland? Ameland onderzoekt momenteel vier mogelijke alternatieven voor aardgas.
 
