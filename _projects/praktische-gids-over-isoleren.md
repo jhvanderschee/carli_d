@@ -33,11 +33,13 @@ De gids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Du
 
 # Bijna 200.000 huishoudens zijn al geholpen bij het isoleren van hun woning
 
-<br>![](/uploads/6-magazine-bij-elkaar-zonder-tekst.jpg){: width="3375" height="1696"}<br><br>**De gemeenten die u voorgingen:**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren, Noordenveld, Leeuwarden, Assen, Moerdijk, Huizen, Veere, Hardenberg, Opsterland, Weststellingwerf, Edam-Volendeam, Dijk en Waard, Noardeast-Fryslân en Medemblik. (Gidsen in ontwikkeling: Tytsjerksteradiel, Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre en Oude IJsselstreek)
+<br>![](/uploads/6-magazine-bij-elkaar-zonder-tekst.jpg){: width="3375" height="1696"}<br><br>**De gemeenten die u voorgingen:**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren, Noordenveld, Leeuwarden, Assen, Moerdijk, Huizen, Veere, Hardenberg, Opsterland, Weststellingwerf, Edam-Volendam, Dijk en Waard, Noardeast-Fryslân en Medemblik. (Gidsen in ontwikkeling: Tytsjerksteradiel, Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre en Oude IJsselstreek)
 
 \_\_\_\_\_\_\_
 
 # **Reviews**
+
+# Reviews
 
 *‘De uitleg in de gids is heel helder en gemakkelijk voor de energiecoach om erbij te hebben als hij bij mensen aan tafel zit. Inwoners vinden het boekje mooi vormgegeven en ook fijn dat er geen reclame in zit. Ze voelen zich serieus genomen en het maakt de stap naar isoleren of iets anders doen om de woning te verduurzamen wat minder eng.’*<br>**Renske Wietsma - Gemeente Leeuwarden**<br><br>*De tijd die we in het ontwikkelen van de gids hebben gestopt, werpt z’n vruchten ontzettend af!!<u> </u>We hebben complimenten ontvangen, aanmeldingen voor vrijwillige energiecoaches en fixmaatregelen en tientallen telefoontjes om de energieverkenners op bezoek te krijgen. Echt geweldig!’<br>***Ayla Grotenboer - Gemeente Opsterland**
 
