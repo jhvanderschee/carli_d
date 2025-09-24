@@ -37,7 +37,7 @@ De gids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Du
 
 &nbsp;\_\_\_\_\_\_\_
 
-# Reviews
+## Reviews
 
 *‘De uitleg in de gids is heel helder en gemakkelijk voor de energiecoach om erbij te hebben als hij bij mensen aan tafel zit. Inwoners vinden het boekje mooi vormgegeven en ook fijn dat er geen reclame in zit. Ze voelen zich serieus genomen en het maakt de stap naar isoleren of iets anders doen om de woning te verduurzamen wat minder eng.’*<br>**Renske Wietsma - Gemeente Leeuwarden**<br><br>*De tijd die we in het ontwikkelen van de gids hebben gestopt, werpt z’n vruchten ontzettend af!! We hebben complimenten ontvangen, aanmeldingen voor vrijwillige energiecoaches en tientallen telefoontjes om de energieverkenners op bezoek te krijgen. Echt geweldig!’<br>***Ayla Grotenboer - Gemeente Opsterland**
 
