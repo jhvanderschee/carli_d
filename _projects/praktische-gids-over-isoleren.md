@@ -35,6 +35,10 @@ De gids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Du
 
 <br>![](/uploads/6-magazine-bij-elkaar-zonder-tekst.jpg){: width="3375" height="1696"}<br><br>**De gemeenten die u voorgingen:**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren, Noordenveld, Leeuwarden, Assen, Moerdijk, Huizen, Veere, Hardenberg, Opsterland, Weststellingwerf, Edam-Volendeam, Dijk en Waard, Noardeast-Fryslân en Medemblik. (Gidsen in ontwikkeling: Tytsjerksteradiel, Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre en Oude IJsselstreek)
 
-**Review<br>**
+#### **Reviews:**
+
+'De gids is bijzonder compleet. Met enige regelmaat kan ik ‘m tevoorschijn toveren wanneer iemand zegt: weet je wat een goed idee zou zijn? Een informatie-middel waarin dit of dat staat over isoleren. Staat er allemaal in, echt waar!'<br>*Frederieke Brolsma - Gemeente Nijkerk***<br>**
+
+&nbsp;
 
 <br>**Vervolg op De Slimme Isolatiegids**<br>Aardgasvrij wonen vraagt om meer dan alleen isoleren. De volgende stap is de woning nog verder klaar maken voor lage temperatuur-verwarming. Deze stap kan gezet worden met de tweede gids; [Lees meer over De Slimme Warmtegids &gt;&gt;](/portfolio/de-slimme-warmtegids/)<br><br>![](/uploads/cover-en-binnenpagina-2.jpg){: width="2716" height="1596"}<br>​<br>*Vraag hieronder een fysieke sample aan van de eerste gids.*
