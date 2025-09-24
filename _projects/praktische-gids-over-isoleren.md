@@ -37,7 +37,9 @@ De gids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Du
 
 #### **Reviews:**
 
-'De gids is bijzonder compleet. Met enige regelmaat kan ik ‘m tevoorschijn toveren wanneer iemand zegt: weet je wat een goed idee zou zijn? Een informatie-middel waarin dit of dat staat over isoleren. Staat er allemaal in, echt waar!'<br>*Frederieke Brolsma - Gemeente Nijkerk***<br>**
+*‘De gids is bijzonder compleet. Met enige regelmaat kan ik ‘m tevoorschijn toveren wanneer iemand zegt: weet je wat een goed idee zou zijn? Een informatie-middel waarin dit of dat staat over isoleren. Staat er allemaal in, echt waar!’*<br>Frederieke Brolsma - Gemeente Nijkerk
+
+*'De uitleg in de gids is heel helder en gemakkelijk voor hem om erbij te hebben als de energiecoach bij mensen aan tafel zit. Inwoners vinden het boekje mooi vormgegeven en ook fijn dat er geen reclame in zit. Ze voelen zich serieus genomen en het maakt de stap naar isoleren of iets anders doen om de woning te verduurzamen wat minder eng.'*<br>Renske <br>
 
 &nbsp;
 
