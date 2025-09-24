@@ -32,4 +32,8 @@ De Slimme Warmtegids staat vol&nbsp;heldere content die overeenkomt met bestaand
 
 # Meer dan 64.000 huishoudens zijn al geholpen bij stap 2 naar een aardgasvrije woning
 
+&nbsp;
+
+{% include sample-aanvraag.html %}
+
 <br><br>**Gemeenten in het bezit van De Slimme Warmtegids :**<br>Súdwest-Fryslân, Ooststellingwerf, Lelystad en Noordenveld.
