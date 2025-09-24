@@ -7,7 +7,7 @@ images:
   - image: /uploads/3-gidsen-bij-elkaar.jpg
   - image: /uploads/mockup-isolatie-vlieland-binnen3.jpg
   - image: /uploads/isolatiegids-vloerisolatie.jpg
-description: "Deze gids ontzorgt de gemeente en ondersteunt energiecoaches. De gids wordt op maat gemaakt (met huisstijl en lokale interviews) en biedt\_concrete en laagdrempelige hulp bij isoleren. \n\nDe gids staat vol\_heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket, Milieu Centraal, etc.). Handige QR-codes helpen de bewoners verder. De gids kan de komende jaren gebruikt worden als naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging."
+description: "Deze gids ontzorgt de gemeente en ondersteunt energiecoaches. De gids wordt op maat gemaakt (met huisstijl en lokale interviews) en biedt\_concrete en laagdrempelige hulp bij isoleren. "
 has_request: true
 request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
 request_title: Vraag, gratis en vrijblijvend, een sample gids aan
@@ -23,13 +23,15 @@ tags:
   - groene-communicatiemiddelen
 order: 1
 ---
+De gids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket, Milieu Centraal, etc.). Handige QR-codes helpen de bewoners verder. De gids kan de komende jaren gebruikt worden als naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging.
+
 [​​​​​​![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)
 
 [![](/uploads/zie-video-over-gids.png){: width="300" height="90"}](https://vimeo.com/845903129?share=copy)
 
 **Kenmerken**<br>\- A5-formaat, ± 40 pagina’s<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 7 weken op maat gemaakt en geleverd<br>\- indien gewenst met NAW-gegevens<br>\- deel 1 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank" rel="noopener"}<br>\- [download Veelgestelde vragen &gt;&gt;](https://www.frisseplannen.nl/FrisseVragenenAntwoorden.pdf){: target="_blank" rel="noopener"}
 
-# &gt; 196.000 huishoudens zijn al geholpen bij het isoleren van hun woning
+# Bijna 200.000 huishoudens zijn al geholpen bij het isoleren van hun woning
 
 <br>![](/uploads/6-magazine-bij-elkaar-zonder-tekst.jpg){: width="3375" height="1696"}<br>**De gemeenten die u voorgingen:**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren, Noordenveld, Leeuwarden, Assen, Moerdijk, Huizen, Veere, Hardenberg, Opsterland, Weststellingwerf, Edam-Volendeam, Dijk en Waard, Noardeast-Fryslân en Medemblik. (Gidsen in ontwikkeling: Tytsjerksteradiel, Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre en Oude IJsselstreek)
 
