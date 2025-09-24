@@ -36,4 +36,4 @@ De Slimme Warmtegids staat vol&nbsp;heldere content die overeenkomt met bestaand
 
 {% include sample-aanvraag.html %}
 
-<br><br>**Gemeenten in het bezit van De Slimme Warmtegids :**<br>Súdwest-Fryslân, Ooststellingwerf, Lelystad en Noordenveld.
+<br><br><br>**Gemeenten in het bezit van De Slimme Warmtegids :**<br>Súdwest-Fryslân, Ooststellingwerf, Lelystad en Noordenveld.
