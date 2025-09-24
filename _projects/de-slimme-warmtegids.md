@@ -29,8 +29,8 @@ De Slimme Warmtegids staat vol&nbsp;heldere content die overeenkomt met bestaand
 
 [![](/uploads/zie-video-over-gids.png){: width="300" height="90"}](https://vimeo.com/966673833?share=copy "Zie video")<br>
 
-**Kenmerken**<br>\- A5-formaat, ± 40 pagina’s<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 7 weken op maat gemaakt en geleverd<br>\- indien gewenst met NAW-gegevens<br>\- deel 2 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://www.frisseplannen.nl/Productsheet_DeSlimmeWarmtegids.pdf){: target="_blank" rel="noopener"}<br>\- [download Veelgestelde vragen &gt;&gt;](https://www.frisseplannen.nl/FrisseVragenenAntwoorden.pdf){: target="_blank" rel="noopener"}
+**Kenmerken**<br>\- A5-formaat, ± 40 pagina’s<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 7 weken op maat gemaakt en geleverd<br>\- indien gewenst met NAW-gegevens<br>\- deel 2 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://www.frisseplannen.nl/Productsheet_DeSlimmeWarmtegids.pdf){: target="_blank" rel="noopener"}<br>\- [download Veelgestelde vragen &gt;&gt;](https://www.frisseplannen.nl/FrisseVragenenAntwoorden.pdf){: target="_blank" rel="noopener"}<br>
 
-# &gt; 64.000 huishoudens zijn al geholpen bij stap 2 naar een aardgasvrije woning
+# Meer dan 64.000 huishoudens zijn al geholpen bij stap 2 naar een aardgasvrije woning
 
 <br><br>**Gemeenten die u voorgingen:**<br>Súdwest-Fryslân, Ooststellingwerf, Lelystad en Noordenveld.
