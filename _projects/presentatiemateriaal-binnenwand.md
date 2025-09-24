@@ -16,9 +16,8 @@ bgcolor: lightgray
 tags:
   - papier
   - valkuilen
-order: '5'
+order: '7'
 ---
-
-Door het materiaal te lasergraveren met het ontwerp, hebben we ervoor gezorgd dat de aandacht niet van het materiaal werd afgeleid. Deze dummy-wand is ondertussen al de hele wereld over geweest. &nbsp;
+Door het materiaal te lasergraveren met het ontwerp, hebben we ervoor gezorgd dat de aandacht niet van het materiaal werd afgeleid. Deze dummy-wand is ondertussen al de hele wereld over geweest.
 
 i.s.m. Open Design Centrum Amsterdam (graveren)
