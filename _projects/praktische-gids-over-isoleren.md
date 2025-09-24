@@ -35,7 +35,7 @@ De gids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Du
 
 <br>![](/uploads/6-magazine-bij-elkaar-zonder-tekst.jpg){: width="3375" height="1696"}<br><br>**De gemeenten die u voorgingen:**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren, Noordenveld, Leeuwarden, Assen, Moerdijk, Huizen, Veere, Hardenberg, Opsterland, Weststellingwerf, Edam-Volendam, Dijk en Waard, Noardeast-Fryslân en Medemblik. (Gidsen in ontwikkeling: Tytsjerksteradiel, Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre en Oude IJsselstreek)
 
-\_\_\_\_\_\_\_
+&nbsp;\_\_\_\_\_\_\_
 
 # Reviews
 
