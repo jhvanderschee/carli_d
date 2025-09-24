@@ -8,11 +8,10 @@ images:
   - image: /uploads/mockup-isolatie-vlieland-binnen3.jpg
   - image: /uploads/isolatiegids-vloerisolatie.jpg
 description: "Deze gids ontzorgt de gemeente en ondersteunt energiecoaches. De gids wordt op maat gemaakt (met huisstijl en lokale interviews) en biedt\_concrete en laagdrempelige hulp bij isoleren. "
-has_request: true
+has_request: false
 request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
 request_title: Vraag, gratis en vrijblijvend, een sample gids aan
 request_cta: Aanvragen
-request_on_top: false
 client_title:
 client:
 client_image: ''
@@ -34,6 +33,8 @@ De gids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Du
 # Bijna 200.000 huishoudens zijn al geholpen bij het isoleren van hun woning
 
 <br>![](/uploads/6-magazine-bij-elkaar-zonder-tekst.jpg){: width="3375" height="1696"}<br><br>**Gemeenten in het bezit van De Slimme Isolatiegids :**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren, Noordenveld, Leeuwarden, Assen, Moerdijk, Huizen, Veere, Hardenberg, Opsterland, Weststellingwerf, Edam-Volendam, Dijk en Waard, Noardeast-Fryslân en Medemblik. (Gidsen in ontwikkeling: Tytsjerksteradiel, Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre en Oude IJsselstreek)
+
+{% include sample-aanvraag.html %}
 
 \_\_\_\_\_\_\_
 

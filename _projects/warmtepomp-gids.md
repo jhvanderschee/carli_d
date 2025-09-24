@@ -15,7 +15,6 @@ has_request: false
 request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
 request_title: Vraag, gratis en vrijblijvend, een sample gids aan
 request_cta: Aanvragen
-request_on_top: false
 client_title:
 client:
 client_image: ''
@@ -26,6 +25,7 @@ tags:
   - groene-communicatiemiddelen
 order: 8
 ---
+
 De gids staat vol heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket, Milieu Centraal). Handige QR-codes helpen de bewoners verder. De gids kan worden voorzien van NAW-gegevens voor huis-aan-huis bezorging. <br><br>De gids helpt bewoners bij het kiezen van een geschikte warmtepomp voor de eigen woning, legt uit hoe de verschillende warmtepompen werken, wat de gemeente voor plannen heeft, wat er komt kijken bij de aanleg, wat lage temperatuurverwarming is en geeft advies over hoe het te betalen.
 
 [​​​​​​![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)

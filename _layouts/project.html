@@ -11,29 +11,6 @@
 
     <div class="small">
 
-        {% if page.request_on_top %}
-        <div class="blogrequest green">
-            <div id="toggleformdiv">
-                {% if page.request_image %}<img src="{{ page.request_image }}" />{% endif %}
-                <p style="font-size: 20px;">{{ page.request_title }}</p>
-                <a class="button large" onclick="formToggle();" >{{ page.request_cta }}</a>
-            </div>
-            <form method="post" action="https://formbucket.com/f/buk_pO7R8FbRJeG9Lmlc8LNsu2ED" id="toggleform" target="_top">
-                <div style="font-size: 20px;">Aanvragen sample gids.</div>
-                <input type="hidden" name="_next" value="{{ site.url }}/bedankt/"/>
-                <input type="text" name="name" placeholder="Naam" required>
-                <input type="text" name="email" placeholder="E-mailadres" required>
-                <input type="text" name="phone" placeholder="Telefoonnummer (optioneel)">
-                <input type="text" name="company" placeholder="Bedrijfsnaam/gemeente" required>
-                <input type="text" name="address" placeholder="Straatnaam + huisnummer" required>
-                <input type="text" name="postalcode" placeholder="Postcode + plaatsnaam" required>
-                <input type="hidden" name="_subject" value="{{ page.title }}">
-                <input type="text" name="_gotcha" style="display: none;">
-                <input type="submit" value="Aanvragen" class="button large">
-            </form>
-        </div>
-        {% endif %}
-
         <p><strong>{{ page.description }}</strong></p>
 
         {{ content }}
@@ -43,28 +20,9 @@
 
         {% if page.client_image %}<img src="{{ page.client_image }}" />{% endif %}
 
-        {% if page.has_request and page.request_on_top != true %}
+        {% if page.has_request %}
         {% if page.client_image %}<br><br><br>{% endif %}
-        <div class="blogrequest green">
-            <div id="toggleformdiv">
-                {% if page.request_image %}<img src="{{ page.request_image }}" />{% endif %}
-                <p style="font-size: 20px;">{{ page.request_title }}</p>
-                <a class="button large" onclick="formToggle();" >{{ page.request_cta }}</a>
-            </div>
-            <form method="post" action="https://formbucket.com/f/buk_pO7R8FbRJeG9Lmlc8LNsu2ED" id="toggleform" target="_top">
-                <div style="font-size: 20px;">Aanvragen sample gids.</div>
-                <input type="hidden" name="_next" value="{{ site.url }}/bedankt/"/>
-                <input type="text" name="name" placeholder="Naam" required>
-                <input type="text" name="email" placeholder="E-mailadres" required>
-                <input type="text" name="phone" placeholder="Telefoonnummer (optioneel)">
-                <input type="text" name="company" placeholder="Bedrijfsnaam/gemeente" required>
-                <input type="text" name="address" placeholder="Straatnaam + huisnummer" required>
-                <input type="text" name="postalcode" placeholder="Postcode + plaatsnaam" required>
-                <input type="hidden" name="_subject" value="{{ page.title }}">
-                <input type="text" name="_gotcha" style="display: none;">
-                <input type="submit" value="Aanvragen" class="button large">
-            </form>
-        </div>
+        {% include sample-aanvraag.html %}
         {% endif %}
     </div>
 </div>
