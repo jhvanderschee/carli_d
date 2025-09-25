@@ -22,7 +22,7 @@ tags:
   - groene-communicatiemiddelen
 order: 1
 ---
-De gids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket en Milieu Centraal). Handige QR-codes helpen de bewoners verder. De gids kan de komende jaren gebruikt worden als naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging.<br><br>Naar wens zijn er uiteraard extra onderwerpen toe te voegen (of onderwerpen te schrappen).
+De Slimme Isolatiegids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket en Milieu Centraal). Handige QR-codes helpen de bewoners verder. De gids kan de komende jaren gebruikt worden als naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging.<br><br>Naar wens zijn er uiteraard extra onderwerpen toe te voegen (of onderwerpen te schrappen).
 
 [​​​​​​![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)
 
@@ -32,11 +32,13 @@ De gids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Du
 
 # Bijna 200.000 huishoudens zijn al geholpen bij het isoleren van hun woning
 
-<br>![](/uploads/6-magazine-bij-elkaar-zonder-tekst.jpg){: width="3375" height="1696"}<br><br>**Gemeenten in het bezit van De Slimme Isolatiegids :**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren, Noordenveld, Leeuwarden, Assen, Moerdijk, Huizen, Veere, Hardenberg, Opsterland, Weststellingwerf, Edam-Volendam, Dijk en Waard, Noardeast-Fryslân en Medemblik. (Gidsen in ontwikkeling: Tytsjerksteradiel, Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre en Oude IJsselstreek)
+<br>![](/uploads/6-magazine-bij-elkaar-zonder-tekst.jpg){: width="3375" height="1696"}<br><br>**Gemeenten in het bezit van De Slimme Isolatiegids :**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren, Noordenveld, Leeuwarden, Assen, Moerdijk, Huizen, Veere, Hardenberg, Opsterland, Weststellingwerf, Edam-Volendam, Dijk en Waard, Noardeast-Fryslân en Medemblik. (Gidsen in ontwikkeling: Tytsjerksteradiel, Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre en Oude IJsselstreek)<br>
 
 {% include sample-aanvraag.html %}
 
-\_\_\_\_\_\_\_
+&nbsp;
+
+<br>\_\_\_\_\_\_\_
 
 # Reviews
 
@@ -44,4 +46,4 @@ De gids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Du
 
 *‘De gids is bijzonder compleet. Met enige regelmaat kan ik ‘m tevoorschijn toveren wanneer iemand zegt: ‘*Weet je wat een goed idee zou zijn? Een informatie-middel waarin dit of dat staat over isoleren.’ *Staat er allemaal in, echt waar!’*<br>**Frederieke Brolsma - Gemeente Nijkerk**
 
-\_\_\_\_\_\_\_<br><br>**Vervolg op De Slimme Isolatiegids**<br>Aardgasvrij wonen vraagt om meer dan alleen isoleren. De volgende stap is de woning nog verder klaar maken voor lage temperatuur-verwarming. Deze stap kan gezet worden met de tweede gids; [Lees meer over De Slimme Warmtegids &gt;&gt;](/portfolio/de-slimme-warmtegids/)<br><br>![](/uploads/cover-en-binnenpagina-2.jpg){: width="2716" height="1596"}<br><br>​\_\_\_\_\_\_\_<br><br>*Vraag hieronder een fysieke sample aan van de eerste gids.*
+\_\_\_\_\_\_\_<br><br>**Vervolg op De Slimme Isolatiegids**<br>Aardgasvrij wonen vraagt om meer dan alleen isoleren. De volgende stap is de woning nog verder klaar maken voor lage temperatuur-verwarming en meer uitleg over duurzame warmtebronnen. Deze stap kan gezet worden met de tweede gids; [Lees meer over De Slimme Warmtegids &gt;&gt;](/portfolio/de-slimme-warmtegids/)<br><br>![](/uploads/cover-en-binnenpagina-2.jpg){: width="2716" height="1596"}<br>
