@@ -1,7 +1,7 @@
 ---
-title: De Slimme Warmtegids
+title: Met eigen huisstijl en lokale interviews
 subtitle: Gemeentegids op maat
-image: /uploads/mockup-voor-website2-3.jpg
+image: /uploads/wisselende-cover-dsw.gif
 vimeo_id:
 images:
   - image: /uploads/cover-en-binnenpagina-3.jpg
