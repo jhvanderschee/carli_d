@@ -1,7 +1,7 @@
 ---
 title: Met eigen huisstijl en lokale interviews
 subtitle: Gemeentegids op maat
-image: /uploads/wisselende-cover-1.gif
+image: /uploads/wisselende-cover-2.gif
 vimeo_id:
 images:
   - image: /uploads/3-gidsen-bij-elkaar.jpg
