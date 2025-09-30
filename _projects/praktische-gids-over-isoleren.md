@@ -7,7 +7,7 @@ images:
   - image: /uploads/3-gidsen-bij-elkaar.jpg
   - image: /uploads/mockup-isolatie-vlieland-binnen3.jpg
   - image: /uploads/isolatiegids-vloerisolatie.jpg
-description: "Deze gids ontzorgt de gemeente en ondersteunt energiecoaches. De gids wordt op maat gemaakt (met huisstijl en lokale interviews) en biedt\_concrete en laagdrempelige hulp bij isoleren. "
+description: "Deze op maat gemaakte gids ontzorgt de gemeente en ondersteunt energiecoaches. De gids bevat de eigen huisstijl en lokale interviews en biedt\_concrete en laagdrempelige hulp bij isoleren. "
 has_request: false
 request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
 request_title: Vraag, gratis en vrijblijvend, een sample gids aan
