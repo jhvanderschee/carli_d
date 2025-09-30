@@ -1,5 +1,5 @@
 ---
-title: De Slimme Isolatiegids
+title: met eigen huisstijl en lokale interviews
 subtitle: Gemeentegids op maat
 image: /uploads/mockup-voor-website2-1.jpg
 vimeo_id:
