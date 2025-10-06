@@ -32,17 +32,17 @@ De Slimme Isolatiegids is op maat gemaakt met de huisstijl van de gemeente en lo
 
 [​​​​​​![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)
 
-[![](/uploads/zie-video-over-gids.png){: width="300" height="90"}](https://vimeo.com/845903129?share=copy)
+{% include sample-aanvraag.html %}
 
 **Kenmerken**<br>\- A5-formaat, ± 40 pagina’s<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 7 weken op maat gemaakt en geleverd<br>\- indien gewenst met NAW-gegevens<br>\- deel 1 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://bit.ly/productsheetDSI){: target="_blank" rel="noopener"}<br>\- [download Veelgestelde vragen &gt;&gt;](https://www.frisseplannen.nl/FrisseVragenenAntwoorden.pdf){: target="_blank" rel="noopener"}<br>
 
 # Bijna 200.000 huishoudens zijn al geholpen bij het isoleren van hun woning
 
-<br>![](/uploads/6-magazine-bij-elkaar-zonder-tekst.jpg){: width="3375" height="1696"}<br><br>**Gemeenten in het bezit van De Slimme Isolatiegids :**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren, Noordenveld, Leeuwarden, Assen, Moerdijk, Huizen, Veere, Hardenberg, Opsterland, Weststellingwerf, Edam-Volendam, Dijk en Waard, Noardeast-Fryslân en Medemblik. (Gidsen in ontwikkeling: Tytsjerksteradiel, Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre en Oude IJsselstreek)<br>
-
-{% include sample-aanvraag.html %}
-
 &nbsp;
+
+[![](/uploads/zie-video-over-gids.png){: width="300" height="90"}](https://vimeo.com/845903129?share=copy)
+
+<br>![](/uploads/6-magazine-bij-elkaar-zonder-tekst.jpg){: width="3375" height="1696"}<br><br>**Gemeenten in het bezit van De Slimme Isolatiegids :**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren, Noordenveld, Leeuwarden, Assen, Moerdijk, Huizen, Veere, Hardenberg, Opsterland, Weststellingwerf, Edam-Volendam, Dijk en Waard, Noardeast-Fryslân en Medemblik. (Gidsen in ontwikkeling: Tytsjerksteradiel, Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre en Oude IJsselstreek)<br>&nbsp;
 
 <br>\_\_\_\_\_\_\_
 
