@@ -7,7 +7,12 @@ images:
   - image: /uploads/cover-en-binnenpagina-3.jpg
   - image: /uploads/mockup-binnenpagina-beslisboom.jpg
   - image: /uploads/mockup-binnenpagina-hybride.jpg
-description: "Deze gids is een vervolg op De Slimme Isolatiegids en ontzorgt de gemeente en ondersteunt energiecoaches. De gids wordt op maakt gemaakt (met huisstijl en lokale interviews) en biedt\_concrete en laagdrempelige hulp. "
+description: >-
+  Met de warmtegids helpt u als gemeente inwoners wegwijs te maken in de
+  volgende stap na isolatie: duurzame warmte. De gids geeft heldere uitleg over
+  oplossingen zoals warmtepompen, warmtenetten en hybride systemen, en maakt
+  inzichtelijk welke keuzes passen bij verschillende typen woningen en
+  situaties. 
 has_request: false
 request_image: /uploads/mockup-cover-vrijstaand-zonder-handen.png
 request_title: Vraag, gratis en vrijblijvend, een sample gids aan
@@ -22,7 +27,9 @@ tags:
   - groene-communicatiemiddelen
 order: 3
 ---
-De Slimme Warmtegids staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket en Milieu Centraal). Handige QR-codes helpen de bewoners verder. De gids kan de komende jaren gebruikt worden als naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging.<br><br>De gids gaat verder in op het klaarmaken van de woning voor lage temperatuur verwarming, legt uit hoe verschillende warmtepompen werken, welke warmtepomp het beste bij de woning past en hoe een warmtenet in elkaar zit. Wat te doen met een kapotte cv en waarom we eigenlijk overstappen naar duurzame bronnen. Naar wens zijn er uiteraard extra onderwerpen toe te voegen (of onderwerpen te schrappen).
+Daarmee ondersteunt u inwoners bij het maken van toekomstbestendige beslissingen, sluit u aan bij de Transitievisie Warmte en versnelt u de overstap naar aardgasvrij wonen. De warmtegids draagt zo bij aan haalbare en betaalbare verduurzaming, vergroot het vertrouwen van inwoners en versterkt het draagvlak voor de energietransitie in uw gemeente.
+
+De Slimme Warmtegids is op maat gemaakt met de huisstijl van de gemeente en lokale interviews en staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket en Milieu Centraal). Handige QR-codes helpen de bewoners verder. De gids kan de komende jaren gebruikt worden als naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging.<br><br>Naar wens zijn er uiteraard extra onderwerpen toe te voegen (of onderwerpen te schrappen).
 
 [​​​​​​![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)
 
