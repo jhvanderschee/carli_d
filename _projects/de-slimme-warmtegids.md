@@ -1,5 +1,5 @@
 ---
-title: Met eigen huisstijl en lokale interviews
+title: Warmtegids met eigen huisstijl en lokale interviews
 subtitle: Gemeentegids op maat
 image: /uploads/wisselende-cover-dsw.gif
 vimeo_id:
