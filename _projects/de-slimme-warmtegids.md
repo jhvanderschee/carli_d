@@ -33,12 +33,14 @@ De Slimme Warmtegids is op maat gemaakt met de huisstijl van de gemeente en loka
 
 [​​​​​​![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)
 
-[![](/uploads/zie-video-over-gids.png){: width="300" height="90"}](https://vimeo.com/966673833?share=copy "Zie video")<br>
+&nbsp;
 
-**Kenmerken**<br>\- A5-formaat, ± 40 pagina’s<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 7 weken op maat gemaakt en geleverd<br>\- indien gewenst met NAW-gegevens<br>\- deel 2 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://www.frisseplannen.nl/Productsheet_DeSlimmeWarmtegids.pdf){: target="_blank" rel="noopener"}<br>\- [download Veelgestelde vragen &gt;&gt;](https://www.frisseplannen.nl/FrisseVragenenAntwoorden.pdf){: target="_blank" rel="noopener"}<br><br>
+{% include sample-aanvraag.html %}
+
+&nbsp;
+
+**Kenmerken van de gids**<br>\- A5-formaat, ± 40 pagina’s<br>\- [milieuvriendelijk geproduceerd&nbsp;](https://frisseplannen.nl/blogs/certificeringen/)<br>\- binnen 7 weken op maat gemaakt en geleverd<br>\- indien gewenst met NAW-gegevens<br>\- deel 2 van 3 op weg naar aardgasvrij<br>\- [download Productsheet &gt;&gt;](https://www.frisseplannen.nl/Productsheet_DeSlimmeWarmtegids.pdf){: target="_blank" rel="noopener"}<br>\- [download Veelgestelde vragen &gt;&gt;](https://www.frisseplannen.nl/FrisseVragenenAntwoorden.pdf){: target="_blank" rel="noopener"}<br><br>
 
 # Meer dan 64.000 huishoudens zijn al geholpen bij stap 2 naar een aardgasvrije woning
 
-**<br><br>Gemeenten in het bezit van De Slimme Warmtegids :**<br>Súdwest-Fryslân, Ooststellingwerf, Lelystad en Noordenveld.&nbsp;<br><br>
-
-{% include sample-aanvraag.html %}
+[![](/uploads/zie-video-over-gids.png){: width="300" height="90"}](https://vimeo.com/966673833?share=copy "Zie video")**<br><br>Gemeenten in het bezit van De Slimme Warmtegids :**<br>Súdwest-Fryslân, Ooststellingwerf, Lelystad en Noordenveld.&nbsp;<br><br>
