@@ -28,7 +28,7 @@ order: 1
 ---
 De gemeente voldoet ermee aan de informatie- en ontzorgingsplicht richting bewoners, vergroot de kans dat subsidies effectief worden benut en draagt bij aan de aanpak van energiearmoede. Bovendien versterkt de gids de participatie en het draagvlak onder inwoners, zodat de energietransitie niet alleen haalbaar maar ook breed gedragen wordt.
 
-De Slimme Isolatiegids is op maat gemaakt met de huisstijl van de gemeente en lokale interviews en staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket en Milieu Centraal). Handige QR-codes helpen de bewoners verder. De gids kan de komende jaren gebruikt worden als naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging.<br><br>Naar wens zijn er uiteraard extra onderwerpen toe te voegen (of onderwerpen te schrappen).
+De Slimme Isolatiegids is op maat gemaakt met de **huisstijl** van de gemeente en **lokale interviews** en staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket en Milieu Centraal). Handige QR-codes helpen de bewoners verder. De gids kan de komende jaren gebruikt worden als naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging.<br><br>Naar wens zijn er uiteraard extra onderwerpen toe te voegen (of onderwerpen te schrappen).
 
 [​​​​​​![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)
 
