@@ -1,5 +1,5 @@
 ---
-title: Met eigen huisstijl en lokale interviews
+title: Isolatiegids met eigen huisstijl en lokale interviews
 subtitle: Gemeentegids op maat
 image: /uploads/wisselende-cover-3.gif
 vimeo_id:
