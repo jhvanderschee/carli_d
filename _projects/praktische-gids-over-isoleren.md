@@ -42,9 +42,7 @@ De Slimme Isolatiegids is op maat gemaakt met de huisstijl van de gemeente en lo
 
 &nbsp;<br>![](/uploads/6-magazine-bij-elkaar-zonder-tekst.jpg){: width="3375" height="1696"}
 
-[![](/uploads/zie-video-over-gids.png){: width="300" height="90"}](https://vimeo.com/845903129?share=copy)<br><br>**Gemeenten in het bezit van De Slimme Isolatiegids :**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren, Noordenveld, Leeuwarden, Assen, Moerdijk, Huizen, Veere, Hardenberg, Opsterland, Weststellingwerf, Edam-Volendam, Dijk en Waard, Noardeast-Fryslân en Medemblik. (Gidsen in ontwikkeling: Tytsjerksteradiel, Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre en Oude IJsselstreek)<br>&nbsp;
-
-<br>\_\_\_\_\_\_\_
+[![](/uploads/zie-video-over-gids.png){: width="300" height="90"}](https://vimeo.com/845903129?share=copy)<br><br>**Gemeenten in het bezit van De Slimme Isolatiegids :**<br>Ameland, Vlieland, Schiermonnikoog, Terschelling, Tynaarlo, Ooststellingwerf, Súdwest-Fryslân, Heerenveen, Nijkerk, Gooise Meren, Noordenveld, Leeuwarden, Assen, Moerdijk, Huizen, Veere, Hardenberg, Opsterland, Weststellingwerf, Edam-Volendam, Dijk en Waard, Noardeast-Fryslân en Medemblik. (Gidsen in ontwikkeling: Tytsjerksteradiel, Aalten, Berkelland, Bronckhorst, Doetinchem, Montferland, Oost Gelre en Oude IJsselstreek)<br>&nbsp;<br>\_\_\_\_\_\_\_
 
 # Reviews
 
@@ -52,4 +50,6 @@ De Slimme Isolatiegids is op maat gemaakt met de huisstijl van de gemeente en lo
 
 *‘De gids is bijzonder compleet. Met enige regelmaat kan ik ‘m tevoorschijn toveren wanneer iemand zegt: ‘*Weet je wat een goed idee zou zijn? Een informatie-middel waarin dit of dat staat over isoleren.’ *Staat er allemaal in, echt waar!’*<br>**Frederieke Brolsma - Gemeente Nijkerk**
 
-\_\_\_\_\_\_\_<br><br>**Vervolg op De Slimme Isolatiegids**<br>Aardgasvrij wonen vraagt om meer dan alleen isoleren. De volgende stap is de woning nog verder klaar maken voor lage temperatuur-verwarming en meer uitleg over duurzame warmtebronnen. Deze stap kan gezet worden met de tweede gids; [Lees meer over De Slimme Warmtegids &gt;&gt;](/portfolio/de-slimme-warmtegids/)<br><br>![](/uploads/cover-en-binnenpagina-2.jpg){: width="2716" height="1596"}<br>
+# \_\_\_\_\_\_\_<br><br>**Vervolg op De Slimme Isolatiegids**
+
+Aardgasvrij wonen vraagt om meer dan alleen isoleren. De volgende stap is de woning nog verder klaar maken voor lage temperatuur-verwarming en meer uitleg over duurzame warmtebronnen. Deze stap kan gezet worden met de tweede gids; [Lees meer over De Slimme Warmtegids &gt;&gt;](/portfolio/de-slimme-warmtegids/)<br><br>![](/uploads/cover-en-binnenpagina-2.jpg){: width="2716" height="1596"}<br>
