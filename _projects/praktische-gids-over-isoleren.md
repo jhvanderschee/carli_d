@@ -30,7 +30,7 @@ De gemeente sluit hiermee mooi aan op de informatie- en ontzorgingsplicht richti
 
 De Slimme Isolatiegids is op maat gemaakt met de **huisstijl** van de gemeente en **lokale interviews** en staat vol&nbsp;heldere content die overeenkomt met bestaande kanalen (Duurzaam Bouwloket en Milieu Centraal). Handige QR-codes helpen de bewoners verder. De gids kan de komende jaren gebruikt worden als naslagwerk. En worden voorzien van NAW-gegevens voor huis-aan-huis bezorging.<br><br>Naar wens zijn er uiteraard extra onderwerpen toe te voegen (of onderwerpen te schrappen).
 
-[​​​​​​![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen)
+[​​​​​​![](/uploads/knoppen-32-3.svg){: width="300" height="56"}](https://calendly.com/frisseplannen/kennismaking-en-vragen){: target="_blank" rel="noopener"}
 
 {% include sample-aanvraag.html %}
 
